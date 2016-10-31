@@ -16,7 +16,7 @@ Category=value feature pairs: 43
 * The tokenization of compound nouns and of some multiword expressions has few disagreements regarding UD.
 * The dependency labels need to be reviewed by another expert to calculate inter-annotator agreement.
 
-### References:
+### References
 * Garcia, Marcos, 2016. *Universal Dependencies Guidelines for the Galician-TreeGal Treebank.* Technical Report. LyS Group, Universidade da Coruña.
 
 --- Machine readable metadata ---
@@ -27,4 +27,3 @@ License: LGPLLR
 Genre: news
 Contributors: Garcia, Marcos
 Contact: marcos.garcia.gonzalez@udc.gal
-
