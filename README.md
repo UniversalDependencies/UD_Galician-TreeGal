@@ -20,10 +20,10 @@ Category=value feature pairs: 43
 * Garcia, Marcos, 2016. *Universal Dependencies Guidelines for the Galician-TreeGal Treebank.* Technical Report. LyS Group, Universidade da Coruña.
 
 --- Machine readable metadata ---
-Documentation status: partial
-Data source: manual
-Data available since: UD v1.4
-License: LGPLLR
-Genre: news
-Contributors: Garcia, Marcos
+Documentation status: partial  
+Data source: manual  
+Data available since: UD v1.4  
+License: LGPLLR  
+Genre: news  
+Contributors: Garcia, Marcos  
 Contact: marcos.garcia.gonzalez@udc.gal
