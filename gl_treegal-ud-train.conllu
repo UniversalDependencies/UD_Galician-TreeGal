@@ -87,7 +87,6 @@
 84	"	"	PUNCT	Q"	_	16	punct	_	_
 85	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 10
 # text = liberdade , xustiza , benestar
 1	liberdade	liberdade	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
@@ -95,7 +94,6 @@
 3	xustiza	xustiza	NOUN	Scfs	Gender=Fem|Number=Sing	1	conj	_	_
 4	,	,	PUNCT	Q,	_	5	punct	_	_
 5	benestar	benestar	NOUN	Scms	Gender=Masc|Number=Sing	1	conj	_	_
-
 
 # sent_id = 18
 # text = a competencia sobre a fixación de a variedade estándar de a lingua galega corresponderá lle a a Real_Academia_da_Lingua_Galega .
@@ -124,12 +122,10 @@
 22	Galega	galega	PROPN	Spfs	Gender=Fem|Number=Sing	18	flat:name	_	_
 23	.	.	PUNCT	Q.	_	14	punct	_	_
 
-
 # sent_id = 20
 # text = cidadanía galega
 1	cidadanía	cidadanía	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
 2	galega	galego	ADJ	A0fs	Gender=Fem|Number=Sing	1	amod	_	_
-
 
 # sent_id = 28
 # text = outro de os dereitos sustentados é o de dar acceso a un " ambiente saudábel e a a protección de a paisaxe en o marco de un desenvolvemento sustentábel " .
@@ -165,7 +161,6 @@
 30	"	"	PUNCT	Q"	_	14	punct	_	_
 31	.	.	PUNCT	Q.	_	9	punct	_	_
 
-
 # sent_id = 30
 # text = o novo xornal gratuito Qué! ( 25 de febreiro ) dedica a súa portada a a longa duración de a xornada de traballo .
 1	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
@@ -193,7 +188,6 @@
 23	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	21	nmod	_	_
 24	.	.	PUNCT	Q.	_	11	punct	_	_
 
-
 # sent_id = 38
 # text = en Francia traballa se dúas horas menos a o día .
 1	en	en	ADP	P	AdpType=Prep	2	case	_	_
@@ -208,7 +202,6 @@
 10	día	día	NOUN	Scms	Gender=Masc|Number=Sing	3	obl	_	_
 11	.	.	PUNCT	Q.	_	3	punct	_	_
 
-
 # sent_id = 40
 # text = só dedican máis tempo en Os_Estados_Unidos .
 1	só	só	ADV	Wn	_	2	advmod	_	_
@@ -221,7 +214,6 @@
 7	Estados	estados	PROPN	Sp00	_	6	flat:name	_	_
 8	Unidos	unidos	PROPN	Sp00	_	6	flat:name	_	_
 9	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 48
 # text = a nosa editorial , usando a intermediación de algúns escritores cubanos que o coñecían e que viaxaban a Londres por diferentes motivos , fixo varios intentos por lograr a súa aprobación para publicar títulos representativos dentro_de a súa obra , como Tres_tristes_tigres e A_Habana_para_un_infante_difunto .
@@ -282,7 +274,6 @@
 52	difunto	difunto	PROPN	Sp00	_	47	flat:name	_	_
 53	.	.	PUNCT	Q.	_	42	punct	_	_
 
-
 # sent_id = 50
 # text = Walesa critica unha emisora católica
 1	Walesa	Walesa	PROPN	Sp00	_	2	nsubj	_	_
@@ -290,7 +281,6 @@
 3	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	emisora	emisora	NOUN	Scfs	Gender=Fem|Number=Sing	2	obj	_	_
 5	católica	católico	ADJ	A0fs	Gender=Fem|Number=Sing	4	amod	_	_
-
 
 # sent_id = 58
 # text = un índice de a incultura de este país poden ser as manifestacións que acostuman facer moitos licenciados e profesores :
@@ -314,7 +304,6 @@
 18	e	e	CCONJ	Cc	_	19	cc	_	_
 19	profesores	profesor	NOUN	Scmp	Gender=Masc|Number=Plur	17	conj	_	_
 20	:	:	PUNCT	Q:	_	2	punct	_	_
-
 
 # sent_id = 60
 # text = e bárbaros de eses _ Atlántico_Diario , 27 febreiro último _ teñen a posibilidade de predicar a súa ignorancia e transmitir lles a os demais a súa incultura .
@@ -350,7 +339,6 @@
 29	incultura	incultura	NOUN	Scfs	Gender=Fem|Number=Sing	22	obj	_	_
 30	.	.	PUNCT	Q.	_	13	punct	_	_
 
-
 # sent_id = 68
 # text = porque dá a impresión de que o bo de o profesor vive en unha nube alleo a o mundo de a intelixencia media e de a cultura máis elemental .
 1	porque	porque	SCONJ	Cs	_	2	mark	_	_
@@ -383,7 +371,6 @@
 28	máis	máis	ADV	Wm	_	29	advmod	_	_
 29	elemental	elemental	ADJ	A0fs	Gender=Fem|Number=Sing	27	amod	_	_
 30	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 70
 # text = ou_sexa , que os fusilamentos de o 2 de maio debidos a Goya xa non teñen encaixe en a nosa sociedade , e o seu españolismo , más_ben o seu madrileñismo , escluiría a universalidade , por lo que Goya empobrecería o mundo .
@@ -436,7 +423,6 @@
 45	mundo	mundo	NOUN	Scms	Gender=Masc|Number=Sing	43	obj	_	_
 46	.	.	PUNCT	Q.	_	43	punct	_	_
 
-
 # sent_id = 78
 # text = demandan que BNG e PSOE fagan críbel unha alternativa a Fraga
 1	demandan	demandar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -450,7 +436,6 @@
 9	alternativa	alternativa	NOUN	Scfs	Gender=Fem|Number=Sing	7	obj	_	_
 10	a	a	ADP	P	AdpType=Prep	11	case	_	_
 11	Fraga	Fraga	PROPN	Sp00	_	9	nmod	_	_
-
 
 # sent_id = 80
 # text = o optimismo semella desatar se en as fileiras socialistas e nacionalistas , pero cada vez máis voces internas de unha e de outra formación demandan que fagan visíbel esa alternativa para non frustrar as expectativas .
@@ -490,7 +475,6 @@
 34	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	35	det	_	_
 35	expectativas	expectativa	NOUN	Scfp	Gender=Fem|Number=Plur	33	obj	_	_
 36	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 88
 # text = o candidato nacionalista aínda vai máis alá e considera que só el garante un " verdadeiro cambio " , un " cambio con respecto porque os galegos non se conforman con un cambio para facer unha segunda reconversión naval ou para deixar a factoría de Ence en Pontevedra " .
@@ -545,7 +529,6 @@
 49	"	"	PUNCT	Q"	_	5	punct	_	_
 50	.	.	PUNCT	Q.	_	5	punct	_	_
 
-
 # sent_id = 90
 # text = loxicamente , non só é lexítimo , senón de pór o sombreiro en a cabeza , que un e outro aspiren a lograr unha maioría suficiente para formar goberno en solitario , pero moi improbábel .
 1	loxicamente	loxicamente	ADV	Wn	_	6	advmod	_	_
@@ -584,7 +567,6 @@
 34	moi	moito	ADV	Wm	_	35	advmod	_	_
 35	improbábel	improbábel	ADJ	A0ms	Gender=Masc|Number=Sing	6	conj	_	_
 36	.	.	PUNCT	Q.	_	6	punct	_	_
-
 
 # sent_id = 98
 # text = de o mesmo parecer é o alcalde socialista de Compostela , Xosé_Bugallo , que vén facendo diversos chamamentos a ambos os partidos para que mostren publicamente unha sintonía que lle faga comprender a a cidadanía que " é posíbel unha alternativa " .
@@ -634,7 +616,6 @@
 43	"	"	PUNCT	Q"	_	40	punct	_	_
 44	.	.	PUNCT	Q.	_	4	punct	_	_
 
-
 # sent_id = 100
 # text = o PP vai basear parte de a súa campaña electoral en as diferenzas entre socialistas e nacionalistas e en a incapacidade para ter un proxecto común .
 1	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -665,7 +646,6 @@
 26	común	común	ADJ	A0ms	Gender=Masc|Number=Sing	25	amod	_	_
 27	.	.	PUNCT	Q.	_	4	punct	_	_
 
-
 # sent_id = 108
 # text = que o PP rache despois de as eleccións e o PSOE puidese chegar a un acordo con o sector autóctono de a dereita .
 1	que	que	SCONJ	Cs	_	4	mark	_	_
@@ -692,7 +672,6 @@
 22	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	dereita	dereita	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	_
 24	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 110
 # text = outros socialistas van máis alá e consideran que os escindidos de o PP lles poderían chegar para formar goberno sen ter que contar con o BNG .
@@ -723,7 +702,6 @@
 25	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	23	obl	_	_
 27	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 118
 # text = a o día seguinte de esta reunión , Xosé_Manuel_Beiras concedía lle unha entrevista a o Faro_de_Vigo ( publicada o 27 de febreiro ) en a que non só demandaba o primeiro posto de a candidatura coruñesa a as eleccións autonómicas , senón_que suxería que excluír lo era o mesmo que pór en entredito a pluralidade interna de o BNG .
@@ -796,7 +774,6 @@
 64	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	60	nmod	_	_
 65	.	.	PUNCT	Q.	_	56	punct	_	_
 
-
 # sent_id = 120
 # text = Anxo_Quintana , que xa lle comunicara a Beiras a súa intención de ocupar o numero un de a lista por La_Coruña , considera que " hai unha tradición non escrita , que todo candidato a a Xunta exerceu cando puido , que é a de encabezar a lista por La_Coruña " .
 1-2	Anxo_Quintana	_	_	_	_	_	_	_	_
@@ -858,7 +835,6 @@
 54	"	"	PUNCT	Q"	_	28	punct	_	_
 55	.	.	PUNCT	Q.	_	25	punct	_	_
 
-
 # sent_id = 128
 # text = Miguel_Barros venceu a Carlos_Príncipe e foi elixido secretario comarcal de Vigo , a principal bisbarra de o PSdeG-PSOE .
 1-2	Miguel_Barros	_	_	_	_	_	_	_	_
@@ -884,7 +860,6 @@
 19	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	PSdeG-PSOE	PSdeG-PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	17	nmod	_	_
 21	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 130
 # text = a Emilio_Pérez_Touriño non lle quedaba outro remedio que apoiar esta vez a Miguel_Barros fronte_a Carlos_Príncipe se non quería que o ex alcalde controlase a provincia de Pontevedra , a de máis peso partidario , e ameazase o seu liderado en o próximo congreso galego , que é a o que aspira o ex alcalde vigués .
@@ -954,7 +929,6 @@
 60	vigués	vigués	ADJ	A0ms	Gender=Masc|Number=Sing	59	amod	_	_
 61	.	.	PUNCT	Q.	_	56	punct	_	_
 
-
 # sent_id = 138
 # text = en o BNG tamén pensan que sería máis fácil entender se con el .
 1	en	en	ADP	P	AdpType=Prep	3	case	_	_
@@ -971,7 +945,6 @@
 12	con	con	ADP	P	AdpType=Prep	13	case	_	_
 13	el	el	PRON	Rtp3ms	Gender=Masc|Number=Sing|Person=3	10	obl	_	_
 14	.	.	PUNCT	Q.	_	5	punct	_	_
-
 
 # sent_id = 140
 # text = pero Carlos_Príncipe , de xeito interposto , segue comandando a asemblea local de Vigo , que fora disolta para apartar lo como candidato a as municipais últimas .
@@ -1005,7 +978,6 @@
 27	municipais	municipal	NOUN	A0fp	Gender=Fem|Number=Plur	24	nmod	_	_
 28	últimas	último	ADJ	A0fp	Gender=Fem|Number=Plur	27	amod	_	_
 29	.	.	PUNCT	Q.	_	21	punct	_	_
-
 
 # sent_id = 148
 # text = a o acto , en o que tamén intervirán Fernando_González_Laxe e Ceferino_Díaz , teñen confirmada a asistencia máis de 400 socialistas de toda Galiza , por lo que terá un claro carácter político .
@@ -1049,7 +1021,6 @@
 36	político	político	ADJ	A0ms	Gender=Masc|Number=Sing	35	amod	_	_
 37	.	.	PUNCT	Q.	_	32	punct	_	_
 
-
 # sent_id = 150
 # text = diálogo a_través_de os medios
 1	diálogo	diálogo	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
@@ -1059,7 +1030,6 @@
 4	de	de	ADP	P	AdpType=Prep	2	fixed	_	_
 5	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	medios	medio	NOUN	Scmp	Gender=Masc|Number=Plur	1	nmod	_	_
-
 
 # sent_id = 158
 # text = daquela , Riera , canso de petar sen éxito a as portas de a Xunta , trasladou a os medios de comunicación as súas queixas e ofreceu lle a Ventura_Pérez_Mariño o paraugas que precisaba para frear o proxecto .
@@ -1106,7 +1076,6 @@
 40	proxecto	proxecto	NOUN	Scms	Gender=Masc|Number=Sing	38	obj	_	_
 41	.	.	PUNCT	Q.	_	27	punct	_	_
 
-
 # sent_id = 160
 # text = hai anos que Riera leva traballando con discreción e eficacia con a finalidade de que as principais empresas fornecedoras de a cadea de montaxe de PSA poidan instalar se en Vigo .
 1	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
@@ -1141,7 +1110,6 @@
 30	en	en	ADP	P	AdpType=Prep	31	case	_	_
 31	Vigo	Vigo	PROPN	Sp00	_	28	obl	_	_
 32	.	.	PUNCT	Q.	_	6	punct	_	_
-
 
 # sent_id = 168
 # text = a presión recibida forzou no a continuar adiante con o concurso para a ordenación de a ETEA ou con o apoio financieiro a as obras de remodelación de rúas que Corina_Porro denominou pomposamente " Vigo_2005 " .
@@ -1186,7 +1154,6 @@
 37	2005	2005	PROPN	Sp00	_	36	flat:name	_	_
 38	"	"	PUNCT	Q"	_	36	punct	_	_
 39	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 170
 # text = en esa liña de traballo estaba o delegado de a Zona_Franca cando se lle ocorreu poñer en cuestión a participación de o consorcio en a creación de novo solo industrial en Vigo , e foi en ese momento cando Riera dixo :
@@ -1235,7 +1202,6 @@
 42	dixo	dicir	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	ccomp	_	_
 43	:	:	PUNCT	Q:	_	42	punct	_	_
 
-
 # sent_id = 178
 # text = así funcionan as cousas en Vigo .
 1	así	así	ADV	Wn	_	2	advmod	_	_
@@ -1246,7 +1212,6 @@
 6	Vigo	Vigo	PROPN	Sp00	_	2	obl	_	_
 7	.	.	PUNCT	Q.	_	2	punct	_	_
 
-
 # sent_id = 180
 # text = discutir que é un clásico .
 1	discutir	discutir	VERB	V0f000	VerbForm=Inf	0	root	_	_
@@ -1255,7 +1220,6 @@
 4	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	clásico	clásico	NOUN	Scms	Gender=Masc|Number=Sing	1	ccomp	_	_
 6	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 188
 # text = algúns acadan a fama , parecen definitivos e a_o_cabo_de os anos esvaen se .
@@ -1278,7 +1242,6 @@
 16	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3	15	expl	_	_
 17	.	.	PUNCT	Q.	_	2	punct	_	_
 
-
 # sent_id = 190
 # text = outros son esquecidos , ou nunca atendidos , e rescatados , para acabar acompañando os clásicos .
 1	outros	outro	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj:pass	_	_
@@ -1299,7 +1262,6 @@
 16	clásicos	clásico	NOUN	Scmp	Gender=Masc|Number=Plur	14	obj	_	_
 17	.	.	PUNCT	Q.	_	14	punct	_	_
 
-
 # sent_id = 198
 # text = sen frivolidade nin estupidez .
 1	sen	sen	ADP	P	AdpType=Prep|Polarity=Neg	2	case	_	_
@@ -1307,7 +1269,6 @@
 3	nin	nin	CCONJ	Cc	Polarity=Neg	4	cc	_	_
 4	estupidez	estupidez	NOUN	Scfs	Gender=Fem|Number=Sing	2	conj	_	_
 5	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 200
 # text = Amenábar pertence a o grupo .
@@ -1318,7 +1279,6 @@
 5	grupo	grupo	NOUN	Scms	Gender=Masc|Number=Sing	2	obl	_	_
 6	.	.	PUNCT	Q.	_	2	punct	_	_
 
-
 # sent_id = 208
 # text = e desde aquí estamos agradecidos .
 1	e	e	CCONJ	Cc	_	5	mark	_	_
@@ -1327,7 +1287,6 @@
 4	estamos	estar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	agradecidos	agradecido	ADJ	A0mp	Gender=Masc|Number=Plur	0	root	_	_
 6	.	.	PUNCT	Q.	_	5	punct	_	_
-
 
 # sent_id = 210
 # text = por emocionar nos e facer nos sentir .
@@ -1339,7 +1298,6 @@
 6	nos	nos	PRON	Raa1ap	Case=Acc|Clitic=Yes|Gender=Com|Number=Plur|Person=1	5	obj	_	_
 7	sentir	sentir	VERB	V0f000	VerbForm=Inf	5	xcomp	_	_
 8	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 218
 # text = en outro filme , moi celebrado en estas catro provincias , o director coloca unha familia comendo o polbo enriba de un mantel a_a_beira de un río ... sacan o de a pota ...
@@ -1381,7 +1339,6 @@
 35	pota	pota	NOUN	Scfs	Gender=Fem|Number=Sing	31	obl	_	_
 36	...	...	PUNCT	Q...	_	14	punct	_	_
 
-
 # sent_id = 220
 # text = é tenente_de_alcalde de Pontevedra
 1	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
@@ -1391,7 +1348,6 @@
 4	alcalde	alcalde	NOUN	Scas	Gender=Com|Number=Sing	2	compound	_	_
 5	de	de	ADP	P	AdpType=Prep	6	case	_	_
 6	Pontevedra	Pontevedra	PROPN	Sp00	_	2	nmod	_	_
-
 
 # sent_id = 228
 # text = moi cómoda , tanto en o partido como en o grupo municipal .
@@ -1409,7 +1365,6 @@
 12	municipal	municipal	ADJ	A0ms	Gender=Masc|Number=Sing	11	amod	_	_
 13	.	.	PUNCT	Q.	_	2	punct	_	_
 
-
 # sent_id = 230
 # text = é mais , a nivel galego tamén se segue esa liña .
 1	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	mark	_	_
@@ -1425,7 +1380,6 @@
 11	liña	liña	NOUN	Scfs	Gender=Fem|Number=Sing	9	obj	_	_
 12	.	.	PUNCT	Q.	_	9	punct	_	_
 
-
 # sent_id = 238
 # text = mais vostede non entrou .
 1	mais	mais	SCONJ	Cs	_	4	mark	_	_
@@ -1433,7 +1387,6 @@
 3	non	non	ADV	Wn	Polarity=Neg	4	advmod	_	_
 4	entrou	entrar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 240
 # text = eu non podía entrar así .
@@ -1443,7 +1396,6 @@
 4	entrar	entrar	VERB	V0f000	VerbForm=Inf	0	root	_	_
 5	así	así	ADV	Wn	_	4	advmod	_	_
 6	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 248
 # text = quixera un Maragall con o mesmo peso que ten en o Estado .
@@ -1460,7 +1412,6 @@
 11	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	Estado	Estado	PROPN	Spms	Gender=Masc|Number=Sing	9	obl	_	_
 13	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 250
 # text = comparte goberno municipal con o BNG , que ten a alcaldía de Pontevedra e dez concelleiros , fronte_a os cinco socialistas .
@@ -1489,7 +1440,6 @@
 22	socialistas	socialista	ADJ	A0mp	Gender=Masc|Number=Plur	16	nmod	_	_
 23	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 258
 # text = en as últimas municipais o BNG saía de un goberno en solitario e afrontaba os comicios con a seguridade de a maioría absoluta .
 1	en	en	ADP	P	AdpType=Prep	4	case	_	_
@@ -1516,7 +1466,6 @@
 22	maioría	maioría	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	_
 23	absoluta	absoluto	ADJ	A0fs	Gender=Fem|Number=Sing	22	amod	_	_
 24	.	.	PUNCT	Q.	_	7	punct	_	_
-
 
 # sent_id = 260
 # text = o PSdeG ten aceptación en a cidadanía por lo traballo que desenvolve e por lo eco que os medios fan de ese traballo .
@@ -1545,7 +1494,6 @@
 23	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	20	obl	_	_
 24	.	.	PUNCT	Q.	_	3	punct	_	_
 
-
 # sent_id = 268
 # text = é unha cuestión importantísima para a cidade e para o futuro de ela .
 1	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
@@ -1562,7 +1510,6 @@
 12	de	de	ADP	P	AdpType=Prep	13	case	_	_
 13	ela	el	PRON	Rtp3fs	Gender=Fem|Number=Sing|Person=3	11	nmod	_	_
 14	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 270
 # text = antes de nada , hai que lembrar que o que se está a escoitar é que o concello acosa a empresa Celulosas , pero esta compañía nunca lle pediu nada a o concello , nin_sequera a licenza de obras .
@@ -1609,7 +1556,6 @@
 40	obras	obra	NOUN	Scfp	Gender=Fem|Number=Plur	38	nmod	_	_
 41	.	.	PUNCT	Q.	_	7	punct	_	_
 
-
 # sent_id = 278
 # text = tamén están os traballadores .
 1	tamén	tamén	ADV	Wn	_	2	advmod	_	_
@@ -1617,7 +1563,6 @@
 3	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	traballadores	traballador	NOUN	Scmp	Gender=Masc|Number=Plur	2	nsubj	_	_
 5	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 280
 # text = ¿ por que non lle piden previsión a a empresa para asegurar se un futuro ?
@@ -1638,7 +1583,6 @@
 15	futuro	futuro	NOUN	Scms	Gender=Masc|Number=Sing	12	obj	_	_
 16	?	?	PUNCT	Q?	_	6	punct	_	_
 
-
 # sent_id = 288
 # text = empregaron a infantería de mariña , apuntando a o pobo con as súas armas .
 1	empregaron	empregar	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -1656,7 +1600,6 @@
 13	súas	seu	DET	Md3pfp	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes	14	det	_	_
 14	armas	arma	NOUN	Scfp	Gender=Fem|Number=Plur	7	obl	_	_
 15	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 290
 # text = ademais , cando se privatizou ENCE pagou se un prezo que tiña en conta que en 2018 remataba a concesión de a fábrica .
@@ -1685,7 +1628,6 @@
 23	fábrica	fábrica	NOUN	Scfs	Gender=Fem|Number=Sing	20	nmod	_	_
 24	.	.	PUNCT	Q.	_	18	punct	_	_
 
-
 # sent_id = 298
 # text = tamén hai recursos de a UE para o traslado de empresas por razóns ecolóxicas .
 1	tamén	tamén	ADV	Wn	_	2	advmod	_	_
@@ -1703,7 +1645,6 @@
 13	razóns	razón	NOUN	Scfp	Gender=Fem|Number=Plur	9	nmod	_	_
 14	ecolóxicas	ecolóxico	ADJ	A0fp	Gender=Fem|Number=Plur	13	amod	_	_
 15	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 300
 # text = ante iso , [Xosé_Manuel]_Seoane_García [ director de ENCE ] anunciou que esperan novos ventos .
@@ -1726,7 +1667,6 @@
 16	novos	novo	ADJ	A0mp	Gender=Masc|Number=Plur	17	amod	_	_
 17	ventos	vento	NOUN	Scmp	Gender=Masc|Number=Plur	15	obj	_	_
 18	.	.	PUNCT	Q.	_	13	punct	_	_
-
 
 # sent_id = 308
 # text = pero hai un proxecto para incluír en o porto de Marín os terreos onde está Celulosas e que continúe alí .
@@ -1751,7 +1691,6 @@
 19	continúe	continuar	VERB	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 20	alí	alí	ADV	Wn	_	19	advmod	_	_
 21	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 310
 # text = entre as consultas que lle fixeron a Mariano_Navas [ presidente de o ente público Portos_do_Estado ] estaba esta posibilidade e en consecuencia respondeu a os distintos implicados con consultas en o mesmo sentido .
@@ -1795,12 +1734,10 @@
 36	sentido	sentido	NOUN	Scms	Gender=Masc|Number=Sing	32	nmod	_	_
 37	.	.	PUNCT	Q.	_	6	punct	_	_
 
-
 # sent_id = 318
 # text = organización territorial
 1	organización	organización	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
 2	territorial	territorial	ADJ	A0fs	Gender=Fem|Number=Sing	1	amod	_	_
-
 
 # sent_id = 320
 # text = a figura de a comarca / rexión urbana configura se " por riba de os seus aspectos tecnocráticos , como un ente político democrático , unha sorte de federación de os concellos de o seu territorio que incrementará , de maneira simultánea , a eficiencia técnica e a participación política tan acaída a as entidades locais e a a súa administración de inmediatez " .
@@ -1870,7 +1807,6 @@
 64	"	"	PUNCT	Q"	_	9	punct	_	_
 65	.	.	PUNCT	Q.	_	9	punct	_	_
 
-
 # sent_id = 328
 # text = respecto_a competencias , recollidas en a Base_XII , sería moi longo e difícil presentar aquí un resume .
 1-2	respecto_a	_	_	_	_	_	_	_	_
@@ -1895,7 +1831,6 @@
 18	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	resume	resume	NOUN	Scms	Gender=Masc|Number=Sing	16	obj	_	_
 20	.	.	PUNCT	Q.	_	13	punct	_	_
-
 
 # sent_id = 330
 # text = pode se baixar a proposta completa , en formato PDF , dende a web de o BNG ( www.bng-galiza.org ) ou dende www.novoestatuto.com .
@@ -1923,7 +1858,6 @@
 22	dende	dende	ADP	P	AdpType=Prep	23	case	_	_
 23	www.novoestatuto.com	www.novoestatuto.com	SYM	Zo00	_	14	conj	_	_
 24	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 338
 # text = a_carón de o proxecto de Estatuto elaborado , en o seo de o Seminario_de_Estudos_Galegos , por las mellores cabezas de o nacionalismo republicano .
@@ -1957,7 +1891,6 @@
 26	nacionalismo	nacionalismo	NOUN	Scms	Gender=Masc|Number=Sing	23	nmod	_	_
 27	republicano	republicano	ADJ	A0ms	Gender=Masc|Number=Sing	26	amod	_	_
 28	.	.	PUNCT	Q.	_	8	punct	_	_
-
 
 # sent_id = 340
 # text = e así_como o de 1931 recollía o mellor de a doutrina xurídica , económica e política de a súa época para as pór a o servizo de o país , tamén este é ambicioso e exixente a o deseñar o país por lo que se aposta _ equilibrado territorialmente , sustentábel ambientalmente , xusto e avanzado socialmente _ e regular o goberno que se quere para ese país _ democrático , transparente e eficaz .
@@ -2039,7 +1972,6 @@
 75	eficaz	eficaz	ADJ	A0ms	Gender=Masc|Number=Sing	71	conj	_	_
 76	.	.	PUNCT	Q.	_	71	punct	_	_
 
-
 # sent_id = 348
 # text = e aínda máis , se se trata de materia tan ecolóxica como a auga que concita en todos nós o ideario de un medio ambiente integrado en o home e viceversa .
 1	e	e	CCONJ	Cc	_	3	mark	_	_
@@ -2074,7 +2006,6 @@
 30	e	e	CCONJ	Cc	_	31	cc	_	_
 31	viceversa	viceversa	ADV	Wn	_	26	conj	_	_
 32	.	.	PUNCT	Q.	_	26	punct	_	_
-
 
 # sent_id = 350
 # text = contará con un gran centro de ocio e soxornamento , piscina olímpica e outros complementos ; o balneario denantes citado , praia artificial e un ximnasio especializado , ademais de locais comerciais , restaurantes , centro de talasoterapia con alberca activa e un circuíto termal ; gardaría , oficinas , salas de exposicións e até un museo de a auga que contemple o desenvolvemento de este servizo en a cidade .
@@ -2150,7 +2081,6 @@
 70	cidade	cidade	NOUN	Scfs	Gender=Fem|Number=Sing	64	nmod	_	_
 71	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 358
 # text = a idea permanece esquecida en as gabetas de a incomprensión e a Casa_da_Auga resulta coma un sucedáneo , quizais rebaixado , de aquel monumental proxecto de o arquitecto norteamericano , pero que tan difícil materialización tiña .
 1	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -2194,7 +2124,6 @@
 38	tiña	ter	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	acl	_	_
 39	.	.	PUNCT	Q.	_	3	punct	_	_
 
-
 # sent_id = 360
 # text = Galiza pode quedar sen axudas estatais se a Xunta persiste en que o Prestige non danou os recursos mariños
 1	Galiza	Galiza	PROPN	Sp00	_	3	nsubj	_	_
@@ -2216,7 +2145,6 @@
 17	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	recursos	recurso	NOUN	Scmp	Gender=Masc|Number=Plur	16	obj	_	_
 19	mariños	mariño	ADJ	A0mp	Gender=Masc|Number=Plur	18	amod	_	_
-
 
 # sent_id = 368
 # text = a maioría falaba de a fatalidade de o mar , de o mal tempo , de o saneamento de as rías , de a auga doce , mais a palabra Prestige semellaba ser unha palabra maldita .
@@ -2257,7 +2185,6 @@
 35	palabra	palabra	NOUN	Scfs	Gender=Fem|Number=Sing	32	xcomp	_	_
 36	maldita	maldito	ADJ	A0fs	Gender=Fem|Number=Sing	35	amod	_	_
 37	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 370
 # text = o patrón_maior de Lira , Xoán_Manuel_Gómez_Leis , e Francisco_Iglesias , patrón_maior de O_Grove , falaron de as perdas produtivas que deixan o sector en unha difícil situación , pois se se conseguiu unha mellora de o decreto lei de as indemnizacións con o novo Goberno central para reclamar danos futuros , debido a a actitude de a Consellaría_de_Pesca , que afirma que todo volveu a a " normalidade " , as axudas por las perdas e danos como consecuencia de o Prestige poden ir en maior medida a as confrarias vascas ou cántabras que si que recoñecen diminución en os recursos .
@@ -2379,7 +2306,6 @@
 110	recursos	recurso	NOUN	Scmp	Gender=Masc|Number=Plur	107	nmod	_	_
 111	.	.	PUNCT	Q.	_	22	punct	_	_
 
-
 # sent_id = 378
 # text = Francisco_Iglesias explicou diante de a comisión a súa propia visión sobre a catástrofe de o Prestige .
 1-2	Francisco_Iglesias	_	_	_	_	_	_	_	_
@@ -2401,7 +2327,6 @@
 16	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	Prestige	Prestige	PROPN	Spms	Gender=Masc|Number=Sing	14	nmod	_	_
 18	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 380
 # text = aínda_que os dez minutos de os que dispoño son moi poucos para explicar os problemas máis relevantes de a crise de o Prestige , vou iniciar a miña intervención " gastando " o primeiro minuto .
@@ -2444,7 +2369,6 @@
 36	minuto	minuto	NOUN	Scms	Gender=Masc|Number=Sing	32	obj	_	_
 37	.	.	PUNCT	Q.	_	12	punct	_	_
 
-
 # sent_id = 388
 # text = dito isto quixera formular tres cuestións :
 1	dito	dicir	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
@@ -2454,7 +2378,6 @@
 5	tres	tres	NUM	Ncdfp	Gender=Fem|Number=Plur|NumType=Card	6	nummod	_	_
 6	cuestións	cuestión	NOUN	Scfp	Gender=Fem|Number=Plur	4	obj	_	_
 7	:	:	PUNCT	Q:	_	3	punct	_	_
-
 
 # sent_id = 390
 # text = así teño que dicir que estivo mal que se nos catalogase como políticos ou que se dixera que as voces que defendiamos a o noso mar defendiamos políticas partidarias , cando , en_realidade , só cumpriamos con a nosa obriga como patróns_maiores de dicir o que estaba a pasar e non calábamos fronte_a o poder .
@@ -2521,7 +2444,6 @@
 58	poder	poder	NOUN	Scms	Gender=Masc|Number=Sing	54	obl	_	_
 59	.	.	PUNCT	Q.	_	4	punct	_	_
 
-
 # sent_id = 398
 # text = e cando isto non chegou utilizaron se as descargas de a pesca de altura para solapar as perdas que estamos a sufrir en as zonas afectadas .
 1	e	e	CCONJ	Cc	_	5	mark	_	_
@@ -2552,7 +2474,6 @@
 26	afectadas	afectado	ADJ	A0fp	Gender=Fem|Number=Plur	25	amod	_	_
 27	.	.	PUNCT	Q.	_	22	punct	_	_
 
-
 # sent_id = 400
 # text = os aparcadoiros subterráneos comezarán a cobrar por fraccións de cuarto de hora a_partir_de abril .
 1	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
@@ -2573,7 +2494,6 @@
 15	de	de	ADP	P	AdpType=Prep	13	fixed	_	_
 16	abril	abril	NOUN	Scms	Gender=Masc|Number=Sing	6	obl	_	_
 17	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 408
 # text = tarifas que semellan feitas por especialistas en deseñar labirintos que teñen entre os seus obxectivos conseguir que o usuario pague sempre máis de o que sería xusto e non entenda moi ben canto e como paga .
@@ -2615,7 +2535,6 @@
 36	paga	pagar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	advcl	_	_
 37	.	.	PUNCT	Q.	_	36	punct	_	_
 
-
 # sent_id = 410
 # text = en o caso de os aparcamentos , un non pode escoller entre aparcar un cuarto de hora ou hora e media , de_xeito_que o asunto aínda se complica máis .
 1	en	en	ADP	P	AdpType=Prep	3	case	_	_
@@ -2652,7 +2571,6 @@
 31	máis	máis	ADV	Wn	_	30	advmod	_	_
 32	.	.	PUNCT	Q.	_	30	punct	_	_
 
-
 # sent_id = 418
 # text = menos que agora , se é un cuarto de hora para un recado rápido .
 1	menos	menos	ADV	Wn	_	8	parataxis	_	_
@@ -2670,7 +2588,6 @@
 13	recado	recado	NOUN	Scms	Gender=Masc|Number=Sing	8	nmod	_	_
 14	rápido	rápido	ADJ	A0ms	Gender=Masc|Number=Sing	13	amod	_	_
 15	.	.	PUNCT	Q.	_	8	punct	_	_
-
 
 # sent_id = 420
 # text = sempre se pode deixar o coche en o garaxe de a casa e patear as rúas .
@@ -2691,7 +2608,6 @@
 15	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 16	rúas	rúa	NOUN	Scfp	Gender=Fem|Number=Plur	14	obj	_	_
 17	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 428
 # text = van quentando o ambiente , e chamando a os seus aliados para que lles axuden a poñer lume en as denuncias , que normalmente son mentiras ( onde están as armas terroríficas de Sadan ? ) .
@@ -2733,7 +2649,6 @@
 36	)	)	PUNCT	Q)	_	28	punct	_	_
 37	.	.	PUNCT	Q.	_	26	punct	_	_
 
-
 # sent_id = 430
 # text = Bush acaba de dar unha volta por Europa hai uns días , vestido de cow-boy , como sempre .
 1	Bush	Bush	PROPN	Sp00	_	4	nsubj	_	_
@@ -2756,7 +2671,6 @@
 18	sempre	sempre	ADV	Wn	_	13	advmod	_	_
 19	.	.	PUNCT	Q.	_	4	punct	_	_
 
-
 # sent_id = 438
 # text = só as pombas de os nosos labios poden frear estes preparativos .
 1	só	só	ADV	Wn	_	3	advmod	_	_
@@ -2772,7 +2686,6 @@
 11	preparativos	preparativos	NOUN	Scmp	Gender=Masc|Number=Plur	9	obj	_	_
 12	.	.	PUNCT	Q.	_	9	punct	_	_
 
-
 # sent_id = 440
 # text = a denuncia a_tempo tamén pode gañar unha batalla .
 1	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -2786,7 +2699,6 @@
 8	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	batalla	batalla	NOUN	Scfs	Gender=Fem|Number=Sing	7	obj	_	_
 10	.	.	PUNCT	Q.	_	7	punct	_	_
-
 
 # sent_id = 448
 # text = si ten que ver con ela a pegada ' marca deixada por lo pé ' , por lo que non deberiamos falar de pegadas dactilares ou dixitais senón de impresións ( como en portugués ) a o ser un contrasentido .
@@ -2832,7 +2744,6 @@
 40	contrasentido	contrasentido	NOUN	Scms	Gender=Masc|Number=Sing	24	advcl	_	_
 41	.	.	PUNCT	Q.	_	40	punct	_	_
 
-
 # sent_id = 450
 # text = a_as_veces os derivados de pé non proceden directamente de o latín senón_que son préstamos _ adaptados _ de outras linguas románicas .
 1-3	a_as_veces	_	_	_	_	_	_	_	_
@@ -2863,7 +2774,6 @@
 24	románicas	románico	ADJ	A0fp	Gender=Fem|Number=Plur	23	amod	_	_
 25	.	.	PUNCT	Q.	_	9	punct	_	_
 
-
 # sent_id = 458
 # text = sermos bípedes ou dípodos , e irmos a o pedicuro ou a o podólogo .
 1	sermos	ser	VERB	V0f10p	Number=Plur|Person=1|VerbForm=Inf	2	cop	_	_
@@ -2882,7 +2792,6 @@
 14	podólogo	podólogo	NOUN	Scms	Gender=Masc|Number=Sing	10	conj	_	_
 15	.	.	PUNCT	Q.	_	2	punct	_	_
 
-
 # sent_id = 460
 # text = trata se de o .
 1	trata	tratar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -2890,7 +2799,6 @@
 3	de	de	ADP	P	AdpType=Prep	4	case	_	_
 4	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	dep	_	_
 5	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 468
 # text = con que obxectivo nace o Sindicato_de_Xornalistas_de_Galicia ?
@@ -2906,7 +2814,6 @@
 9	de	de	PROPN	Spms	Gender=Masc|Number=Sing	6	flat:name	_	_
 10	Galicia	galicia	PROPN	Spms	Gender=Masc|Number=Sing	6	flat:name	_	_
 11	?	?	PUNCT	Q?	_	4	punct	_	_
-
 
 # sent_id = 470
 # text = para lograr lo , queremos asinar un convenio marco que reúna uns mínimos para todas as empresas de comunicación porque sabemos que existen medios onde eses mínimos xa están superados , pero en a maior parte a situación é penosa .
@@ -2952,7 +2859,6 @@
 40	penosa	penoso	ADJ	A0fs	Gender=Fem|Number=Sing	21	conj	_	_
 41	.	.	PUNCT	Q.	_	5	punct	_	_
 
-
 # sent_id = 478
 # text = ese foi un de os temas que máis discutimos en a Asamblea_Constituínte .
 1	ese	ese	PRON	Enms	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
@@ -2970,7 +2876,6 @@
 12	Asamblea	asamblea	PROPN	Spfs	Gender=Fem|Number=Sing	9	obl	_	_
 13	Constituínte	constituínte	PROPN	Spfs	Gender=Fem|Number=Sing	12	flat:name	_	_
 14	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 480
 # text = en UGT , por exemplo , os problemas de os xornalistas están integrados dentro de a federación de transportes .
@@ -2995,7 +2900,6 @@
 19	transportes	transporte	NOUN	Scmp	Gender=Masc|Number=Plur	17	nmod	_	_
 20	.	.	PUNCT	Q.	_	13	punct	_	_
 
-
 # sent_id = 488
 # text = todos os días o vemos en os nosos medios e en os de os compañeiros .
 1	todos	todo	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
@@ -3014,7 +2918,6 @@
 14	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	compañeiros	compañeiro	NOUN	Scmp	Gender=Masc|Number=Plur	12	nmod	_	_
 16	.	.	PUNCT	Q.	_	5	punct	_	_
-
 
 # sent_id = 490
 # text = ademais de xornalistas , en o SXG queremos defender os dereitos de todos aqueles profesionais que interveñan en o proceso de información , como cámaras , fotógrafos ou infógrafos .
@@ -3049,7 +2952,6 @@
 29	infógrafos	infógrafo	NOUN	Scmp	Gender=Masc|Number=Plur	25	conj	_	_
 30	.	.	PUNCT	Q.	_	25	punct	_	_
 
-
 # sent_id = 498
 # text = por iso tamén pediremos que se limiten as prazas en a Facultade , con o obxectivo de que quen se licencie teña unhas condicións salariais dignas .
 1	por	por	ADP	P	AdpType=Prep	2	case	_	_
@@ -3080,7 +2982,6 @@
 26	dignas	digno	ADJ	A0fp	Gender=Fem|Number=Plur	24	amod	_	_
 27	.	.	PUNCT	Q.	_	4	punct	_	_
 
-
 # sent_id = 500
 # text = Santi ( Los_Limones ) , Susana_Seivane e Bieito_Romero .
 1	Santi	Santi	PROPN	Spm0	Gender=Masc	0	root	_	_
@@ -3098,7 +2999,6 @@
 10	Bieito	bieito	PROPN	Spm0	Gender=Masc	1	conj	_	_
 11	Romero	romero	PROPN	Spm0	Gender=Masc	10	flat:name	_	_
 12	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 508
 # text = será a súa discusión sobre a que gravite a axenda política de os nacionalistas até o verán , se as liortas internas por la elaboración de as listas non o impiden .
@@ -3135,13 +3035,11 @@
 31	impiden	impedir	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
 32	.	.	PUNCT	Q.	_	31	punct	_	_
 
-
 # sent_id = 510
 # text = diría máis :
 1	diría	dicir	VERB	Vcia0s	Mood=Cnd,Ind|Number=Sing|Person=1,3	0	root	_	_
 2	máis	máis	ADV	Wn	_	1	advmod	_	_
 3	:	:	PUNCT	Q:	_	1	punct	_	_
-
 
 # sent_id = 518
 # text = reclaman así_mesmo , a participación directa de Galiza en a UE , cando os asuntos sexan de o noso interese , e a capacidade de definir as políticas estatais ( coincidente en o fondo con Iniciativas_21 ) .
@@ -3188,7 +3086,6 @@
 39	)	)	PUNCT	Q)	_	32	punct	_	_
 40	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 520
 # text = así propoñen a supresión de a división provincial ;
 1	así	así	ADV	Wn	_	2	advmod	_	_
@@ -3200,7 +3097,6 @@
 7	división	división	NOUN	Scfs	Gender=Fem|Number=Sing	4	nmod	_	_
 8	provincial	provincial	ADJ	A0fs	Gender=Fem|Number=Sing	7	amod	_	_
 9	;	;	PUNCT	Q;	_	2	punct	_	_
-
 
 # sent_id = 528
 # text = o BNG , por la súa banda , pretende que , a mesma reforma estatutaria , que , en a práctica , faga necesaria a reforma constitucional , superando así o actual marco estatal e recoñecendo o dereito a a autodeterminación .
@@ -3247,7 +3143,6 @@
 41	autodeterminación	autodeterminación	NOUN	Scfs	Gender=Fem|Number=Sing	38	nmod	_	_
 42	.	.	PUNCT	Q.	_	36	punct	_	_
 
-
 # sent_id = 530
 # text = algo rexeitado , en_principio , por los nacionalistas vascos , cataláns e galegos .
 1	algo	algo	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
@@ -3267,7 +3162,6 @@
 14	galegos	galego	ADJ	A0mp	Gender=Masc|Number=Plur	10	conj	_	_
 15	.	.	PUNCT	Q.	_	2	punct	_	_
 
-
 # sent_id = 538
 # text = Dario_Fo chega a as parroquias de Ribadeo .
 1-2	Dario_Fo	_	_	_	_	_	_	_	_
@@ -3281,7 +3175,6 @@
 8	Ribadeo	Ribadeo	PROPN	Sp00	_	6	nmod	_	_
 9	.	.	PUNCT	Q.	_	3	punct	_	_
 
-
 # sent_id = 540
 # text = e de un provocador a outro .
 1	e	e	CCONJ	Cc	_	4	cc	_	_
@@ -3291,7 +3184,6 @@
 5	a	a	ADP	P	AdpType=Prep	6	case	_	_
 6	outro	outro	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	4	nmod	_	_
 7	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 548
 # text = Valentín_Arias realizou a tradución completa de o Quixote en 1990 .
@@ -3308,7 +3200,6 @@
 10	en	en	ADP	P	AdpType=Prep	11	case	_	_
 11	1990	1990	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	3	obl	_	_
 12	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 550
 # text = moitas son as veces que se citan as traducións pioneiras de obras universais feitas por los galeguistas , como a que Otero_Pedrayo fixo de o Ulises de James_Joyce .
@@ -3345,7 +3236,6 @@
 29	James	james	PROPN	Spm0	Gender=Masc	27	nmod	_	_
 30	Joyce	joyce	PROPN	Spm0	Gender=Masc	29	flat:name	_	_
 31	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 558
 # text = daquela , o concello manchego de Consuegra quixo erguer un muíño de vento , en o que se instalaría unha biblioteca con traducións de a obra cervantina en todas as linguas de o mundo .
@@ -3385,7 +3275,6 @@
 34	mundo	mundo	NOUN	Scms	Gender=Masc|Number=Sing	31	nmod	_	_
 35	.	.	PUNCT	Q.	_	8	punct	_	_
 
-
 # sent_id = 560
 # text = publicou se en unha separata institucional que hoxe se atopa en as bibliotecas .
 1	publicou	publicar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -3402,7 +3291,6 @@
 12	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 13	bibliotecas	biblioteca	NOUN	Scfp	Gender=Fem|Number=Plur	10	obl	_	_
 14	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 568
 # text = " cando me propuxeron a tradución _ lembra Arias _ pensei que era unha oportunidade que non se podía desperdiciar e de unha grande importancia para a normalización de o galego .
@@ -3439,7 +3327,6 @@
 31	galego	galego	NOUN	Scms	Gender=Masc|Number=Sing	28	nmod	_	_
 32	.	.	PUNCT	Q.	_	11	punct	_	_
 
-
 # sent_id = 570
 # text = eu tamén traducín e encarguei me de unificar todo o traballo , que nos levou uns seis meses " .
 1	eu	eu	PRON	Rtn1as	Case=Nom|Gender=Com|Number=Sing|Person=1	3	nsubj	_	_
@@ -3463,7 +3350,6 @@
 19	"	"	PUNCT	Q"	_	3	punct	_	_
 20	.	.	PUNCT	Q.	_	3	punct	_	_
 
-
 # sent_id = 578
 # text = meter se en aquela lingua cervantina e buscar expresións comprensíbeis sen traicionar lo deu nos moito a lata .
 1	meter	meter	VERB	V0f000	VerbForm=Inf	14	ccomp	_	_
@@ -3486,7 +3372,6 @@
 18	lata	lata	NOUN	Scfs	Gender=Fem|Number=Sing	14	obj	_	_
 19	.	.	PUNCT	Q.	_	14	punct	_	_
 
-
 # sent_id = 580
 # text = sempre se di iso de , pero tamén o lector é un traidor en certo senso .
 1	sempre	sempre	ADV	Wn	_	3	advmod	_	_
@@ -3506,7 +3391,6 @@
 15	certo	certo	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	16	det	_	_
 16	senso	senso	NOUN	Scms	Gender=Masc|Number=Sing	13	nmod	_	_
 17	.	.	PUNCT	Q.	_	13	punct	_	_
-
 
 # sent_id = 588
 # text = Anxo_Fariña é o autor de os debuxos e os textos de unha serie de catro títulos que vai comezar a publicar de_contado Edicións_A_Nosa_Terra .
@@ -3542,7 +3426,6 @@
 27	Nosa	nosa	PROPN	Sp00	_	25	flat:name	_	_
 28	Terra	terra	PROPN	Sp00	_	25	flat:name	_	_
 29	.	.	PUNCT	Q.	_	5	punct	_	_
-
 
 # sent_id = 590
 # text = en ese sentido é unha obra pioneira , que constará de catro títulos : Na_aventura_dos_muíños , O_exército_de_ovellas , Dulcinea,_a_nena_cabaleira e A_pousada_encantada .
@@ -3584,7 +3467,6 @@
 32	encantada	encantada	PROPN	Sp00	_	30	flat:name	_	_
 33	.	.	PUNCT	Q.	_	6	punct	_	_
 
-
 # sent_id = 598
 # text = ou porque non se axusta a o modelo moral cristián ( cuíño , cuíño ... ) ?
 1	ou	ou	CCONJ	Cc	_	5	mark	_	_
@@ -3604,7 +3486,6 @@
 15	...	...	PUNCT	Q...	_	12	punct	_	_
 16	)	)	PUNCT	Q)	_	12	punct	_	_
 17	?	?	PUNCT	Q?	_	5	punct	_	_
-
 
 # sent_id = 600
 # text = os galegos diferenciamos nos de outros pobos por termos unha cultura diferente , un país rico mal xestionado , a mocidade camiño_de a emigración , e a estas alturas de a historia é inadmisíbel que se siga denigrando o noso acento , a nosa identidade .
@@ -3657,7 +3538,6 @@
 46	identidade	identidade	NOUN	Scfs	Gender=Fem|Number=Sing	42	nmod	_	_
 47	.	.	PUNCT	Q.	_	3	punct	_	_
 
-
 # sent_id = 608
 # text = A_Nosa_Terra prepara un libro que recollerá as súas colaboracións
 1-3	A_Nosa_Terra	_	_	_	_	_	_	_	_
@@ -3672,7 +3552,6 @@
 9	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 10	súas	seu	DET	Md3sfp	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes	11	det	_	_
 11	colaboracións	colaboración	NOUN	Scfp	Gender=Fem|Number=Plur	8	obj	_	_
-
 
 # sent_id = 610
 # text = nacida en A_Coruña en 1957 , dentro_de o ámbito de a poesía publicou os libros Música_Reservada ( 1991 ) , Ruído ( 1995 ) , Rota_ao_interior_do_ollo ( 1995 ) ademais de textos e colaboracións en diferentes meios , antoloxías e publicacións .
@@ -3730,7 +3609,6 @@
 48	publicacións	publicación	NOUN	Scfp	Gender=Fem|Number=Plur	44	conj	_	_
 49	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 618
 # text = tamén se precisarían grabacións en audio de a súa voz ( lectura de poemas , conferencias , entrevistas ... ) e todo o que poda ser utilizado en este documental .
 1	tamén	tamén	ADV	Wn	_	3	advmod	_	_
@@ -3765,7 +3643,6 @@
 30	documental	documental	NOUN	Scms	Gender=Masc|Number=Sing	27	obl	_	_
 31	.	.	PUNCT	Q.	_	3	punct	_	_
 
-
 # sent_id = 620
 # text = ofrecen uns medios de contacto en o teléfono 687_614_874 ou en o correo electrónico ( manuelmaria@as-pg.com )
 1	ofrecen	ofrecer	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -3785,7 +3662,6 @@
 15	(	(	PUNCT	Q(	_	16	punct	_	_
 16	manuelmaria@as-pg.com	manuelmaria@as-pg.com	SYM	Zo00	_	13	appos	_	_
 17	)	)	PUNCT	Q)	_	16	punct	_	_
-
 
 # sent_id = 628
 # text = a súa chegada alterará a vida de as xentes de Abades , pois en_canto en o cuartel teñen noticias de isto ceiban outravolta os cans de a represión , interrogan , chantaxean , rapan as mulleres , non perden ocasión de mallar en a xente ...
@@ -3837,7 +3713,6 @@
 45	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	46	det	_	_
 46	xente	xente	NOUN	Scfs	Gender=Fem|Number=Sing	43	obl	_	_
 47	...	...	PUNCT	Q...	_	43	punct	_	_
-
 
 # sent_id = 630
 # text = un discurso que nos amosa dous tipos de vida distintos : a de os habitantes de Abades , que ven a súa vida cotiá condicionada por las contínuas accións represoras , e a de os fuxidos , refuxiados en covas de dificil acceso , unha vida que dificilmente se pode chamar así .
@@ -3894,7 +3769,6 @@
 51	chamar	chamar	VERB	V0f000	VerbForm=Inf	46	acl	_	_
 52	así	así	ADV	Wn	_	51	advmod	_	_
 53	.	.	PUNCT	Q.	_	51	punct	_	_
-
 
 # sent_id = 638
 # text = porque todas padecen de falta de credibilidade , son moi pouco críbeis xa desde uns parlamentos en os que fan gala de vocabulario e expresións impropios para a súa condición , producindo se nivelación estilística entre as intervencións de as personaxes e a de o narrador , isto ademais de mostraren un exceso de idealización que tamén as penaliza .
@@ -3959,7 +3833,6 @@
 59	penaliza	penalizar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	53	acl	_	_
 60	.	.	PUNCT	Q.	_	12	punct	_	_
 
-
 # sent_id = 640
 # text = un narrador que , como sinalamos , resulta pouco eficiente a a hora de atender as diversas caras de o prisma , as diferentes frontes de a historia que relata .
 1	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -3994,7 +3867,6 @@
 30	relata	relatar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	acl	_	_
 31	.	.	PUNCT	Q.	_	2	punct	_	_
 
-
 # sent_id = 648
 # text = Os_ollos_da_ponte , de Ramiro_Fonte , volve a o escenario que o escritor eumés reflectira en Os_meus_ollos .
 1-4	Os_ollos_da_ponte	_	_	_	_	_	_	_	_
@@ -4024,7 +3896,6 @@
 22	ollos	ollos	PROPN	Sp00	_	20	flat:name	_	_
 23	.	.	PUNCT	Q.	_	10	punct	_	_
 
-
 # sent_id = 650
 # text = viaxe a a escuridade de un tempo emocionante pero cheo de pantasmas .
 1	viaxe	viaxe	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
@@ -4041,7 +3912,6 @@
 12	pantasmas	pantasma	NOUN	Scfp	Gender=Fem|Number=Plur	10	obl	_	_
 13	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 658
 # text = as empresas debían crear un posto de traballo para responder curriculos .
 1	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
@@ -4056,7 +3926,6 @@
 10	responder	responder	VERB	V0f000	VerbForm=Inf	4	advcl	_	_
 11	curriculos	curriculo	NOUN	Scmp	Gender=Masc|Number=Plur	10	obj	_	_
 12	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 660
 # text = antes , en a Comunidade_de_Madrid , dous deputados de o PSOE implicados en un turbio asunto de tixolos e cemento .
@@ -4085,7 +3954,6 @@
 22	cemento	cemento	NOUN	Scms	Gender=Masc|Number=Sing	20	conj	_	_
 23	.	.	PUNCT	Q.	_	18	punct	_	_
 
-
 # sent_id = 668
 # text = por que din que o Papa está grave se xa conseguiu pronunciar algunhas palabras ?
 1	por	por	ADP	P	AdpType=Prep	2	case	_	_
@@ -4104,12 +3972,10 @@
 14	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	12	obj	_	_
 15	?	?	PUNCT	Q?	_	3	punct	_	_
 
-
 # sent_id = 670
 # text = o dobre
 1	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	dobre	dobre	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
-
 
 # sent_id = 678
 # text = en este relato , compendio de todas as versións que se fixeron de o mito recollido por Perrault , a Carapuchiña consegue fuxir de o lobo a_cambio de perder a propia prenda que lle dá nome .
@@ -4153,14 +4019,12 @@
 37	nome	nome	NOUN	Scms	Gender=Masc|Number=Sing	36	obj	_	_
 38	.	.	PUNCT	Q.	_	36	punct	_	_
 
-
 # sent_id = 680
 # text = Premio_'García_Barros'
 1-3	Premio_'García_Barros'	_	_	_	_	_	_	_	_
 1	Premio	premio	PROPN	Sp00	_	0	root	_	_
 2	'García	'garcía	PROPN	Sp00	_	1	flat:name	_	_
 3	Barros'	barros'	PROPN	Sp00	_	1	flat:name	_	_
-
 
 # sent_id = 688
 # text = o activista social Frei_Betto reflexiona sobre o problema político que representa a fame .
@@ -4180,7 +4044,6 @@
 13	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	fame	fame	NOUN	Scfs	Gender=Fem|Number=Sing	12	nsubj	_	_
 15	.	.	PUNCT	Q.	_	6	punct	_	_
-
 
 # sent_id = 690
 # text = André_Sabóia e José_Gilberto_Scandiucci buscan entender a perspectiva histórica de a política de desenvolvemento social .
@@ -4205,7 +4068,6 @@
 17	social	social	ADJ	A0ms	Gender=Masc|Number=Sing	16	amod	_	_
 18	.	.	PUNCT	Q.	_	7	punct	_	_
 
-
 # sent_id = 698
 # text = Soedade_López explica como educar para a sexualidade .
 1-2	Soedade_López	_	_	_	_	_	_	_	_
@@ -4218,7 +4080,6 @@
 7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	sexualidade	sexualidade	NOUN	Scfs	Gender=Fem|Number=Sing	5	obl	_	_
 9	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 700
 # text = o Centre_d'Estudis_'Cristianisme_i_Justicia' fai unha reflexión sobre o proxecto de a Constitución_Europea .
@@ -4241,7 +4102,6 @@
 15	Constitución	constitución	PROPN	Spfs	Gender=Fem|Number=Sing	12	nmod	_	_
 16	Europea	europea	PROPN	Spfs	Gender=Fem|Number=Sing	15	flat:name	_	_
 17	.	.	PUNCT	Q.	_	7	punct	_	_
-
 
 # sent_id = 708
 # text = a_partir_de estes e coma se de un exercicio ou de unha proposta de A_gramática_da_fantasía , de o Obradoiro_Literario_'Gianni_Rodari' se tratase , o vilalbés constrúe os relatos que nos levan a o mundo de o cómic , que o autor coñece ben por ser unha de as súas grandes paixóns , para nos presentar un superheroe que xa non exerce de tal , humanizando a Spiderman aínda máis de o que o fixo o seu creador Stan_Lee ; un vampiro en paro ou un rotulista que está chantado en a realidade de o país e que , sen estridencias , nos mostra o que somos .
@@ -4364,7 +4224,6 @@
 113	somos	ser	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	112	cop	_	_
 114	.	.	PUNCT	Q.	_	32	punct	_	_
 
-
 # sent_id = 710
 # text = en esta nova edición , o autor decidiu engadir lle dous contos máis : Un_máxico_negocio e Un_doce_emprego , que foron escritos en as mesmas datas que os outros mais ficaron fóra de a primeira edición .
 1	en	en	ADP	P	AdpType=Prep	4	case	_	_
@@ -4409,7 +4268,6 @@
 38	primeira	primeiro	NUM	Nodfs	Gender=Fem|Number=Sing|NumType=Ord	39	nummod	_	_
 39	edición	edición	NOUN	Scfs	Gender=Fem|Number=Sing	34	obl	_	_
 40	.	.	PUNCT	Q.	_	8	punct	_	_
-
 
 # sent_id = 718
 # text = se_ben hai poemas en os que o ritmo está conseguido , debido , sobretodo , a os varios rexistros utilizados por lo poeta , moitas veces semella que en troco de un ritmo baseado en o acento ou en o verso , estea baseado máis en a respiración de o lector .
@@ -4468,13 +4326,11 @@
 52	lector	lector	NOUN	Scms	Gender=Masc|Number=Sing	49	nmod	_	_
 53	.	.	PUNCT	Q.	_	28	punct	_	_
 
-
 # sent_id = 720
 # text = , etc. ;
 1	,	,	PUNCT	Q,	_	2	punct	_	_
 2	etc.	etc.	X	Za00	_	0	root	_	_
 3	;	;	PUNCT	Q;	_	2	punct	_	_
-
 
 # sent_id = 728
 # text = o próximo 14 de abril cumpren se sesenta anos de a liberación de o campo nazi de Ravensbruck .
@@ -4497,7 +4353,6 @@
 17	de	de	ADP	P	AdpType=Prep	18	case	_	_
 18	Ravensbruck	Ravensbruck	PROPN	Sp00	_	15	nmod	_	_
 19	.	.	PUNCT	Q.	_	6	punct	_	_
-
 
 # sent_id = 730
 # text = sabía que ningunha enferma saía de alí con vida e o seu destino inevitábel era a inmediata cámara de gas .
@@ -4522,7 +4377,6 @@
 19	de	de	ADP	P	AdpType=Prep	20	case	_	_
 20	gas	gas	NOUN	Scms	Gender=Masc|Number=Sing	18	nmod	_	_
 21	.	.	PUNCT	Q.	_	13	punct	_	_
-
 
 # sent_id = 738
 # text = Mercedes continuará en o exilio francés a sua traxectoria en a resistencia contra a ocupación nazi , actividade por la que de_novo será apresada e conducida a o inferno que foi Ravensbruck .
@@ -4562,7 +4416,6 @@
 33	Ravensbruck	Ravensbruck	PROPN	Sp00	_	31	nsubj	_	_
 34	.	.	PUNCT	Q.	_	25	punct	_	_
 
-
 # sent_id = 740
 # text = ' a música é a arte máis misteriosa '
 1	'	'	PUNCT	Q'	_	6	punct	_	_
@@ -4574,7 +4427,6 @@
 7	máis	máis	ADV	Wm	_	8	advmod	_	_
 8	misteriosa	misterioso	ADJ	A0fs	Gender=Fem|Number=Sing	6	amod	_	_
 9	'	'	PUNCT	Q'	_	6	punct	_	_
-
 
 # sent_id = 748
 # text = trata se de unha selección de obras coñecidas de autores clásicos ou case clásicos .
@@ -4594,7 +4446,6 @@
 14	clásicos	clásico	ADJ	A0mp	Gender=Masc|Number=Plur	11	conj	_	_
 15	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 750
 # text = o seu pai acompañou no en os primeiros pasos .
 1	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
@@ -4607,7 +4458,6 @@
 8	primeiros	primeiro	NUM	Nodmp	Gender=Masc|Number=Plur|NumType=Ord	9	nummod	_	_
 9	pasos	paso	NOUN	Scmp	Gender=Masc|Number=Plur	4	obl	_	_
 10	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 758
 # text = Bach , Scarlatti , Tárrega ... forman parte de o seu repertorio .
@@ -4624,7 +4474,6 @@
 11	seu	seu	DET	Md3sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	12	det	_	_
 12	repertorio	repertorio	NOUN	Scms	Gender=Masc|Number=Sing	8	nmod	_	_
 13	.	.	PUNCT	Q.	_	7	punct	_	_
-
 
 # sent_id = 760
 # text = gusta me interpretar a moitos compositores , pero cada CD comprende exclusivamente un só estilo para dedicar lle moitos meses de estudo e empapar me ben de ese estilo até que me sinto preparado para a gravación .
@@ -4667,7 +4516,6 @@
 37	gravación	gravación	NOUN	Scfs	Gender=Fem|Number=Sing	34	obl	_	_
 38	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 768
 # text = hoxe con as técnicas que hai en a gravación fan se marabillas , pois se alguén grava algo en o norte de O_Canadá todos o coñecemos de_seguido .
 1	hoxe	hoxe	ADV	Wn	_	10	advmod	_	_
@@ -4703,7 +4551,6 @@
 29	seguido	seguido	ADV	Wn	_	28	fixed	_	_
 30	.	.	PUNCT	Q.	_	27	punct	_	_
 
-
 # sent_id = 770
 # text = cal considera a mellor escola para formar guitarristas ?
 1	cal	cal	PRON	Gnfs	Gender=Fem|Number=Sing|PronType=Int	2	obl	_	_
@@ -4715,7 +4562,6 @@
 7	formar	formar	VERB	V0f000	VerbForm=Inf	5	advcl	_	_
 8	guitarristas	guitarrista	NOUN	Scap	Gender=Com|Number=Plur	7	obj	_	_
 9	?	?	PUNCT	Q?	_	2	punct	_	_
-
 
 # sent_id = 778
 # text = o feito de que a guitarra sexa un instrumento con pouco volume , onde os fallos soan case máis forte que os acertos é un grande inconveniente .
@@ -4747,7 +4593,6 @@
 26	grande	grande	ADJ	A0ms	Gender=Masc|Number=Sing	27	amod	_	_
 27	inconveniente	inconveniente	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
 28	.	.	PUNCT	Q.	_	27	punct	_	_
-
 
 # sent_id = 780
 # text = os ruídos que existen en todo instrumento , por exemplo , os de as unllas a o rozar con as cordas , soan moi forte en comparación con a notas boas .
@@ -4784,7 +4629,6 @@
 31	boas	bo	ADJ	A0fp	Gender=Fem|Number=Plur	30	amod	_	_
 32	.	.	PUNCT	Q.	_	23	punct	_	_
 
-
 # sent_id = 788
 # text = o mesmo Bach adaptou unha suite de violoncello para o laud , que era o máis semellante que había a a guitarra en o seu tempo .
 1	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
@@ -4815,7 +4659,6 @@
 26	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	19	obl	_	_
 27	.	.	PUNCT	Q.	_	4	punct	_	_
 
-
 # sent_id = 790
 # text = eu tomo a decisión de arranxar unha obra de outro instrumento en base a un feito :
 1	eu	eu	PRON	Rtn1as	Case=Nom|Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
@@ -4836,14 +4679,12 @@
 16	feito	feito	NOUN	Scms	Gender=Masc|Number=Sing	13	nmod	_	_
 17	:	:	PUNCT	Q:	_	2	punct	_	_
 
-
 # sent_id = 798
 # text = hai diversas causas .
 1	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	diversas	diverso	ADJ	A0fp	Gender=Fem|Number=Plur	3	amod	_	_
 3	causas	causa	NOUN	Scfp	Gender=Fem|Number=Plur	1	obj	_	_
 4	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 800
 # text = en_xeral , a a xente gusta lle escoitar cousas que xa coñece , que non estean fóra de a súa experiencia sonora , aínda_que os hai que precisamente o que ansían é ser sorprendidos .
@@ -4887,7 +4728,6 @@
 36	sorprendidos	sorprender	VERB	V0p0mp	Gender=Masc|Number=Plur|VerbForm=Part	28	ccomp	_	_
 37	.	.	PUNCT	Q.	_	7	punct	_	_
 
-
 # sent_id = 808
 # text = se queres un público de masas hai que facer outro tipo de música como U2 , Duran_Duran ... . pero a música clásica ten un público e se hai promoción a xente vai .
 1	se	se	SCONJ	Cs	_	2	mark	_	_
@@ -4927,7 +4767,6 @@
 34	vai	ir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	conj	_	_
 35	.	.	PUNCT	Q.	_	9	punct	_	_
 
-
 # sent_id = 810
 # text = de todos modos , o meu público é , sobre todo , xuvenil .
 1	de	de	ADP	P	AdpType=Prep	3	case	_	_
@@ -4945,7 +4784,6 @@
 13	xuvenil	xuvenil	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	_
 14	.	.	PUNCT	Q.	_	13	punct	_	_
 
-
 # sent_id = 818
 # text = facer un disco de música de o Renacemento .
 1	facer	facer	VERB	V0f000	VerbForm=Inf	0	root	_	_
@@ -4957,7 +4795,6 @@
 7	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Renacemento	Renacemento	PROPN	Spms	Gender=Masc|Number=Sing	5	nmod	_	_
 9	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 820
 # text = é unha de as grandes artes que nos toca un nervio , unha emoción que as outras non son quen de tocar ... chega a o corazón de outra maneira .
@@ -4992,7 +4829,6 @@
 29	outra	outro	DET	Idfs	Gender=Fem|Number=Sing|PronType=Ind	30	det	_	_
 30	maneira	maneira	NOUN	Scfs	Gender=Fem|Number=Sing	24	obl	_	_
 31	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 828
 # text = os redactores mostran até que punto é posíbel facer propostas ambiciosas sobre o autogoberno de Galiza sen someter se a a ideoloxia e a os límites impostos por lo poder de o Estado español , inserindo as sen reservas sectarias en a realidade estratéxica de a Unión_Europea .
@@ -5047,7 +4883,6 @@
 48	Europea	europea	PROPN	Spfs	Gender=Fem|Number=Sing	47	flat:name	_	_
 49	.	.	PUNCT	Q.	_	3	punct	_	_
 
-
 # sent_id = 830
 # text = en o documento mantén se unha posición nacionalista , ignorando a morna posición oficial que até non hai moito tempo antes de pretender un novo estatuto nacional quixo dar lle prioridade a a aplicación plena de o actual .
 1	en	en	ADP	P	AdpType=Prep	3	case	_	_
@@ -5089,7 +4924,6 @@
 37	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
 38	actual	actual	ADJ	A0ms	Gender=Masc|Number=Sing	34	amod	_	_
 39	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 838
 # text = sitúa en o centro de todo os dereitos e liberdades a cidadanía e a cohesión social , situando " os valores propios de a tradición cultural de Galiza " dentro de os que pertencen a a " historia común europea " .
@@ -5136,7 +4970,6 @@
 41	"	"	PUNCT	Q"	_	38	punct	_	_
 42	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 840
 # text = o tratamento de a lingua galega resulta especialmente valioso .
 1	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -5149,7 +4982,6 @@
 8	especialmente	especialmente	ADV	Wm	_	9	advmod	_	_
 9	valioso	valioso	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	_
 10	.	.	PUNCT	Q.	_	9	punct	_	_
-
 
 # sent_id = 848
 # text = asegura a competencia exclusiva sobre os procesos electorais internos galegos e converte a Galiza en circunscrición única para os procesos electorais estatais e europeos .
@@ -5178,7 +5010,6 @@
 23	e	e	CCONJ	Cc	_	24	cc	_	_
 24	europeos	europeo	ADJ	A0mp	Gender=Masc|Number=Plur	22	conj	_	_
 25	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 850
 # text = introduce cláusulas destinadas a impedir a usurpación sistemática realizada por los poderes de o Estado que se produciu desde o mesmo momento de a aprobación de a Constitución con o apoio habitual de o Tribunal_Constitucional .
@@ -5220,7 +5051,6 @@
 35	Tribunal	tribunal	PROPN	Spms	Gender=Masc|Number=Sing	31	nmod	_	_
 36	Constitucional	constitucional	PROPN	Spms	Gender=Masc|Number=Sing	35	flat:name	_	_
 37	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 858
 # text = tampouco convén resaltar a presenza en o Comité_das_Rexións , porque está xa garantida , e porque non se lle debe conceder desde aquí unha importancia que non ten nin para Galiza nin para as demais nacións sen Estado .
@@ -5267,7 +5097,6 @@
 40	Estado	Estado	PROPN	Spms	Gender=Masc|Number=Sing	38	nmod	_	_
 41	.	.	PUNCT	Q.	_	38	punct	_	_
 
-
 # sent_id = 860
 # text = por_fin , en o desenvolvemento de as Bases haberá que propor as formas de encaixe constitucional necesarias , incluída a modificación precisa de a Constitución .
 1-2	por_fin	_	_	_	_	_	_	_	_
@@ -5299,7 +5128,6 @@
 26	Constitución	Constitución	PROPN	Spfs	Gender=Fem|Number=Sing	22	nmod	_	_
 27	.	.	PUNCT	Q.	_	20	punct	_	_
 
-
 # sent_id = 868
 # text = Alejandro_Amenábar durante a rodaxe de Mar_adentro .
 1-2	Alejandro_Amenábar	_	_	_	_	_	_	_	_
@@ -5313,7 +5141,6 @@
 7	Mar	mar	PROPN	Sp00	_	5	nmod	_	_
 8	adentro	adentro	PROPN	Sp00	_	7	flat:name	_	_
 9	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 870
 # text = en_concreto , que Galiza posúe mundos propios factíbeis de contar .
@@ -5330,7 +5157,6 @@
 10	de	de	ADP	P	AdpType=Prep	11	mark	_	_
 11	contar	contar	VERB	V0f000	VerbForm=Inf	9	advcl	_	_
 12	.	.	PUNCT	Q.	_	6	punct	_	_
-
 
 # sent_id = 878
 # text = ver o que outros non ven _ por_moito_que resulte obvio _ é un mérito de os artistas , igual que en a fábula de O_rei_espido .
@@ -5366,7 +5192,6 @@
 28	rei	rei	PROPN	Sp00	_	27	flat:name	_	_
 29	espido	espido	PROPN	Sp00	_	27	flat:name	_	_
 30	.	.	PUNCT	Q.	_	25	punct	_	_
-
 
 # sent_id = 880
 # text = o cuarto de o tetrapléxico , con os seus discos , os seus libros , e a súa familia , merece pasar a a historia de as artes , igual que o salón submarino de o capitán Nemo , o gabinete de o doutor Caligari ou o cuarto en o que escribía Enmanuel_Kant .
@@ -5427,7 +5252,6 @@
 54	Kant	kant	PROPN	Spm0	Gender=Masc	53	flat:name	_	_
 55	.	.	PUNCT	Q.	_	21	punct	_	_
 
-
 # sent_id = 888
 # text = o actor suízo Bruno_Ganz en o papel de Adolf_Hitler .
 1	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -5444,7 +5268,6 @@
 10	Adolf	adolf	PROPN	Spm0	Gender=Masc	8	nmod	_	_
 11	Hitler	hitler	PROPN	Spm0	Gender=Masc	10	flat:name	_	_
 12	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 890
 # text = o máis interesante de a súa exibición é sen_dúbida a grande afluencia de público e o silencio que se observa en todo momento en a sala .
@@ -5478,7 +5301,6 @@
 27	sala	sala	NOUN	Scfs	Gender=Fem|Number=Sing	21	obl	_	_
 28	.	.	PUNCT	Q.	_	13	punct	_	_
 
-
 # sent_id = 898
 # text = Goebbels pide resistir uns días máis o ataque soviético para así negociar con Eisenhower .
 1	Goebbels	Goebbels	PROPN	Sp00	_	2	nsubj	_	_
@@ -5496,7 +5318,6 @@
 13	con	con	ADP	P	AdpType=Prep	14	case	_	_
 14	Eisenhower	Eisenhower	PROPN	Sp00	_	12	obl	_	_
 15	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 900
 # text = Goebbels , outra vez , lembra que xa venceu os comunistas en Berlín ( referindo se probabelmente a a revolución espartaquista de o 18 que , como reacción , deu pulo e apoios , a o nazismo emerxente ) .
@@ -5541,7 +5362,6 @@
 39	)	)	PUNCT	Q)	_	15	punct	_	_
 40	.	.	PUNCT	Q.	_	6	punct	_	_
 
-
 # sent_id = 908
 # text = hoxe é unha experta en esta arte floral xaponesa .
 1	hoxe	hoxe	ADV	Wn	_	4	advmod	_	_
@@ -5555,7 +5375,6 @@
 9	xaponesa	xaponés	ADJ	A0fs	Gender=Fem|Number=Sing	7	amod	_	_
 10	.	.	PUNCT	Q.	_	4	punct	_	_
 
-
 # sent_id = 910
 # text = a ikebana é a arte floral de os xaponeses .
 1	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -5568,7 +5387,6 @@
 8	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	xaponeses	xaponés	NOUN	Scmp	Gender=Masc|Number=Plur	5	nmod	_	_
 10	.	.	PUNCT	Q.	_	5	punct	_	_
-
 
 # sent_id = 918
 # text = é algo que che fai ver a natureza de maneira diferente .
@@ -5585,7 +5403,6 @@
 11	diferente	diferente	ADJ	A0fs	Gender=Fem|Number=Sing	10	amod	_	_
 12	.	.	PUNCT	Q.	_	2	punct	_	_
 
-
 # sent_id = 920
 # text = como chegou vostede a interesar se por esta arte ?
 1	como	como	ADV	Wg	PronType=Int	2	advmod	_	_
@@ -5598,7 +5415,6 @@
 8	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
 9	arte	arte	NOUN	Scfs	Gender=Fem|Number=Sing	5	obl	_	_
 10	?	?	PUNCT	Q?	_	2	punct	_	_
-
 
 # sent_id = 928
 # text = calcula se que hai arredor_de 15.000 escolas , e mesmo hai países ( Australia , Alemaña e Suíza ) en os que esta arte floral é estudada en as propias universidades .
@@ -5637,7 +5453,6 @@
 32	universidades	universidade	NOUN	Scfp	Gender=Fem|Number=Plur	28	obl	_	_
 33	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 930
 # text = agora vostede vive en Santiago .
 1	agora	agora	ADV	Wn	_	3	advmod	_	_
@@ -5646,7 +5461,6 @@
 4	en	en	ADP	P	AdpType=Prep	5	case	_	_
 5	Santiago	Santiago	PROPN	Sp00	_	3	obl	_	_
 6	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 938
 # text = gustaría me moito desenvolver esta arte aquí por varias razóns .
@@ -5661,7 +5475,6 @@
 9	varias	varios	DET	Idfp	Gender=Fem|Number=Plur|PronType=Ind	10	det	_	_
 10	razóns	razón	NOUN	Scfp	Gender=Fem|Number=Plur	1	obl	_	_
 11	.	.	PUNCT	Q.	_	1	punct	_	_
-
 
 # sent_id = 940
 # text = dende_logo , o que non nos falta é materia prima de primeira calidade para facer ikebana , que pode ter un gran futuro en Galiza .
@@ -5693,7 +5506,6 @@
 25	en	en	ADP	P	AdpType=Prep	26	case	_	_
 26	Galiza	Galiza	PROPN	Sp00	_	21	obl	_	_
 27	.	.	PUNCT	Q.	_	8	punct	_	_
-
 
 # sent_id = 948
 # text = o alcalde de Narón , Xoán_Gato ; o de Ferrol , Xoán_Xuncal ; o presidente de Portos_de_Galicia , Carlos_Negreira ; e Xoán_Fernández , primeiro tenente_de_alcalde de Ferrol .
@@ -5739,7 +5551,6 @@
 34	de	de	ADP	P	AdpType=Prep	35	case	_	_
 35	Ferrol	Ferrol	PROPN	Sp00	_	25	nmod	_	_
 36	.	.	PUNCT	Q.	_	2	punct	_	_
-
 
 # sent_id = 950
 # text = dende a primeira reconversión industrial , ficou claro que Ferrol ía ser o perdedor de un proceso económico que non soubo dar lle un futuro progresivo a a cidade que foi berce de a Ilustración e de o avance tecnolóxico en Galiza .
@@ -5787,7 +5598,6 @@
 42	Galiza	Galiza	PROPN	Sp00	_	32	nmod	_	_
 43	.	.	PUNCT	Q.	_	32	punct	_	_
 
-
 # sent_id = 958
 # text = a Ferrol caeu lle enriba o peor de as sucesivas fases de a reconversión naval até rematar en a postración económica que padece hoxe .
 1	a	a	ADP	P	AdpType=Prep	2	case	_	_
@@ -5815,7 +5625,6 @@
 23	padece	padecer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl	_	_
 24	hoxe	hoxe	ADV	Wn	_	23	advmod	_	_
 25	.	.	PUNCT	Q.	_	3	punct	_	_
-
 
 # sent_id = 960
 # text = pouco despois , esta merma laboral acadou a cifra de 8.126 postos laborais perdidos , pero a zona afectada só recibiu fondos de compensación que lle permitiron crear 300 postos de traballo .
@@ -5853,7 +5662,6 @@
 32	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	30	nmod	_	_
 33	.	.	PUNCT	Q.	_	7	punct	_	_
 
-
 # sent_id = 968
 # text = alguén pensa que Ferrol pode seguir sendo o que foi en o tocante a o desenvolvemento de a industria naval ?
 1	alguén	alguén	PRON	Inas	Gender=Com|Number=Sing|PronType=Ind	2	nsubj	_	_
@@ -5878,7 +5686,6 @@
 20	naval	naval	ADJ	A0fs	Gender=Fem|Number=Sing	19	amod	_	_
 21	?	?	PUNCT	Q?	_	2	punct	_	_
 
-
 # sent_id = 970
 # text = o que pode busca a vida fóra .
 1	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -5889,7 +5696,6 @@
 6	vida	vida	NOUN	Scfs	Gender=Fem|Number=Sing	4	obj	_	_
 7	fóra	fóra	ADV	Wn	_	4	advmod	_	_
 8	.	.	PUNCT	Q.	_	4	punct	_	_
-
 
 # sent_id = 978
 # text = fai se con os currículos de todos os que lle pode birlar un posto de traballo e , un a un , vai nos matando .
@@ -5920,7 +5726,6 @@
 25	matando	matar	VERB	V0x000	VerbForm=Ger	1	conj	_	_
 26	.	.	PUNCT	Q.	_	1	punct	_	_
 
-
 # sent_id = 980
 # text = ' estamos pagando o traballar exclusivamente para o Estado '
 1	'	'	PUNCT	Q'	_	3	punct	_	_
@@ -5933,7 +5738,6 @@
 8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Estado	Estado	PROPN	Spms	Gender=Masc|Number=Sing	5	obl	_	_
 10	'	'	PUNCT	Q'	_	3	punct	_	_
-
 
 # sent_id = 988
 # text = o problema é que , cando morramos os que agora imos seguir cobrando , rematan eses ingresos .
@@ -5956,7 +5760,6 @@
 17	ingresos	ingreso	NOUN	Scmp	Gender=Masc|Number=Plur	15	obj	_	_
 18	.	.	PUNCT	Q.	_	15	punct	_	_
 
-
 # sent_id = 990
 # text = os que nós deixamos non pasa a ocupar los ninguén .
 1	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
@@ -5970,7 +5773,6 @@
 9	los	o	PRON	Raa3mp	Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3	8	obj	_	_
 10	ninguén	ninguén	PRON	Inas	Gender=Com|Number=Sing|PronType=Ind	8	nsubj	_	_
 11	.	.	PUNCT	Q.	_	8	punct	_	_
-
 
 # sent_id = 998
 # text = pois esa garantía debe ser para a totalidade de os traballadores , e non para uns cantos que lle puideran ser afíns a CC_OO .
@@ -6001,7 +5803,6 @@
 24	CC	cc	PROPN	Zg00	_	22	iobj	_	_
 25	OO	oo	PROPN	Zg00	_	24	flat:name	_	_
 26	.	.	PUNCT	Q.	_	22	punct	_	_
-
 
 # sent_id = 1000
 # text = segundo Cagiao , isto foi o que dificultou os que ían ser derradeiros pasos de a regulación laboral de as antigas Astano e Bazán , denominada Navantia dende esta semana .
