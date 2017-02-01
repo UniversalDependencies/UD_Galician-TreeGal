@@ -7,12 +7,12 @@ All the information except the syntactic one was semi-automatically converted to
 Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 20-40-40 splits (train-dev-test).
 
 ### Stats
-Tree count:  1000
-Word count:  25383
-Token count: 24219
-Dep. relations: 37 of which 4 language specific
-POS tags: 15
-Category=value feature pairs: 44
+* Tree count:  1000
+* Word count:  25383
+* Token count: 24219
+* Dep. relations: 37 of which 4 language specific
+* POS tags: 15
+* Category=value feature pairs: 44
 
 ### Issues
 * Complex proper nouns have always a flat:name internal structure.
@@ -32,6 +32,7 @@ Category=value feature pairs: 44
 * Added text (automatically from the tokenized sentence)
 
 --- Machine readable metadata ---
+
 Documentation status: partial
 
 Data source: manual
