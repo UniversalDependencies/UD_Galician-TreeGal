@@ -8,10 +8,10 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
 
 ### Stats
 * Tree count:  1000
-* Word count:  25383
-* Token count: 24219
+* Word count:  25483
+* Token count: 23475
 * Dep. relations: 37 of which 4 language specific
-* POS tags: 15
+* POS tags: 16
 * Category=value feature pairs: 44
 
 ### Issues
@@ -23,13 +23,13 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
 
 ### Changelog
 
-2017-01-02 v0.4
+2017-05-02 v0.4
 
 * POS-tags, morphological features and dependency relations adapted do UDv2
 * Multiword expressions expanded (previously as single tokens)
 * Complex proper nouns expanded (internal structure as flat:name)
 * General review
-* Added text (automatically from the tokenized sentence)
+* Added original text
 
 --- Machine readable metadata ---
 
