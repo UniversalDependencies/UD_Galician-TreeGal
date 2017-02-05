@@ -5587,7 +5587,7 @@
 51	conservando	conservar	VERB	V0x000	VerbForm=Ger	49	advcl	_	_
 52	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	53	det	_	_
 53	denominación	denominación	NOUN	Scfs	Gender=Fem|Number=Sing	51	obj	_	_
-54	de	de	ADP	P	AdpType=Prep	55	det	_	_
+54	de	de	ADP	P	AdpType=Prep	55	case	_	_
 55	portagem	portagem	NOUN	Scfs	_	53	nmod	_	_
 56	(	(	PUNCT	Q(	_	57	punct	_	_
 57	pago	pago	NOUN	Scms	Gender=Masc|Number=Sing	55	appos	_	_
