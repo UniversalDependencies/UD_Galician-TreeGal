@@ -388,7 +388,7 @@
 40	obra	obra	NOUN	Scfs	Gender=Fem|Number=Sing	34	nmod	_	_
 41	,	,	PUNCT	Q,	_	24	punct	_	_
 42	como	como	SCONJ	Cs	_	43	case	_	_
-43	Tres	tres	NUM	N0000	_	45	nummod	_	_
+43	Tres	tres	NUM	N0000	NumType=Card	45	nummod	_	_
 44	tristes	triste	ADJ	A00p	_	45	amod	_	_
 45	tigres	tigres	PROPN	Sp00	_	34	nmod	_	_
 46	e	e	CCONJ	Cc	_	47	cc	_	_
@@ -1793,7 +1793,7 @@
 6	en	en	ADP	P	AdpType=Prep	8	case	_	_
 7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Base	base	PROPN	Spfs	Gender=Fem|Number=Sing	5	obl	_	_
-9	XII	xii	NUM	N0000	_	8	nummod	_	_
+9	XII	xii	NUM	N0000	NumType=Card	8	nummod	_	_
 10	,	,	PUNCT	Q,	_	5	punct	_	_
 11	sería	ser	AUX	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	13	cop	_	_
 12	moi	moito	ADV	Wm	_	13	advmod	_	_
@@ -3642,7 +3642,7 @@
 23-24	do	_	_	_	_	_	_	_	_
 23	de	de	ADP	P	AdpType=Prep	25	case	_	_
 24	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-25	36	36	NUM	N0000	_	22	nmod	_	_
+25	36	36	NUM	N0000	NumType=Card	22	nmod	_	_
 26	,	,	PUNCT	Q,	_	18	punct	_	_
 27	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	29	nsubj	_	_
 28	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3	29	iobj	_	_
