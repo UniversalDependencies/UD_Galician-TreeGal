@@ -15,7 +15,8 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
 * Category=value feature pairs: 44
 
 ### Issues
-* Complex proper nouns have always a flat:name internal structure.
+* There are a few tokens with blank spaces (telephone numbers: "xxx xxx xxx").
+* The morphological features of some tokens (analyzed as part of proper nouns in the original corpus) are not available.
 * The dependency labels need to be reviewed by another expert to calculate inter-annotator agreement.
 
 ### References
