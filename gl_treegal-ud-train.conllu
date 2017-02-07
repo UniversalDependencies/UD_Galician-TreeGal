@@ -788,7 +788,7 @@
 30	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	33	obl	_	_
 31	non	non	ADV	Wm	Polarity=Neg	33	advmod	_	_
 32	só	só	ADV	Wn	_	33	advmod	_	_
-33	demandaba	demandar	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
+33	demandaba	demandar	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	_
 34	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
 35	primeiro	primeiro	NUM	Nodms	Gender=Masc|Number=Sing|NumType=Ord	36	nummod	_	_
 36	posto	posto	NOUN	Scms	Gender=Masc|Number=Sing	33	obj	_	_
@@ -803,9 +803,9 @@
 43	eleccións	elección	NOUN	Scfp	Gender=Fem|Number=Plur	39	nmod	_	_
 44	autonómicas	autonómico	ADJ	A0fp	Gender=Fem|Number=Plur	43	amod	_	_
 45	,	,	PUNCT	Q,	_	33	punct	_	_
-46	senón	senón	SCONJ	Cs	_	48	mark	_	_
-47	que	que	SCONJ	Cs	_	46	fixed	_	_
-48	suxería	suxerir	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	ccomp	_	_
+46	senón	senón	SCONJ	Cs	_	48	cc	_	_
+47	que	que	SCONJ	Cs	_	48	mark	_	_
+48	suxería	suxerir	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	conj	_	_
 49	que	que	SCONJ	Cs	_	50	mark	_	_
 50-51	excluílo	_	_	_	_	_	_	_	_
 50	excluír	excluír	VERB	V0f000	VerbForm=Inf	54	csubj	_	_
@@ -1123,7 +1123,7 @@
 4	forzou	forzar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	no	o	PRON	Raa3ms	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	a	a	ADP	P	AdpType=Prep	7	mark	_	_
-7	continuar	continuar	VERB	V0f000	VerbForm=Inf	4	ccomp	_	_
+7	continuar	continuar	VERB	V0f000	VerbForm=Inf	4	xcomp	_	_
 8	adiante	adiante	ADV	Wn	_	7	advmod	_	_
 9-10	co	_	_	_	_	_	_	_	_
 9	con	con	ADP	P	AdpType=Prep	11	case	_	_
@@ -1156,7 +1156,7 @@
 33	denominou	denominar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	acl	_	_
 34	pomposamente	pomposamente	ADV	Wn	_	33	advmod	_	_
 35	"	"	PUNCT	Q"	_	36	punct	_	_
-36	Vigo	vigo	PROPN	Sp00	_	33	obj	_	_
+36	Vigo	vigo	PROPN	Sp00	_	33	nmod	_	_
 37	2005	2005	PROPN	Sp00	_	36	flat:name	_	_
 38	"	"	PUNCT	Q"	_	36	punct	_	_
 39	.	.	PUNCT	Q.	_	4	punct	_	_
@@ -2333,7 +2333,7 @@
 7	de	de	ADP	P	AdpType=Prep	8	case	_	_
 8	abril	abril	NOUN	Scms	Gender=Masc|Number=Sing	6	nmod	_	_
 9	e	e	CCONJ	Cc	_	12	cc	_	_
-10	non	non	ADV	Wn	Polarity=Neg	11	advmod	_	_
+10	non	non	ADV	Wn	Polarity=Neg	12	advmod	_	_
 11	sen	sen	ADP	P	AdpType=Prep|Polarity=Neg	12	case	_	_
 12	polémicas	polémica	NOUN	Scfp	Gender=Fem|Number=Plur	2	conj	_	_
 13	nin	nin	CCONJ	Cc	Polarity=Neg	14	cc	_	_
@@ -3330,7 +3330,7 @@
 # sent_id = 578
 # text = Meterse naquela lingua cervantina e buscar expresións comprensíbeis sen traicionalo deunos moito a lata.
 1-2	Meterse	_	_	_	_	_	_	_	_
-1	Meter	meter	VERB	V0f000	VerbForm=Inf	14	ccomp	_	_
+1	Meter	meter	VERB	V0f000	VerbForm=Inf	14	csubj	_	_
 2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	1	expl	_	_
 3-4	naquela	_	_	_	_	_	_	_	_
 3	en	en	ADP	P	AdpType=Prep	5	case	_	_
@@ -3961,7 +3961,7 @@
 32	propia	propio	DET	Idfs	Gender=Fem|Number=Sing|PronType=Ind	33	det	_	_
 33	prenda	prenda	NOUN	Scfs	Gender=Fem|Number=Sing	30	obj	_	_
 34	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	36	nsubj	_	_
-35	lle	lle	PRON	Rad3fs	Case=Dat|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	obj	_	_
+35	lle	lle	PRON	Rad3fs	Case=Dat|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	iobj	_	_
 36	dá	dar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	acl	_	_
 37	nome	nome	NOUN	Scms	Gender=Masc|Number=Sing	36	obj	_	_
 38	.	.	PUNCT	Q.	_	36	punct	_	_
@@ -4220,7 +4220,7 @@
 # text = Se ben hai poemas nos que o ritmo está conseguido, debido, sobretodo, aos varios rexistros utilizados polo poeta, moitas veces semella que en troco dun ritmo baseado no acento ou no verso, estea baseado máis na respiración do lector.
 1	Se	se	SCONJ	Cs	_	3	mark	_	_
 2	ben	ben	ADV	Wn	_	1	fixed	_	_
-3	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	ccomp	_	_
+3	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	advcl	_	_
 4	poemas	poema	NOUN	Scmp	Gender=Masc|Number=Plur	3	obj	_	_
 5-6	nos	_	_	_	_	_	_	_	_
 5	en	en	ADP	P	AdpType=Prep	7	case	_	_
@@ -4303,8 +4303,8 @@
 18	estes	este	DET	Edmp	Gender=Masc|Number=Plur|PronType=Dem	19	det	_	_
 19	acertos	acerto	NOUN	Scmp	Gender=Masc|Number=Plur	20	obl	_	_
 20	pagou	pagar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	ccomp	_	_
-21	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-22	pena	pena	NOUN	Scfs	Gender=Fem|Number=Sing	20	obj	_	_
+21	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	fixed	_	_
+22	pena	pena	NOUN	Scfs	Gender=Fem|Number=Sing	20	fixed	_	_
 23	ler	ler	VERB	V0f000	VerbForm=Inf	20	ccomp	_	_
 24	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	libro	libro	NOUN	Scms	Gender=Masc|Number=Sing	23	obj	_	_
@@ -5141,7 +5141,7 @@
 33	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	36	nsubj	_	_
 35	nos	nos	PRON	Rad1ap	Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	36	iobj	_	_
-36	permite	permitir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+36	permite	permitir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 37	analizar	analizar	VERB	V0f000	VerbForm=Inf	36	xcomp	_	_
 38	mellor	mellor	ADV	Wn	_	37	advmod	_	_
 39	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	40	det	_	_
@@ -5455,7 +5455,7 @@
 12	máis	máis	ADV	Wn	_	14	advmod	_	_
 13	de	de	ADP	P	AdpType=Prep	15	case	_	_
 14	5.000	5.000	NUM	Ncdfp	Gender=Fem|Number=Plur|NumType=Card	15	nummod	_	_
-15	persoas	persoa	NOUN	Scfp	Gender=Fem|Number=Plur	9	appos	_	_
+15	persoas	persoa	NOUN	Scfp	Gender=Fem|Number=Plur	8	appos	_	_
 16	sen	sen	ADP	P	AdpType=Prep|Polarity=Neg	17	case	_	_
 17	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	15	nmod	_	_
 18	)	)	PUNCT	Q)	_	15	punct	_	_
