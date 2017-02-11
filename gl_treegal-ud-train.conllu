@@ -4,10 +4,10 @@
 2-3	á	_	_	_	_	_	_	_	_
 2	a	a	ADP	P	AdpType=Prep	4	case	_	_
 3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	autodeterminación	autodeterminación	NOUN	Scfs	Gender=Fem|Number=Sing	1	nmod	_	_
+4	autodeterminación	autodeterminación	NOUN	Scfs	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	Q,	_	6	punct	_	_
 6	cidadanía	cidadanía	NOUN	Scfs	Gender=Fem|Number=Sing	1	conj	_	_
-7	galega	galego	ADJ	A0fs	Gender=Fem|Number=Sing	6	amod	_	_
+7	galega	galego	ADJ	A0fs	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	9	punct	_	_
 9	presenza	presenza	NOUN	Scfs	Gender=Fem|Number=Sing	1	conj	_	_
 10-11	nas	_	_	_	_	_	_	_	_
@@ -17,7 +17,7 @@
 13	internacionais	internacional	ADJ	A0fp	Gender=Fem|Number=Plur	12	amod	_	_
 14	e	e	CCONJ	Cc	_	16	cc	_	_
 15	maior	maior	ADJ	Acms	Degree=Cmp|Gender=Masc|Number=Sing	16	amod	_	_
-16	autogoberno	autogoberno	NOUN	Scms	Gender=Masc|Number=Sing	1	conj	_	_
+16	autogoberno	autogoberno	NOUN	Scms	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
 17	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 8
@@ -32,9 +32,9 @@
 7-8	desa	_	_	_	_	_	_	_	_
 7	de	de	ADP	P	AdpType=Prep	9	case	_	_
 8	esa	ese	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
-9	unidade	unidade	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	_
+9	unidade	unidade	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	Q,	_	1	punct	_	_
-11	"	"	PUNCT	Q"	_	16	punct	_	_
+11	"	"	PUNCT	Q"	_	16	punct	_	SpaceAfter=No
 12	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	galegos	galego	NOUN	Scmp	Gender=Masc|Number=Plur	16	nsubj	_	_
 14	e	e	CCONJ	Cc	_	15	cc	_	_
@@ -46,11 +46,11 @@
 20	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 21	nosa	noso	DET	Md1pfs	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	22	det	_	_
 22	identidade	identidade	NOUN	Scfs	Gender=Fem|Number=Sing	18	obj	_	_
-23	política	político	ADJ	A0fs	Gender=Fem|Number=Sing	22	amod	_	_
+23	política	político	ADJ	A0fs	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
 24	,	,	PUNCT	Q,	_	22	punct	_	_
 25	cultural	cultural	ADJ	A0fs	Gender=Fem|Number=Sing	23	conj	_	_
 26	e	e	CCONJ	Cc	_	27	cc	_	_
-27	lingüística	lingüístico	ADJ	A0fs	Gender=Fem|Number=Sing	23	conj	_	_
+27	lingüística	lingüístico	ADJ	A0fs	Gender=Fem|Number=Sing	23	conj	_	SpaceAfter=No
 28	,	,	PUNCT	Q,	_	30	punct	_	_
 29	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	dereito	dereito	NOUN	Scms	Gender=Masc|Number=Sing	22	conj	_	_
@@ -84,11 +84,11 @@
 55	de	de	ADP	P	AdpType=Prep	57	case	_	_
 56	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	57	det	_	_
 57	democracia	democracia	NOUN	Scfs	Gender=Fem|Number=Sing	53	nmod	_	_
-58	global	global	ADJ	A0fs	Gender=Fem|Number=Sing	57	amod	_	_
+58	global	global	ADJ	A0fs	Gender=Fem|Number=Sing	57	amod	_	SpaceAfter=No
 59	,	,	PUNCT	Q,	_	53	punct	_	_
 60	legalizada	legalizar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	58	conj	_	_
 61	e	e	CCONJ	Cc	_	62	cc	_	_
-62	institucionalizada	institucionalizar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	58	conj	_	_
+62	institucionalizada	institucionalizar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	58	conj	_	SpaceAfter=No
 63	,	,	PUNCT	Q,	_	51	punct	_	_
 64	de	de	ADP	P	AdpType=Prep	65	case	_	_
 65	acordo	acordo	NOUN	Scms	Gender=Masc|Number=Sing	68	nmod	_	_
@@ -112,8 +112,8 @@
 80	democraticamente	democraticamente	ADV	Wn	_	81	advmod	_	_
 81	queremos	querer	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	72	ccomp	_	_
 82	ser	ser	AUX	V0f000	VerbForm=Inf	83	cop	_	_
-83	partícipes	partícipe	NOUN	Scap	Gender=Com|Number=Plur	81	xcomp	_	_
-84	"	"	PUNCT	Q"	_	16	punct	_	_
+83	partícipes	partícipe	NOUN	Scap	Gender=Com|Number=Plur	81	xcomp	_	SpaceAfter=No
+84	"	"	PUNCT	Q"	_	16	punct	_	SpaceAfter=No
 85	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 13
@@ -121,12 +121,12 @@
 1	Configurada	configurar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	7	acl	_	_
 2	en	en	ADP	P	AdpType=Prep	4	case	_	_
 3	17	17	NUM	Ncdfp	Gender=Fem|Number=Plur|NumType=Card	4	nummod	_	_
-4	bases	base	NOUN	Scfp	Gender=Fem|Number=Plur	1	obl	_	_
+4	bases	base	NOUN	Scfp	Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
 5	,	,	PUNCT	Q,	_	1	punct	_	_
 6	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	proposta	proposta	NOUN	Scfs	Gender=Fem|Number=Sing	8	nsubj	_	_
 8	asume	asumir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	"	"	PUNCT	Q"	_	11	punct	_	_
+9	"	"	PUNCT	Q"	_	11	punct	_	SpaceAfter=No
 10	como	como	ADV	Wr	PronType=Rel	11	case	_	_
 11	tarefa	tarefa	NOUN	Scfs	Gender=Fem|Number=Sing	8	obl	_	_
 12	principal	principal	ADJ	A0fs	Gender=Fem|Number=Sing	11	amod	_	_
@@ -147,7 +147,7 @@
 25	seus	seu	DET	Md3smp	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
 26	dereitos	dereito	NOUN	Scmp	Gender=Masc|Number=Plur	19	conj	_	_
 27	e	e	CCONJ	Cc	_	28	cc	_	_
-28	intereses	interese	NOUN	Scmp	Gender=Masc|Number=Plur	26	conj	_	_
+28	intereses	interese	NOUN	Scmp	Gender=Masc|Number=Plur	26	conj	_	SpaceAfter=No
 29	,	,	PUNCT	Q,	_	8	punct	_	_
 30	así	así	ADV	Wn	_	33	cc	_	_
 31	como	como	SCONJ	Cs	_	30	fixed	_	_
@@ -163,7 +163,7 @@
 40	integran	integrar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	acl	_	_
 41	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
 42	pobo	pobo	NOUN	Scms	Gender=Masc|Number=Sing	40	obj	_	_
-43	galego	galego	ADJ	A0ms	Gender=Masc|Number=Sing	42	amod	_	_
+43	galego	galego	ADJ	A0ms	Gender=Masc|Number=Sing	42	amod	_	SpaceAfter=No
 44	,	,	PUNCT	Q,	_	40	punct	_	_
 45-46	ao	_	_	_	_	_	_	_	_
 45	a	a	ADP	P	AdpType=Prep	47	case	_	_
@@ -174,7 +174,7 @@
 49	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	50	det	_	_
 50	idea	idea	NOUN	Scfs	Gender=Fem|Number=Sing	47	nmod	_	_
 51	de	de	ADP	P	AdpType=Prep	52	case	_	_
-52	galeguidade	galeguidade	NOUN	Scfs	Gender=Fem|Number=Sing	50	nmod	_	_
+52	galeguidade	galeguidade	NOUN	Scfs	Gender=Fem|Number=Sing	50	nmod	_	SpaceAfter=No
 53	,	,	PUNCT	Q,	_	33	punct	_	_
 54	entendida	entender	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	50	amod	_	_
 55	como	como	ADV	Wr	PronType=Rel	54	advmod	_	_
@@ -186,9 +186,9 @@
 61	compartiren	compartir	VERB	V0f30p	Number=Plur|Person=3|VerbForm=Inf	59	conj	_	_
 62	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	63	det	_	_
 63	vida	vida	NOUN	Scfs	Gender=Fem|Number=Sing	61	obj	_	_
-64	social	social	ADJ	A0fs	Gender=Fem|Number=Sing	63	amod	_	_
+64	social	social	ADJ	A0fs	Gender=Fem|Number=Sing	63	amod	_	SpaceAfter=No
 65	,	,	PUNCT	Q,	_	66	punct	_	_
-66	cultural	cultural	ADJ	A0fs	Gender=Fem|Number=Sing	64	conj	_	_
+66	cultural	cultural	ADJ	A0fs	Gender=Fem|Number=Sing	64	conj	_	SpaceAfter=No
 67	,	,	PUNCT	Q,	_	68	punct	_	_
 68	económica	económico	ADJ	A0fs	Gender=Fem|Number=Sing	64	conj	_	_
 69	e	e	CCONJ	Cc	_	70	cc	_	_
@@ -196,8 +196,8 @@
 71-72	da	_	_	_	_	_	_	_	_
 71	de	de	ADP	P	AdpType=Prep	73	case	_	_
 72	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	73	det	_	_
-73	nación	nación	NOUN	Scfs	Gender=Fem|Number=Sing	63	nmod	_	_
-74	"	"	PUNCT	Q"	_	54	punct	_	_
+73	nación	nación	NOUN	Scfs	Gender=Fem|Number=Sing	63	nmod	_	SpaceAfter=No
+74	"	"	PUNCT	Q"	_	54	punct	_	SpaceAfter=No
 75	.	.	PUNCT	Q.	_	8	punct	_	_
 
 # sent_id = 18
@@ -229,7 +229,7 @@
 20	de	de	ADP	P	AdpType=Prep	22	case	_	_
 21	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	Lingua	lingua	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	_
-23	Galega	galego	ADJ	Acfs	Gender=Fem|Number=Sing	22	amod	_	_
+23	Galega	galego	ADJ	Acfs	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
 24	.	.	PUNCT	Q.	_	14	punct	_	_
 
 # sent_id = 23
@@ -246,7 +246,7 @@
 10	de	de	ADP	P	AdpType=Prep	11	case	_	_
 11	desenvolvemento	desenvolvemento	NOUN	Scms	Gender=Masc|Number=Sing	9	nmod	_	_
 12	estatutario	estatutario	ADJ	A0ms	Gender=Masc|Number=Sing	11	amod	_	_
-13	básico	básico	ADJ	A0ms	Gender=Masc|Number=Sing	11	amod	_	_
+13	básico	básico	ADJ	A0ms	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	6	punct	_	_
 15-16	cos	_	_	_	_	_	_	_	_
 15	con	con	ADP	P	AdpType=Prep	17	case	_	_
@@ -264,7 +264,7 @@
 25	para	para	ADP	P	AdpType=Prep	27	case	_	_
 26	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	nacionalidade	nacionalidade	NOUN	Scfs	Gender=Fem|Number=Sing	21	nmod	_	_
-28	española	español	ADJ	A0fs	Gender=Fem|Number=Sing	27	amod	_	_
+28	española	español	ADJ	A0fs	Gender=Fem|Number=Sing	27	amod	_	SpaceAfter=No
 29	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 28
@@ -282,7 +282,7 @@
 10	acceso	acceso	NOUN	Scms	Gender=Masc|Number=Sing	9	obj	_	_
 11	a	a	ADP	P	AdpType=Prep	14	case	_	_
 12	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	"	"	PUNCT	Q"	_	14	punct	_	_
+13	"	"	PUNCT	Q"	_	14	punct	_	SpaceAfter=No
 14	ambiente	ambiente	NOUN	Scms	Gender=Masc|Number=Sing	10	nmod	_	_
 15	saudábel	saudábel	ADJ	A0ms	Gender=Masc|Number=Sing	14	amod	_	_
 16	e	e	CCONJ	Cc	_	19	cc	_	_
@@ -302,8 +302,8 @@
 26	de	de	ADP	P	AdpType=Prep	28	case	_	_
 27	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	desenvolvemento	desenvolvemento	NOUN	Scms	Gender=Masc|Number=Sing	25	nmod	_	_
-29	sustentábel	sustentábel	ADJ	A0ms	Gender=Masc|Number=Sing	28	amod	_	_
-30	"	"	PUNCT	Q"	_	14	punct	_	_
+29	sustentábel	sustentábel	ADJ	A0ms	Gender=Masc|Number=Sing	28	amod	_	SpaceAfter=No
+30	"	"	PUNCT	Q"	_	14	punct	_	SpaceAfter=No
 31	.	.	PUNCT	Q.	_	9	punct	_	_
 
 # sent_id = 33
@@ -311,7 +311,7 @@
 1	Se	se	SCONJ	Cs	_	3	mark	_	_
 2	xa	xa	ADV	Wn	_	3	advmod	_	_
 3	somos	ser	AUX	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	europeos	europeo	NOUN	Scmp	Gender=Masc|Number=Plur	0	root	_	_
+4	europeos	europeo	NOUN	Scmp	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 5	...	...	PUNCT	Q...	_	4	punct	_	_
 
 # sent_id = 38
@@ -327,7 +327,7 @@
 8-9	ao	_	_	_	_	_	_	_	_
 8	a	a	ADP	P	AdpType=Prep	10	case	_	_
 9	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	día	día	NOUN	Scms	Gender=Masc|Number=Sing	3	obl	_	_
+10	día	día	NOUN	Scms	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 11	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 43
@@ -340,14 +340,14 @@
 6	súa	seu	DET	Md3sfs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	dona	dona	NOUN	Scfs	Gender=Fem|Number=Sing	1	conj	_	_
 8	Miriam	miriam	PROPN	Spfs	Gender=Fem|Number=Sing	7	nmod	_	_
-9	Gómez	gómez	PROPN	Spfs	Gender=Fem|Number=Sing	8	flat:name	_	_
+9	Gómez	gómez	PROPN	Spfs	Gender=Fem|Number=Sing	8	flat:name	_	SpaceAfter=No
 10	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 48
 # text = A nosa editorial, usando a intermediación de algúns escritores cubanos que o coñecían e que viaxaban a Londres por diferentes motivos, fixo varios intentos por lograr a súa aprobación para publicar títulos representativos dentro da súa obra, como Tres tristes tigres e A Habana para un infante difunto.
 1	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	nosa	noso	DET	Md1pfs	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
-3	editorial	editorial	NOUN	Scfs	Gender=Fem|Number=Sing	24	nsubj	_	_
+3	editorial	editorial	NOUN	Scfs	Gender=Fem|Number=Sing	24	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	5	punct	_	_
 5	usando	usar	VERB	V0x000	VerbForm=Ger	24	advcl	_	_
 6	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -366,7 +366,7 @@
 19	Londres	Londres	PROPN	Sp00	_	17	obl	_	_
 20	por	por	ADP	P	AdpType=Prep	22	case	_	_
 21	diferentes	diferente	ADJ	A0mp	Gender=Masc|Number=Plur	22	amod	_	_
-22	motivos	motivo	NOUN	Scmp	Gender=Masc|Number=Plur	17	obl	_	_
+22	motivos	motivo	NOUN	Scmp	Gender=Masc|Number=Plur	17	obl	_	SpaceAfter=No
 23	,	,	PUNCT	Q,	_	24	punct	_	_
 24	fixo	facer	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 25	varios	varios	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	26	det	_	_
@@ -385,7 +385,7 @@
 37	de	de	ADP	P	AdpType=Prep	36	fixed	_	_
 38	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 39	súa	seu	DET	Md3sfs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	40	det	_	_
-40	obra	obra	NOUN	Scfs	Gender=Fem|Number=Sing	34	nmod	_	_
+40	obra	obra	NOUN	Scfs	Gender=Fem|Number=Sing	34	nmod	_	SpaceAfter=No
 41	,	,	PUNCT	Q,	_	24	punct	_	_
 42	como	como	SCONJ	Cs	_	45	case	_	_
 43	Tres	tres	NUM	N0000	NumType=Card	45	nummod	_	_
@@ -397,7 +397,7 @@
 49	para	para	ADP	P	AdpType=Prep	51	case	_	_
 50	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	51	det	_	_
 51	infante	infante	NOUN	Scms	Gender=Masc|Number=Sing	48	nmod	_	_
-52	difunto	difunto	ADJ	A0ms	Gender=Masc|Number=Sing	51	amod	_	_
+52	difunto	difunto	ADJ	A0ms	Gender=Masc|Number=Sing	51	amod	_	SpaceAfter=No
 53	.	.	PUNCT	Q.	_	42	punct	_	_
 
 # sent_id = 53
@@ -405,7 +405,7 @@
 1	Walesa	Walesa	PROPN	Sp00	_	2	nsubj	_	_
 2	escribiu	escribir	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	Cs	_	7	mark	_	_
-4	"	"	PUNCT	Q"	_	7	punct	_	_
+4	"	"	PUNCT	Q"	_	7	punct	_	SpaceAfter=No
 5	Radio	radio	PROPN	Sp00	_	7	nsubj	_	_
 6	María	maría	PROPN	Sp00	_	5	nmod	_	_
 7	amenaza	amenazar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
@@ -426,8 +426,8 @@
 21	Igrexa	Igrexa	PROPN	Spfs	Gender=Fem|Number=Sing	17	conj	_	_
 22	católica	católico	ADJ	A0fs	Gender=Fem|Number=Sing	21	amod	_	_
 23	en	en	ADP	P	AdpType=Prep	24	case	_	_
-24	Polonia	Polonia	PROPN	Sp00	_	21	obl	_	_
-25	"	"	PUNCT	Q"	_	7	punct	_	_
+24	Polonia	Polonia	PROPN	Sp00	_	21	obl	_	SpaceAfter=No
+25	"	"	PUNCT	Q"	_	7	punct	_	SpaceAfter=No
 26	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 58
@@ -452,7 +452,7 @@
 16	moitos	moito	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	17	det	_	_
 17	licenciados	licenciado	NOUN	Scmp	Gender=Masc|Number=Plur	15	nsubj	_	_
 18	e	e	CCONJ	Cc	_	19	cc	_	_
-19	profesores	profesor	NOUN	Scmp	Gender=Masc|Number=Plur	17	conj	_	_
+19	profesores	profesor	NOUN	Scmp	Gender=Masc|Number=Plur	17	conj	_	SpaceAfter=No
 20	:	:	PUNCT	Q:	_	2	punct	_	_
 
 # sent_id = 63
@@ -465,7 +465,7 @@
 6	ocorre	ocorrer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	pensar	pensar	VERB	V0f000	VerbForm=Inf	6	xcomp	_	_
 8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	evidente	evidente	ADJ	A0ms	Gender=Masc|Number=Sing	7	obj	_	_
+9	evidente	evidente	ADJ	A0ms	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
 10	:	:	PUNCT	Q:	_	6	punct	_	_
 
 # sent_id = 68
@@ -503,18 +503,18 @@
 26	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	cultura	cultura	NOUN	Scfs	Gender=Fem|Number=Sing	22	conj	_	_
 28	máis	máis	ADV	Wm	_	29	advmod	_	_
-29	elemental	elemental	ADJ	A0fs	Gender=Fem|Number=Sing	27	amod	_	_
+29	elemental	elemental	ADJ	A0fs	Gender=Fem|Number=Sing	27	amod	_	SpaceAfter=No
 30	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 73
 # text = Podiamos seguir, pero de momento abonda.
 1	Podiamos	poder	AUX	Vii10p	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
-2	seguir	seguir	VERB	V0f000	VerbForm=Inf	0	root	_	_
+2	seguir	seguir	VERB	V0f000	VerbForm=Inf	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	7	punct	_	_
 4	pero	pero	SCONJ	Cs	_	7	cc	_	_
 5	de	de	ADP	P	AdpType=Prep	7	advmod	_	_
 6	momento	momento	NOUN	Scms	Gender=Masc|Number=Sing	5	fixed	_	_
-7	abonda	abondar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	abonda	abondar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
 8	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 78
@@ -535,7 +535,7 @@
 # text = Unha semana despois, semella que Pérez Touriño xa tiña unha estratexia.
 1	Unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	nummod	_	_
 2	semana	semana	NOUN	Scfs	Gender=Fem|Number=Sing	5	obl	_	_
-3	despois	despois	ADV	Wm	_	2	advmod	_	_
+3	despois	despois	ADV	Wm	_	2	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	2	punct	_	_
 5	semella	semellar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	Cs	_	10	mark	_	_
@@ -544,7 +544,7 @@
 9	xa	xa	ADV	Wn	_	10	advmod	_	_
 10	tiña	ter	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
 11	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	estratexia	estratexia	NOUN	Scfs	Gender=Fem|Number=Sing	10	obj	_	_
+12	estratexia	estratexia	NOUN	Scfs	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
 13	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 88
@@ -563,13 +563,13 @@
 12	el	el	PRON	Rtn3ms	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 13	garante	garantir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
 14	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-15	"	"	PUNCT	Q"	_	17	punct	_	_
+15	"	"	PUNCT	Q"	_	17	punct	_	SpaceAfter=No
 16	verdadeiro	verdadeiro	ADJ	A0ms	Gender=Masc|Number=Sing	17	amod	_	_
-17	cambio	cambio	NOUN	Scms	Gender=Masc|Number=Sing	13	obj	_	_
-18	"	"	PUNCT	Q"	_	17	punct	_	_
+17	cambio	cambio	NOUN	Scms	Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
+18	"	"	PUNCT	Q"	_	17	punct	_	SpaceAfter=No
 19	,	,	PUNCT	Q,	_	9	punct	_	_
 20	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-21	"	"	PUNCT	Q"	_	22	punct	_	_
+21	"	"	PUNCT	Q"	_	22	punct	_	SpaceAfter=No
 22	cambio	cambio	NOUN	Scms	Gender=Masc|Number=Sing	17	nmod	_	_
 23	con	con	ADP	P	AdpType=Prep	24	case	_	_
 24	respecto	respecto	NOUN	Scms	Gender=Masc|Number=Sing	22	nmod	_	_
@@ -597,15 +597,15 @@
 45	de	de	ADP	P	AdpType=Prep	46	case	_	_
 46	Ence	Ence	PROPN	Zg00	_	44	nmod	_	_
 47	en	en	ADP	P	AdpType=Prep	48	case	_	_
-48	Pontevedra	Pontevedra	PROPN	Sp00	_	42	obl	_	_
-49	"	"	PUNCT	Q"	_	5	punct	_	_
+48	Pontevedra	Pontevedra	PROPN	Sp00	_	42	obl	_	SpaceAfter=No
+49	"	"	PUNCT	Q"	_	5	punct	_	SpaceAfter=No
 50	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 93
 # text = "Compenetración perfecta"
-1	"	"	PUNCT	Q"	_	2	punct	_	_
+1	"	"	PUNCT	Q"	_	2	punct	_	SpaceAfter=No
 2	Compenetración	compenetración	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
-3	perfecta	perfecto	ADJ	A0fs	Gender=Fem|Number=Sing	2	amod	_	_
+3	perfecta	perfecto	ADJ	A0fs	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
 4	"	"	PUNCT	Q"	_	2	punct	_	_
 
 # sent_id = 98
@@ -620,10 +620,10 @@
 7	alcalde	alcalde	NOUN	Scms	Gender=Masc|Number=Sing	4	nsubj	_	_
 8	socialista	socialista	ADJ	A0ms	Gender=Masc|Number=Sing	7	amod	_	_
 9	de	de	ADP	P	AdpType=Prep	10	case	_	_
-10	Compostela	Compostela	PROPN	Sp00	_	7	nmod	_	_
+10	Compostela	Compostela	PROPN	Sp00	_	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	4	punct	_	_
 12	Xosé	xosé	PROPN	Spm0	Gender=Masc	7	appos	_	_
-13	Bugallo	bugallo	PROPN	Spm0	Gender=Masc	12	flat:name	_	_
+13	Bugallo	bugallo	PROPN	Spm0	Gender=Masc	12	flat:name	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	4	punct	_	_
 15	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	_	_
 16	vén	vir	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
@@ -649,12 +649,12 @@
 35	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	cidadanía	cidadanía	NOUN	Scfs	Gender=Fem|Number=Sing	33	iobj	_	_
 37	que	que	SCONJ	Cs	_	40	mark	_	_
-38	"	"	PUNCT	Q"	_	40	punct	_	_
+38	"	"	PUNCT	Q"	_	40	punct	_	SpaceAfter=No
 39	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	cop	_	_
 40	posíbel	posíbel	ADJ	A0fs	Gender=Fem|Number=Sing	33	ccomp	_	_
 41	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	42	det	_	_
-42	alternativa	alternativa	NOUN	Scfs	Gender=Fem|Number=Sing	40	nsubj	_	_
-43	"	"	PUNCT	Q"	_	40	punct	_	_
+42	alternativa	alternativa	NOUN	Scfs	Gender=Fem|Number=Sing	40	nsubj	_	SpaceAfter=No
+43	"	"	PUNCT	Q"	_	40	punct	_	SpaceAfter=No
 44	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 103
@@ -664,7 +664,7 @@
 3	Xosé	xosé	PROPN	Spm0	Gender=Masc	28	nsubj	_	_
 4	Manuel	manuel	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
 5	Rivera	rivera	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
-6	Otero	otero	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
+6	Otero	otero	PROPN	Spm0	Gender=Masc	3	flat:name	_	SpaceAfter=No
 7	,	,	PUNCT	Q,	_	3	punct	_	_
 8	director	director	NOUN	Scms	Gender=Masc|Number=Sing	3	appos	_	_
 9-10	do	_	_	_	_	_	_	_	_
@@ -676,7 +676,7 @@
 13	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	Universidade	universidade	NOUN	Scms	Gender=Masc|Number=Sing	11	nmod	_	_
 15	de	de	ADP	P	AdpType=Prep	16	case	_	_
-16	Compostela	compostela	PROPN	Sp00	_	14	nmod	_	_
+16	Compostela	compostela	PROPN	Sp00	_	14	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	Q,	_	3	punct	_	_
 18	de	de	ADP	P	AdpType=Prep	20	case	_	_
 19	gran	grande	ADJ	A0ms	Gender=Masc|Number=Sing	20	amod	_	_
@@ -688,7 +688,7 @@
 24-25	dos	_	_	_	_	_	_	_	_
 24	de	de	ADP	P	AdpType=Prep	26	case	_	_
 25	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
-26	socialistas	socialista	NOUN	Scmp	Gender=Masc|Number=Plur	23	nmod	_	_
+26	socialistas	socialista	NOUN	Scmp	Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
 27	,	,	PUNCT	Q,	_	3	punct	_	_
 28	considera	considerar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 29	que	que	SCONJ	Cs	_	31	mark	_	_
@@ -701,7 +701,7 @@
 36	entre	entre	ADP	P	AdpType=Prep	37	case	_	_
 37	nacionalistas	nacionalista	NOUN	Scap	Gender=Com|Number=Plur	34	nmod	_	_
 38	e	e	CCONJ	Cc	_	39	cc	_	_
-39	socialistas	socialista	NOUN	Scap	Gender=Com|Number=Plur	37	conj	_	_
+39	socialistas	socialista	NOUN	Scap	Gender=Com|Number=Plur	37	conj	_	SpaceAfter=No
 40	.	.	PUNCT	Q.	_	28	punct	_	_
 
 # sent_id = 108
@@ -731,7 +731,7 @@
 21-22	da	_	_	_	_	_	_	_	_
 21	de	de	ADP	P	AdpType=Prep	23	case	_	_
 22	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-23	dereita	dereita	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	_
+23	dereita	dereita	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 113
@@ -752,14 +752,14 @@
 
 # sent_id = 118
 # text = Ao día seguinte desta reunión, Xosé Manuel Beiras concedíalle unha entrevista ao Faro de Vigo (publicada o 27 de febreiro) na que non só demandaba o primeiro posto da candidatura coruñesa ás eleccións autonómicas, senón que suxería que excluílo era o mesmo que pór en entredito a pluralidade interna do BNG.
-1	A	a	ADP	P	AdpType=Prep	3	case	_	_
+1	A	a	ADP	P	AdpType=Prep	3	case	_	SpaceAfter=No
 2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	día	día	NOUN	Scms	Gender=Masc|Number=Sing	12	obl	_	_
 4	seguinte	seguinte	ADJ	A0ms	Gender=Masc|Number=Sing	3	amod	_	_
 5-6	desta	_	_	_	_	_	_	_	_
 5	de	de	ADP	P	AdpType=Prep	7	case	_	_
 6	esta	ese	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
-7	reunión	reunión	NOUN	Scfs	Gender=Fem|Number=Sing	4	obl	_	_
+7	reunión	reunión	NOUN	Scfs	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	12	punct	_	_
 9	Xosé	xosé	PROPN	Spm0	Gender=Masc	12	nsubj	_	_
 10	Manuel	manuel	PROPN	Spm0	Gender=Masc	9	flat:name	_	_
@@ -775,12 +775,12 @@
 18	Faro	faro	PROPN	Spms	Gender=Masc|Number=Sing	12	iobj	_	_
 19	de	de	ADP	P	AdpType=Prep	20	case	_	_
 20	Vigo	vigo	PROPN	Spms	Gender=Masc|Number=Sing	18	nmod	_	_
-21	(	(	PUNCT	Q(	_	22	punct	_	_
+21	(	(	PUNCT	Q(	_	22	punct	_	SpaceAfter=No
 22	publicada	publicar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	15	acl	_	_
 23	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	27	27	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	22	obl	_	_
 25	de	de	ADP	P	AdpType=Prep	26	case	_	_
-26	febreiro	febreiro	NOUN	Scms	Gender=Masc|Number=Sing	24	nummod	_	_
+26	febreiro	febreiro	NOUN	Scms	Gender=Masc|Number=Sing	24	nummod	_	SpaceAfter=No
 27	)	)	PUNCT	Q)	_	22	punct	_	_
 28-29	na	_	_	_	_	_	_	_	_
 28	en	en	ADP	P	AdpType=Prep	30	case	_	_
@@ -801,7 +801,7 @@
 41	a	a	ADP	P	AdpType=Prep	43	case	_	_
 42	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	43	det	_	_
 43	eleccións	elección	NOUN	Scfp	Gender=Fem|Number=Plur	39	nmod	_	_
-44	autonómicas	autonómico	ADJ	A0fp	Gender=Fem|Number=Plur	43	amod	_	_
+44	autonómicas	autonómico	ADJ	A0fp	Gender=Fem|Number=Plur	43	amod	_	SpaceAfter=No
 45	,	,	PUNCT	Q,	_	33	punct	_	_
 46	senón	senón	SCONJ	Cs	_	48	cc	_	_
 47	que	que	SCONJ	Cs	_	48	mark	_	_
@@ -823,7 +823,7 @@
 62-63	do	_	_	_	_	_	_	_	_
 62	de	de	ADP	P	AdpType=Prep	64	case	_	_
 63	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	64	det	_	_
-64	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	60	nmod	_	_
+64	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	60	nmod	_	SpaceAfter=No
 65	.	.	PUNCT	Q.	_	56	punct	_	_
 
 # sent_id = 123
@@ -856,7 +856,7 @@
 21	de	de	ADP	P	AdpType=Prep	23	case	_	_
 22	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	referendo	referendo	NOUN	Scms	Gender=Masc|Number=Sing	20	nmod	_	_
-24	europeo	europeo	ADJ	A0ms	Gender=Masc|Number=Sing	23	amod	_	_
+24	europeo	europeo	ADJ	A0ms	Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
 25	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 128
@@ -873,7 +873,7 @@
 10	secretario	secretario	NOUN	Scms	Gender=Masc|Number=Sing	9	obj	_	_
 11	comarcal	comarcal	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	_
 12	de	de	ADP	P	AdpType=Prep	13	case	_	_
-13	Vigo	Vigo	PROPN	Sp00	_	10	nmod	_	_
+13	Vigo	Vigo	PROPN	Sp00	_	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	9	punct	_	_
 15	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 16	principal	principal	ADJ	A0fs	Gender=Fem|Number=Sing	17	amod	_	_
@@ -881,7 +881,7 @@
 18-19	do	_	_	_	_	_	_	_	_
 18	de	de	ADP	P	AdpType=Prep	20	case	_	_
 19	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	PSdeG-PSOE	PSdeG-PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	17	nmod	_	_
+20	PSdeG-PSOE	PSdeG-PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 133
@@ -898,7 +898,7 @@
 9	Vigo	Vigo	PROPN	Sp00	_	3	obl	_	_
 10	para	para	ADP	P	AdpType=Prep	12	case	_	_
 11	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	socialistas	socialista	NOUN	Scmp	Gender=Masc|Number=Plur	3	obl	_	_
+12	socialistas	socialista	NOUN	Scmp	Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
 13	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 138
@@ -917,7 +917,7 @@
 10	entender	entender	VERB	V0f000	VerbForm=Inf	9	csubj	_	_
 11	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	10	expl	_	_
 12	con	con	ADP	P	AdpType=Prep	13	case	_	_
-13	el	el	PRON	Rtp3ms	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+13	el	el	PRON	Rtp3ms	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	SpaceAfter=No
 14	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 143
@@ -931,14 +931,14 @@
 7	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 8	moción	moción	NOUN	Scfs	Gender=Fem|Number=Sing	7	obj	_	_
 9	de	de	ADP	P	AdpType=Prep	10	case	_	_
-10	censura	censura	NOUN	Scfs	Gender=Fem|Number=Sing	8	nmod	_	_
+10	censura	censura	NOUN	Scfs	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
 11	?	?	PUNCT	Q?	_	4	punct	_	_
 
 # sent_id = 148
 # text = Ao acto, no que tamén intervirán Fernando González Laxe e Ceferino Díaz, teñen confirmada a asistencia máis de 400 socialistas de toda Galiza, polo que terá un claro carácter político.
-1	A	a	ADP	P	AdpType=Prep	3	case	_	_
+1	A	a	ADP	P	AdpType=Prep	3	case	_	SpaceAfter=No
 2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	acto	acto	NOUN	Scms	Gender=Masc|Number=Sing	20	nmod	_	_
+3	acto	acto	NOUN	Scms	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	3	punct	_	_
 5-6	no	_	_	_	_	_	_	_	_
 5	en	en	ADP	P	AdpType=Prep	7	case	_	_
@@ -951,7 +951,7 @@
 12	Laxe	laxe	PROPN	Spm0	Gender=Masc	10	flat:name	_	_
 13	e	e	CCONJ	Cc	_	14	cc	_	_
 14	Ceferino	ceferino	PROPN	Spm0	Gender=Masc	10	conj	_	_
-15	Díaz	díaz	PROPN	Spm0	Gender=Masc	14	flat:name	_	_
+15	Díaz	díaz	PROPN	Spm0	Gender=Masc	14	flat:name	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	18	punct	_	_
 17	teñen	ter	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
 18	confirmada	confirmar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
@@ -963,7 +963,7 @@
 24	socialistas	socialista	NOUN	Scmp	Gender=Masc|Number=Plur	18	nsubj	_	_
 25	de	de	ADP	P	AdpType=Prep	27	case	_	_
 26	toda	todo	DET	Idfs	Gender=Fem|Number=Sing|PronType=Ind	27	det	_	_
-27	Galiza	Galiza	PROPN	Spfs	Gender=Fem|Number=Sing	24	nmod	_	_
+27	Galiza	Galiza	PROPN	Spfs	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	Q,	_	18	punct	_	_
 29-30	polo	_	_	_	_	_	_	_	_
 29	por	por	ADP	P	AdpType=Prep	32	mark	_	_
@@ -973,7 +973,7 @@
 33	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 34	claro	claro	ADJ	A0ms	Gender=Masc|Number=Sing	35	amod	_	_
 35	carácter	carácter	NOUN	Scms	Gender=Masc|Number=Sing	32	obj	_	_
-36	político	político	ADJ	A0ms	Gender=Masc|Number=Sing	35	amod	_	_
+36	político	político	ADJ	A0ms	Gender=Masc|Number=Sing	35	amod	_	SpaceAfter=No
 37	.	.	PUNCT	Q.	_	32	punct	_	_
 
 # sent_id = 153
@@ -994,14 +994,14 @@
 13	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	medios	medio	NOUN	Scmp	Gender=Masc|Number=Plur	11	nmod	_	_
 15	de	de	ADP	P	AdpType=Prep	16	case	_	_
-16	comunicación	comunicación	NOUN	Scfs	Gender=Fem|Number=Sing	14	nmod	_	_
+16	comunicación	comunicación	NOUN	Scfs	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 158
 # text = Daquela, Riera, canso de petar sen éxito ás portas da Xunta, trasladou aos medios de comunicación as súas queixas e ofreceulle a Ventura Pérez Mariño o paraugas que precisaba para frear o proxecto.
-1	Daquela	daquela	ADV	Wn	_	17	advmod	_	_
+1	Daquela	daquela	ADV	Wn	_	17	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	Q,	_	3	punct	_	_
-3	Riera	Riera	PROPN	Sp00	_	17	nsubj	_	_
+3	Riera	Riera	PROPN	Sp00	_	17	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	3	punct	_	_
 5	canso	canso	ADJ	A0ms	Gender=Masc|Number=Sing	3	amod	_	_
 6	de	de	ADP	P	AdpType=Prep	7	mark	_	_
@@ -1015,7 +1015,7 @@
 13-14	da	_	_	_	_	_	_	_	_
 13	de	de	ADP	P	AdpType=Prep	15	case	_	_
 14	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	Xunta	Xunta	PROPN	Spfs	Gender=Fem|Number=Sing	12	nmod	_	_
+15	Xunta	Xunta	PROPN	Spfs	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	17	punct	_	_
 17	trasladou	trasladar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 18-19	aos	_	_	_	_	_	_	_	_
@@ -1042,7 +1042,7 @@
 37	para	para	ADP	P	AdpType=Prep	38	mark	_	_
 38	frear	frear	VERB	V0f000	VerbForm=Inf	36	xcomp	_	_
 39	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
-40	proxecto	proxecto	NOUN	Scms	Gender=Masc|Number=Sing	38	obj	_	_
+40	proxecto	proxecto	NOUN	Scms	Gender=Masc|Number=Sing	38	obj	_	SpaceAfter=No
 41	.	.	PUNCT	Q.	_	27	punct	_	_
 
 # sent_id = 163
@@ -1111,7 +1111,7 @@
 55	ubicada	ubicar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	52	acl	_	_
 56	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	57	det	_	_
 57	factoría	factoría	NOUN	Scfs	Gender=Fem|Number=Sing	55	nsubj	_	_
-58	automobilística	automobilístico	ADJ	A0fs	Gender=Fem|Number=Sing	57	amod	_	_
+58	automobilística	automobilístico	ADJ	A0fs	Gender=Fem|Number=Sing	57	amod	_	SpaceAfter=No
 59	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 168
@@ -1155,10 +1155,10 @@
 32	Porro	porro	PROPN	Spf0	Gender=Fem	31	flat:name	_	_
 33	denominou	denominar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	acl	_	_
 34	pomposamente	pomposamente	ADV	Wn	_	33	advmod	_	_
-35	"	"	PUNCT	Q"	_	36	punct	_	_
+35	"	"	PUNCT	Q"	_	36	punct	_	SpaceAfter=No
 36	Vigo	vigo	PROPN	Sp00	_	33	nmod	_	_
-37	2005	2005	PROPN	Sp00	_	36	flat:name	_	_
-38	"	"	PUNCT	Q"	_	36	punct	_	_
+37	2005	2005	PROPN	Sp00	_	36	flat:name	_	SpaceAfter=No
+38	"	"	PUNCT	Q"	_	36	punct	_	SpaceAfter=No
 39	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 173
@@ -1201,7 +1201,7 @@
 32	en	en	ADP	P	AdpType=Prep	35	case	_	_
 33	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
 34	súa	seu	DET	Md3pfs	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
-35	execución	execución	NOUN	Scfs	Gender=Fem|Number=Sing	31	nmod	_	_
+35	execución	execución	NOUN	Scfs	Gender=Fem|Number=Sing	31	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	Q.	_	18	punct	_	_
 
 # sent_id = 178
@@ -1211,7 +1211,7 @@
 3	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	cousas	cousa	NOUN	Scfp	Gender=Fem|Number=Plur	2	nsubj	_	_
 5	en	en	ADP	P	AdpType=Prep	6	case	_	_
-6	Vigo	Vigo	PROPN	Sp00	_	2	obl	_	_
+6	Vigo	Vigo	PROPN	Sp00	_	2	obl	_	SpaceAfter=No
 7	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 183
@@ -1219,7 +1219,7 @@
 1	Visitábel	visitábel	ADJ	A0as	Gender=Com|Number=Sing	0	root	_	_
 2	desde	desde	ADP	P	AdpType=Prep	4	case	_	_
 3	calquera	calquera	DET	Idfs	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
-4	civilización	civilización	NOUN	Scfs	Gender=Fem|Number=Sing	1	obl	_	_
+4	civilización	civilización	NOUN	Scfs	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
 5	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 188
@@ -1227,7 +1227,7 @@
 1	Algúns	algún	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	_
 2	acadan	acadar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	fama	fama	NOUN	Scfs	Gender=Fem|Number=Sing	2	obj	_	_
+4	fama	fama	NOUN	Scfs	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	Q,	_	2	punct	_	_
 6	parecen	parecer	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 7	definitivos	definitivo	ADJ	A0mp	Gender=Masc|Number=Plur	6	xcomp	_	_
@@ -1240,7 +1240,7 @@
 12	de	de	ADP	P	AdpType=Prep	9	fixed	_	_
 13	os	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	anos	ano	NOUN	Scmp	Gender=Masc|Number=Plur	15	obl	_	_
-15-16	esváense	_	_	_	_	_	_	_	_
+15-16	esváense	_	_	_	_	_	_	_	SpaceAfter=No
 15	esvaen	esvaer	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 16	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	15	expl	_	_
 17	.	.	PUNCT	Q.	_	2	punct	_	_
@@ -1258,13 +1258,13 @@
 9	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	mundo	mundo	NOUN	Scms	Gender=Masc|Number=Sing	8	obj	_	_
 11	tan	tanto	ADV	Wm	_	12	advmod	_	_
-12	propio	propio	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	_
+12	propio	propio	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
 13	,	,	PUNCT	Q,	_	8	punct	_	_
 14	tan	tanto	ADV	Wm	_	15	advmod	_	_
 15	lúcido	lúcido	ADJ	A0ms	Gender=Masc|Number=Sing	12	conj	_	_
 16	e	e	CCONJ	Cc	_	18	cc	_	_
 17	tan	tanto	ADV	Wm	_	18	advmod	_	_
-18	vigoroso	vigoroso	ADJ	A0ms	Gender=Masc|Number=Sing	12	conj	_	_
+18	vigoroso	vigoroso	ADJ	A0ms	Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
 19	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 198
@@ -1272,7 +1272,7 @@
 1	Sen	sen	ADP	P	AdpType=Prep|Polarity=Neg	2	case	_	_
 2	frivolidade	frivolidade	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
 3	nin	nin	CCONJ	Cc	Polarity=Neg	4	cc	_	_
-4	estupidez	estupidez	NOUN	Scfs	Gender=Fem|Number=Sing	2	conj	_	_
+4	estupidez	estupidez	NOUN	Scfs	Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
 5	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 203
@@ -1285,7 +1285,7 @@
 4	de	de	ADP	P	AdpType=Prep	6	case	_	_
 5	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	cinema	cinema	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
-7	español	español	ADJ	A0ms	Gender=Masc|Number=Sing	6	amod	_	_
+7	español	español	ADJ	A0ms	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 8	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 208
@@ -1294,7 +1294,7 @@
 2	desde	desde	ADP	P	AdpType=Prep	3	case	_	_
 3	aquí	aquí	ADV	Wn	_	5	advmod	_	_
 4	estamos	estar	AUX	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	agradecidos	agradecido	ADJ	A0mp	Gender=Masc|Number=Plur	0	root	_	_
+5	agradecidos	agradecido	ADJ	A0mp	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 213
@@ -1304,14 +1304,14 @@
 3	que	que	SCONJ	Cs	_	4	mark	_	_
 4	chegaron	chegar	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
 5	a	a	ADP	P	AdpType=Prep	6	case	_	_
-6	Galiza	Galiza	PROPN	Sp00	_	4	obl	_	_
+6	Galiza	Galiza	PROPN	Sp00	_	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	Q,	_	2	punct	_	_
 8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	director	director	NOUN	Scms	Gender=Masc|Number=Sing	10	nsubj	_	_
 10	fai	facer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	silencio	silencio	NOUN	Scms	Gender=Masc|Number=Sing	10	obj	_	_
-13	longo	longo	ADJ	A0ms	Gender=Masc|Number=Sing	12	amod	_	_
+13	longo	longo	ADJ	A0ms	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	Q.	_	10	punct	_	_
 
 # sent_id = 218
@@ -1319,7 +1319,7 @@
 1-2	Noutro	_	_	_	_	_	_	_	_
 1	En	en	ADP	P	AdpType=Prep	3	case	_	_
 2	outro	outro	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
-3	filme	filme	NOUN	Scms	Gender=Masc|Number=Sing	14	obl	_	_
+3	filme	filme	NOUN	Scms	Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	3	punct	_	_
 5	moi	moito	ADV	Wm	_	6	advmod	_	_
 6	celebrado	celebrar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
@@ -1327,7 +1327,7 @@
 7	en	en	ADP	P	AdpType=Prep	10	case	_	_
 8	estas	este	DET	Edfp	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
 9	catro	catro	NUM	Ncdfp	Gender=Fem|Number=Plur|NumType=Card	10	nummod	_	_
-10	provincias	provincia	NOUN	Scfp	Gender=Fem|Number=Plur	6	obl	_	_
+10	provincias	provincia	NOUN	Scfp	Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	6	punct	_	_
 12	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	director	director	NOUN	Scms	Gender=Masc|Number=Sing	14	nsubj	_	_
@@ -1349,7 +1349,7 @@
 27-28	dun	_	_	_	_	_	_	_	_
 27	de	de	ADP	P	AdpType=Prep	29	case	_	_
 28	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-29	río	río	NOUN	Scms	Gender=Masc|Number=Sing	17	obl	_	_
+29	río	río	NOUN	Scms	Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
 30	...	...	PUNCT	Q...	_	17	punct	_	_
 31-32	sácano	_	_	_	_	_	_	_	_
 31	sacan	sacar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	parataxis	_	_
@@ -1357,7 +1357,7 @@
 33-34	da	_	_	_	_	_	_	_	_
 33	de	de	ADP	P	AdpType=Prep	35	case	_	_
 34	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
-35	pota	pota	NOUN	Scfs	Gender=Fem|Number=Sing	31	obl	_	_
+35	pota	pota	NOUN	Scfs	Gender=Fem|Number=Sing	31	obl	_	SpaceAfter=No
 36	...	...	PUNCT	Q...	_	14	punct	_	_
 
 # sent_id = 223
@@ -1388,13 +1388,13 @@
 22-23	do	_	_	_	_	_	_	_	_
 22	de	de	ADP	P	AdpType=Prep	24	case	_	_
 23	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	PSdeG	PSdeG	PROPN	Zgms	Gender=Masc|Number=Sing	20	nmod	_	_
+24	PSdeG	PSdeG	PROPN	Zgms	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	Q.	_	18	punct	_	_
 
 # sent_id = 228
 # text = Moi cómoda, tanto no partido como no grupo municipal.
 1	Moi	moito	ADV	Wm	_	2	advmod	_	_
-2	cómoda	cómodo	ADJ	A0fs	Gender=Fem|Number=Sing	0	root	_	_
+2	cómoda	cómodo	ADJ	A0fs	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	2	punct	_	_
 4	tanto	tanto	ADV	Wn	_	11	cc	_	_
 5-6	no	_	_	_	_	_	_	_	_
@@ -1406,13 +1406,13 @@
 9	en	en	ADP	P	AdpType=Prep	11	case	_	_
 10	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	grupo	grupo	NOUN	Scms	Gender=Masc|Number=Sing	7	conj	_	_
-12	municipal	municipal	ADJ	A0ms	Gender=Masc|Number=Sing	11	amod	_	_
+12	municipal	municipal	ADJ	A0ms	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No
 13	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 233
 # text = Así é.
 1	Así	así	ADV	Wn	_	0	root	_	_
-2	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+2	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
 3	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 238
@@ -1420,12 +1420,12 @@
 1	Mais	mais	SCONJ	Cs	_	4	mark	_	_
 2	vostede	vostede	PRON	Rtn3as	Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 3	non	non	ADV	Wn	Polarity=Neg	4	advmod	_	_
-4	entrou	entrar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	entrou	entrar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 243
 # text = ¿E considera que o PSdeG está ao mesmo nivel que o PSC, os socialistas cataláns?
-1	¿	¿	PUNCT	Q¿	_	3	punct	_	_
+1	¿	¿	PUNCT	Q¿	_	3	punct	_	SpaceAfter=No
 2	E	e	CCONJ	Cc	_	3	mark	_	_
 3	considera	considerar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	Cs	_	11	mark	_	_
@@ -1439,11 +1439,11 @@
 11	nivel	nivel	NOUN	Scms	Gender=Masc|Number=Sing	3	ccomp	_	_
 12	que	que	SCONJ	Cs	_	14	mark	_	_
 13	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	PSC	PSC	PROPN	Zgms	Gender=Masc|Number=Sing	11	nmod	_	_
+14	PSC	PSC	PROPN	Zgms	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	Q,	_	17	punct	_	_
 16	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	socialistas	socialista	NOUN	Scmp	Gender=Masc|Number=Plur	14	appos	_	_
-18	cataláns	catalán	ADJ	A0mp	Gender=Masc|Number=Plur	17	amod	_	_
+18	cataláns	catalán	ADJ	A0mp	Gender=Masc|Number=Plur	17	amod	_	SpaceAfter=No
 19	?	?	PUNCT	Q?	_	14	punct	_	_
 
 # sent_id = 248
@@ -1461,7 +1461,7 @@
 10-11	no	_	_	_	_	_	_	_	_
 10	en	en	ADP	P	AdpType=Prep	12	case	_	_
 11	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	Estado	Estado	PROPN	Spms	Gender=Masc|Number=Sing	9	obl	_	_
+12	Estado	Estado	PROPN	Spms	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
 13	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 253
@@ -1479,7 +1479,7 @@
 11-12	do	_	_	_	_	_	_	_	_
 11	de	de	ADP	P	AdpType=Prep	13	case	_	_
 12	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	PP	PP	PROPN	Zgms	Gender=Masc|Number=Sing	10	nmod	_	_
+13	PP	PP	PROPN	Zgms	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 258
@@ -1510,13 +1510,13 @@
 20	de	de	ADP	P	AdpType=Prep	22	case	_	_
 21	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	maioría	maioría	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	_
-23	absoluta	absoluto	ADJ	A0fs	Gender=Fem|Number=Sing	22	amod	_	_
+23	absoluta	absoluto	ADJ	A0fs	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
 24	.	.	PUNCT	Q.	_	7	punct	_	_
 
 # sent_id = 263
 # text = É máis, conseguimos que o noso estilo de goberno se distinga do anterior, co Bloque en solitario.
 1	É	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	mark	_	_
-2	máis	máis	ADV	Wn	_	1	advmod	_	_
+2	máis	máis	ADV	Wn	_	1	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	4	punct	_	_
 4	conseguimos	conseguir	VERB	Vei10p	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 5	que	que	SCONJ	Cs	_	12	mark	_	_
@@ -1530,14 +1530,14 @@
 13-14	do	_	_	_	_	_	_	_	_
 13	de	de	ADP	P	AdpType=Prep	15	case	_	_
 14	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	anterior	anterior	ADJ	A0ms	Gender=Masc|Number=Sing	12	obl	_	_
+15	anterior	anterior	ADJ	A0ms	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	15	punct	_	_
 17-18	co	_	_	_	_	_	_	_	_
 17	con	con	ADP	P	AdpType=Prep	19	case	_	_
 18	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	Bloque	Bloque	PROPN	Spms	Gender=Masc|Number=Sing	15	obl	_	_
 20	en	en	ADP	P	AdpType=Prep	21	case	_	_
-21	solitario	solitario	ADJ	A0ms	Gender=Masc|Number=Sing	19	amod	_	_
+21	solitario	solitario	ADJ	A0ms	Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No
 22	.	.	PUNCT	Q.	_	12	punct	_	_
 
 # sent_id = 268
@@ -1553,7 +1553,7 @@
 9	para	para	ADP	P	AdpType=Prep	11	case	_	_
 10	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	futuro	futuro	NOUN	Scms	Gender=Masc|Number=Sing	3	conj	_	_
-12-13	dela	_	_	_	_	_	_	_	_
+12-13	dela	_	_	_	_	_	_	_	SpaceAfter=No
 12	de	de	ADP	P	AdpType=Prep	13	case	_	_
 13	ela	el	PRON	Rtp3fs	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
 14	.	.	PUNCT	Q.	_	3	punct	_	_
@@ -1562,11 +1562,11 @@
 # text = En todo caso, Pontevedra ten dereito, despois de soportar durante cincuenta anos unha instalación nunca aceptada, a albiscar un ano 2018 no que por lei figura a obriga de que se retire ENCE do actual emprazamento.
 1	En	en	ADP	P	AdpType=Prep	6	advmod	_	_
 2	todo	todo	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	1	fixed	_	_
-3	caso	caso	NOUN	Scms	Gender=Masc|Number=Sing	1	fixed	_	_
+3	caso	caso	NOUN	Scms	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	6	punct	_	_
 5	Pontevedra	Pontevedra	PROPN	Sp00	_	6	nsubj	_	_
 6	ten	ter	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	dereito	dereito	NOUN	Scms	Gender=Masc|Number=Sing	6	obj	_	_
+7	dereito	dereito	NOUN	Scms	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	6	punct	_	_
 9	despois	despois	ADV	Wn	_	11	advmod	_	_
 10	de	de	ADP	P	AdpType=Prep	9	fixed	_	_
@@ -1577,7 +1577,7 @@
 15	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	instalación	instalación	NOUN	Scfs	Gender=Fem|Number=Sing	11	obj	_	_
 17	nunca	nunca	ADV	Wn	Polarity=Neg	18	advmod	_	_
-18	aceptada	aceptar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	16	acl	_	_
+18	aceptada	aceptar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	16	acl	_	SpaceAfter=No
 19	,	,	PUNCT	Q,	_	18	punct	_	_
 20	a	a	ADP	P	AdpType=Prep	21	mark	_	_
 21	albiscar	albiscar	VERB	V0f000	VerbForm=Inf	7	acl	_	_
@@ -1602,7 +1602,7 @@
 38	de	de	ADP	P	AdpType=Prep	41	case	_	_
 39	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
 40	actual	actual	ADJ	A0ms	Gender=Masc|Number=Sing	41	amod	_	_
-41	emprazamento	emprazamento	NOUN	Scms	Gender=Masc|Number=Sing	36	obl	_	_
+41	emprazamento	emprazamento	NOUN	Scms	Gender=Masc|Number=Sing	36	obl	_	SpaceAfter=No
 42	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 278
@@ -1610,7 +1610,7 @@
 1	Tamén	tamén	ADV	Wn	_	2	advmod	_	_
 2	están	estar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
-4	traballadores	traballador	NOUN	Scmp	Gender=Masc|Number=Plur	2	nsubj	_	_
+4	traballadores	traballador	NOUN	Scmp	Gender=Masc|Number=Plur	2	nsubj	_	SpaceAfter=No
 5	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 283
@@ -1620,12 +1620,12 @@
 3	que	que	SCONJ	Cs	_	4	mark	_	_
 4	haberá	haber	AUX	Vfi30s	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
 5	que	que	SCONJ	Cs	_	6	mark	_	_
-6	falar	falar	VERB	V0f000	VerbForm=Inf	1	ccomp	_	_
+6	falar	falar	VERB	V0f000	VerbForm=Inf	1	ccomp	_	SpaceAfter=No
 7	,	,	PUNCT	Q,	_	1	punct	_	_
 8	procurar	procurar	VERB	V0f000	VerbForm=Inf	6	conj	_	_
 9	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 10	nova	novo	ADJ	A0fs	Gender=Fem|Number=Sing	11	amod	_	_
-11	localización	localización	NOUN	Scfs	Gender=Fem|Number=Sing	8	obj	_	_
+11	localización	localización	NOUN	Scfs	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
 12	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 288
@@ -1634,7 +1634,7 @@
 2	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	infantería	infantería	NOUN	Scfs	Gender=Fem|Number=Sing	1	obj	_	_
 4	de	de	ADP	P	AdpType=Prep	5	case	_	_
-5	mariña	mariña	NOUN	Scfs	Gender=Fem|Number=Sing	3	nmod	_	_
+5	mariña	mariña	NOUN	Scfs	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	Q,	_	1	punct	_	_
 7	apuntando	apuntar	VERB	V0x000	VerbForm=Ger	1	advcl	_	_
 8-9	ao	_	_	_	_	_	_	_	_
@@ -1645,12 +1645,12 @@
 11	con	con	ADP	P	AdpType=Prep	14	case	_	_
 12	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
 13	súas	seu	DET	Md3pfp	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
-14	armas	arma	NOUN	Scfp	Gender=Fem|Number=Plur	7	obl	_	_
+14	armas	arma	NOUN	Scfp	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
 15	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 293
 # text = Renunciaron.
-1	Renunciaron	renunciar	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Renunciaron	renunciar	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 298
@@ -1669,7 +1669,7 @@
 11	empresas	empresa	NOUN	Scfp	Gender=Fem|Number=Plur	9	nmod	_	_
 12	por	por	ADP	P	AdpType=Prep	13	case	_	_
 13	razóns	razón	NOUN	Scfp	Gender=Fem|Number=Plur	9	nmod	_	_
-14	ecolóxicas	ecolóxico	ADJ	A0fp	Gender=Fem|Number=Plur	13	amod	_	_
+14	ecolóxicas	ecolóxico	ADJ	A0fp	Gender=Fem|Number=Plur	13	amod	_	SpaceAfter=No
 15	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 303
@@ -1679,7 +1679,7 @@
 2	de	de	ADP	P	AdpType=Prep	5	case	_	_
 3	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 4	seu	seu	DET	Md3sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
-5	partido	partido	NOUN	Scms	Gender=Masc|Number=Sing	1	obl	_	_
+5	partido	partido	NOUN	Scms	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
 6	,	,	PUNCT	Q,	_	1	punct	_	_
 7	vostede	vostede	PRON	Rtn3as	Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	está	estar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
@@ -1688,7 +1688,7 @@
 11-12	da	_	_	_	_	_	_	_	_
 11	de	de	ADP	P	AdpType=Prep	13	case	_	_
 12	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	Celulosa	Celulosa	PROPN	Spfs	Gender=Fem|Number=Sing	8	obl	_	_
+13	Celulosa	Celulosa	PROPN	Spfs	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	19	punct	_	_
 15	pero	pero	SCONJ	Cs	_	19	cc	_	_
 16-17	no	_	_	_	_	_	_	_	_
@@ -1697,7 +1697,7 @@
 18	PSOE	PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	19	obl	_	_
 19	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 20	posturas	postura	NOUN	Scfp	Gender=Fem|Number=Plur	19	obj	_	_
-21	ambiguas	ambiguo	ADJ	A0fp	Gender=Fem|Number=Plur	20	amod	_	_
+21	ambiguas	ambiguo	ADJ	A0fp	Gender=Fem|Number=Plur	20	amod	_	SpaceAfter=No
 22	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 308
@@ -1722,7 +1722,7 @@
 17	e	e	CCONJ	Cc	_	19	cc	_	_
 18	que	que	SCONJ	Cs	_	19	mark	_	_
 19	continúe	continuar	VERB	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
-20	alí	alí	ADV	Wn	_	19	advmod	_	_
+20	alí	alí	ADV	Wn	_	19	advmod	_	SpaceAfter=No
 21	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 313
@@ -1758,13 +1758,13 @@
 7	con	con	ADP	P	AdpType=Prep	9	case	_	_
 8	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Unión	unión	PROPN	Spfs	Gender=Fem|Number=Sing	6	nmod	_	_
-10	Europea	europeo	ADJ	A0fs	Gender=Fem|Number=Sing	9	amod	_	_
+10	Europea	europeo	ADJ	A0fs	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	12	punct	_	_
 12-13	proponse	_	_	_	_	_	_	_	_
 12	propón	propoñer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	12	expl	_	_
 14	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-15	"	"	PUNCT	Q"	_	19	punct	_	_
+15	"	"	PUNCT	Q"	_	19	punct	_	SpaceAfter=No
 16	lexítima	lexítimo	ADJ	A0fs	Gender=Fem|Number=Sing	19	amod	_	_
 17	e	e	CCONJ	Cc	_	18	cc	_	_
 18	efectiva	efectivo	ADJ	A0fs	Gender=Fem|Number=Sing	16	conj	_	_
@@ -1778,22 +1778,22 @@
 25	en	en	ADP	P	AdpType=Prep	27	case	_	_
 26	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 27	asuntos	asunto	NOUN	Scmp	Gender=Masc|Number=Plur	19	nmod	_	_
-28	europeos	europeo	ADJ	A0mp	Gender=Masc|Number=Plur	27	amod	_	_
-29	"	"	PUNCT	Q"	_	12	punct	_	_
+28	europeos	europeo	ADJ	A0mp	Gender=Masc|Number=Plur	27	amod	_	SpaceAfter=No
+29	"	"	PUNCT	Q"	_	12	punct	_	SpaceAfter=No
 30	.	.	PUNCT	Q.	_	12	punct	_	_
 
 # sent_id = 328
 # text = Respecto a competencias, recollidas na Base XII, sería moi longo e difícil presentar aquí un resume.
 1	Respecto	respecto	NOUN	Scms	Gender=Masc|Number=Sing	3	case	_	_
 2	a	a	ADP	P	AdpType=Prep	1	fixed	_	_
-3	competencias	competencia	NOUN	Scfp	Gender=Fem|Number=Plur	13	obl	_	_
+3	competencias	competencia	NOUN	Scfp	Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	5	punct	_	_
 5	recollidas	recoller	VERB	V0p0fp	Gender=Fem|Number=Plur|VerbForm=Part	3	acl	_	_
 6-7	na	_	_	_	_	_	_	_	_
 6	en	en	ADP	P	AdpType=Prep	8	case	_	_
 7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Base	base	PROPN	Spfs	Gender=Fem|Number=Sing	5	obl	_	_
-9	XII	xii	NUM	N0000	NumType=Card	8	nummod	_	_
+9	XII	xii	NUM	N0000	NumType=Card	8	nummod	_	SpaceAfter=No
 10	,	,	PUNCT	Q,	_	5	punct	_	_
 11	sería	ser	AUX	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	13	cop	_	_
 12	moi	moito	ADV	Wm	_	13	advmod	_	_
@@ -1803,17 +1803,17 @@
 16	presentar	presentar	VERB	V0f000	VerbForm=Inf	13	ccomp	_	_
 17	aquí	aquí	ADV	Wn	_	16	advmod	_	_
 18	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	resume	resume	NOUN	Scms	Gender=Masc|Number=Sing	16	obj	_	_
+19	resume	resume	NOUN	Scms	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
 20	.	.	PUNCT	Q.	_	13	punct	_	_
 
 # sent_id = 333
 # text = Conclúe, deste xeito, a segunda fase do proceso ideado polo BNG para elaborar un novo Estatuto de Nación para Galiza:
-1	Conclúe	concluír	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Conclúe	concluír	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Q,	_	1	punct	_	_
 3-4	deste	_	_	_	_	_	_	_	_
 3	de	de	ADP	P	AdpType=Prep	5	case	_	_
 4	este	ese	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
-5	xeito	xeito	NOUN	Scms	Gender=Masc|Number=Sing	1	obl	_	_
+5	xeito	xeito	NOUN	Scms	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
 6	,	,	PUNCT	Q,	_	1	punct	_	_
 7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	segunda	segundo	NUM	Nodfs	Gender=Fem|Number=Sing|NumType=Ord	9	nummod	_	_
@@ -1835,7 +1835,7 @@
 22	de	de	ADP	P	AdpType=Prep	23	case	_	_
 23	Nación	nación	NOUN	Scfs	Gender=Fem|Number=Sing	21	nmod	_	_
 24	para	para	ADP	P	AdpType=Prep	25	case	_	_
-25	Galiza	Galiza	PROPN	Sp00	_	21	nmod	_	_
+25	Galiza	Galiza	PROPN	Sp00	_	21	nmod	_	SpaceAfter=No
 26	:	:	PUNCT	Q:	_	1	punct	_	_
 
 # sent_id = 338
@@ -1848,7 +1848,7 @@
 5	proxecto	proxecto	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
 6	de	de	ADP	P	AdpType=Prep	7	case	_	_
 7	Estatuto	Estatuto	PROPN	Sp00	_	5	nmod	_	_
-8	elaborado	elaborar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
+8	elaborado	elaborar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	SpaceAfter=No
 9	,	,	PUNCT	Q,	_	12	punct	_	_
 10-11	no	_	_	_	_	_	_	_	_
 10	en	en	ADP	P	AdpType=Prep	12	case	_	_
@@ -1860,7 +1860,7 @@
 15	Seminario	seminario	PROPN	Spms	Gender=Masc|Number=Sing	12	nmod	_	_
 16	de	de	ADP	P	AdpType=Prep	17	case	_	_
 17	Estudos	estudo	NOUN	Scms	Gender=Masc|Number=Sing	15	nmod	_	_
-18	Galegos	galego	ADJ	A0ms	Gender=Masc|Number=Sing	17	amod	_	_
+18	Galegos	galego	ADJ	A0ms	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
 19	,	,	PUNCT	Q,	_	12	punct	_	_
 20-21	polas	_	_	_	_	_	_	_	_
 20	por	por	ADP	P	AdpType=Prep	23	case	_	_
@@ -1871,7 +1871,7 @@
 24	de	de	ADP	P	AdpType=Prep	26	case	_	_
 25	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	nacionalismo	nacionalismo	NOUN	Scms	Gender=Masc|Number=Sing	23	nmod	_	_
-27	republicano	republicano	ADJ	A0ms	Gender=Masc|Number=Sing	26	amod	_	_
+27	republicano	republicano	ADJ	A0ms	Gender=Masc|Number=Sing	26	amod	_	SpaceAfter=No
 28	.	.	PUNCT	Q.	_	8	punct	_	_
 
 # sent_id = 343
@@ -1904,14 +1904,14 @@
 23	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 24	medios	medio	NOUN	Scmp	Gender=Masc|Number=Plur	20	nmod	_	_
 25	de	de	ADP	P	AdpType=Prep	26	case	_	_
-26	comunicación	comunicación	NOUN	Scfs	Gender=Fem|Number=Sing	24	nmod	_	_
+26	comunicación	comunicación	NOUN	Scfs	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 348
 # text = E aínda máis, se se trata de materia tan ecolóxica como a auga que concita en todos nós o ideario dun medio ambiente integrado no home e viceversa.
 1	E	e	CCONJ	Cc	_	3	mark	_	_
 2	aínda	aínda	ADV	Wn	_	3	advmod	_	_
-3	máis	máis	ADV	Wn	_	7	advmod	_	_
+3	máis	máis	ADV	Wn	_	7	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	7	punct	_	_
 5	se	se	SCONJ	Cs	_	7	mark	_	_
 6	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	7	expl	_	_
@@ -1941,7 +1941,7 @@
 28	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	home	home	NOUN	Scms	Gender=Masc|Number=Sing	26	obl	_	_
 30	e	e	CCONJ	Cc	_	31	cc	_	_
-31	viceversa	viceversa	ADV	Wn	_	26	conj	_	_
+31	viceversa	viceversa	ADV	Wn	_	26	conj	_	SpaceAfter=No
 32	.	.	PUNCT	Q.	_	26	punct	_	_
 
 # sent_id = 353
@@ -1949,13 +1949,13 @@
 1	Pero	pero	SCONJ	Cs	_	4	mark	_	_
 2	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	obra	obra	NOUN	Scfs	Gender=Fem|Number=Sing	4	nsubj	_	_
-4	aparca	aparcar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	aparca	aparcar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	Q,	_	4	punct	_	_
 6-7	ao	_	_	_	_	_	_	_	_
 6	a	a	ADP	P	AdpType=Prep	9	case	_	_
 7	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	noso	noso	DET	Md1pms	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
-9	entender	entender	NOUN	Scms	Gender=Masc|Number=Sing	4	obl	_	_
+9	entender	entender	NOUN	Scms	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 10	,	,	PUNCT	Q,	_	4	punct	_	_
 11	de	de	ADP	P	AdpType=Prep	12	case	_	_
 12	xeito	xeito	NOUN	Scms	Gender=Masc|Number=Sing	4	obl	_	_
@@ -1969,7 +1969,7 @@
 20	para	para	ADP	P	AdpType=Prep	23	case	_	_
 21	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 22	Novo	novo	ADJ	A0ms	Gender=Masc|Number=Sing	23	amod	_	_
-23	Riazor	riazor	PROPN	Spms	Gender=Masc|Number=Sing	16	nmod	_	_
+23	Riazor	riazor	PROPN	Spms	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	Q,	_	16	punct	_	_
 25	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	27	nsubj:pass	_	_
 26	fora	ser	AUX	Vli30s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	27	aux:pass	_	_
@@ -1986,9 +1986,9 @@
 35	2003	2003	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	30	nmod	_	_
 36	e	e	CCONJ	Cc	_	38	cc	_	_
 37	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	38	nsubj	_	_
-38	incluía	incluír	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	conj	_	_
+38	incluía	incluír	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	conj	_	SpaceAfter=No
 39	,	,	PUNCT	Q,	_	40	punct	_	_
-40	practicamente	practicamente	ADV	Wn	_	38	advmod	_	_
+40	practicamente	practicamente	ADV	Wn	_	38	advmod	_	SpaceAfter=No
 41	,	,	PUNCT	Q,	_	40	punct	_	_
 42	case	case	ADV	Wm	_	43	advmod	_	_
 43	todas	todo	DET	Idfp	Gender=Fem|Number=Plur|PronType=Ind	45	det	_	_
@@ -2001,7 +2001,7 @@
 49	proxecto	proxecto	NOUN	Scms	Gender=Masc|Number=Sing	46	obl	_	_
 50	xa	xa	ADV	Wn	_	52	advmod	_	_
 51	en	en	ADP	P	AdpType=Prep	52	case	_	_
-52	construción	construción	NOUN	Scfs	Gender=Fem|Number=Sing	38	obl	_	_
+52	construción	construción	NOUN	Scfs	Gender=Fem|Number=Sing	38	obl	_	SpaceAfter=No
 53	,	,	PUNCT	Q,	_	46	punct	_	_
 54	ademais	ademais	ADV	Wn	_	58	cc	_	_
 55-56	do	_	_	_	_	_	_	_	_
@@ -2010,28 +2010,28 @@
 57	propio	propio	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	58	det	_	_
 58	campo	campo	NOUN	Scms	Gender=Masc|Number=Sing	45	conj	_	_
 59	de	de	ADP	P	AdpType=Prep	60	case	_	_
-60	fútbol	fútbol	NOUN	Scms	Gender=Masc|Number=Sing	58	nmod	_	_
+60	fútbol	fútbol	NOUN	Scms	Gender=Masc|Number=Sing	58	nmod	_	SpaceAfter=No
 61	,	,	PUNCT	Q,	_	58	punct	_	_
 62	hostalaría	hostalaría	NOUN	Scfs	Gender=Fem|Number=Sing	45	conj	_	_
 63	múltipla	múltiplo	ADJ	A0fs	Gender=Fem|Number=Sing	62	amod	_	_
 64	e	e	CCONJ	Cc	_	65	cc	_	_
 65	hotel	hotel	NOUN	Scms	Gender=Masc|Number=Sing	62	conj	_	_
 66	de	de	ADP	P	AdpType=Prep	67	case	_	_
-67	luxo	luxo	NOUN	Scms	Gender=Masc|Number=Sing	65	nmod	_	_
+67	luxo	luxo	NOUN	Scms	Gender=Masc|Number=Sing	65	nmod	_	SpaceAfter=No
 68	,	,	PUNCT	Q,	_	62	punct	_	_
 69	parque	parque	NOUN	Scms	Gender=Masc|Number=Sing	45	conj	_	_
-70	infantil	infantil	ADJ	A0ms	Gender=Masc|Number=Sing	69	amod	_	_
+70	infantil	infantil	ADJ	A0ms	Gender=Masc|Number=Sing	69	amod	_	SpaceAfter=No
 71	,	,	PUNCT	Q,	_	69	punct	_	_
 72	amplos	amplo	ADJ	A0mp	Gender=Masc|Number=Plur	73	amod	_	_
 73	espazos	espazo	NOUN	Scmp	Gender=Masc|Number=Plur	45	conj	_	_
 74	verdes	verde	ADJ	A0mp	Gender=Masc|Number=Plur	73	amod	_	_
 75	e	e	CCONJ	Cc	_	76	cc	_	_
-76	aparcadoiros	aparcadoiro	NOUN	Scmp	Gender=Masc|Number=Plur	45	conj	_	_
+76	aparcadoiros	aparcadoiro	NOUN	Scmp	Gender=Masc|Number=Plur	45	conj	_	SpaceAfter=No
 77	,	,	PUNCT	Q,	_	79	punct	_	_
 78	tanto	tanto	ADV	Wn	_	79	mark	_	_
 79	públicos	público	ADJ	A0mp	Gender=Masc|Number=Plur	76	amod	_	_
 80	coma	coma	SCONJ	Cs	_	81	cc	_	_
-81	privados	privado	ADJ	A0mp	Gender=Masc|Number=Plur	79	conj	_	_
+81	privados	privado	ADJ	A0mp	Gender=Masc|Number=Plur	79	conj	_	SpaceAfter=No
 82	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 358
@@ -2058,10 +2058,10 @@
 17	resulta	resultar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 18	coma	coma	SCONJ	Cs	_	20	mark	_	_
 19	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	sucedáneo	sucedáneo	NOUN	Scms	Gender=Masc|Number=Sing	17	xcomp	_	_
+20	sucedáneo	sucedáneo	NOUN	Scms	Gender=Masc|Number=Sing	17	xcomp	_	SpaceAfter=No
 21	,	,	PUNCT	Q,	_	23	punct	_	_
 22	quizais	quizais	ADV	Wn	_	23	advmod	_	_
-23	rebaixado	rebaixar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	20	acl	_	_
+23	rebaixado	rebaixar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	20	acl	_	SpaceAfter=No
 24	,	,	PUNCT	Q,	_	23	punct	_	_
 25-26	daquel	_	_	_	_	_	_	_	_
 25	de	de	ADP	P	AdpType=Prep	28	case	_	_
@@ -2072,14 +2072,14 @@
 29	de	de	ADP	P	AdpType=Prep	31	case	_	_
 30	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	arquitecto	arquitecto	NOUN	Scms	Gender=Masc|Number=Sing	28	nmod	_	_
-32	norteamericano	norteamericano	ADJ	A0ms	Gender=Masc|Number=Sing	31	amod	_	_
+32	norteamericano	norteamericano	ADJ	A0ms	Gender=Masc|Number=Sing	31	amod	_	SpaceAfter=No
 33	,	,	PUNCT	Q,	_	31	punct	_	_
 34	pero	pero	SCONJ	Cs	_	39	cc	_	_
 35	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	39	nsubj	_	_
 36	tan	tanto	ADV	Wm	_	37	advmod	_	_
 37	difícil	difícil	ADJ	A0fs	Gender=Fem|Number=Sing	38	amod	_	_
 38	materialización	materialización	NOUN	Scfs	Gender=Fem|Number=Sing	39	obj	_	_
-39	tiña	ter	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	acl	_	_
+39	tiña	ter	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	acl	_	SpaceAfter=No
 40	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 363
@@ -2098,7 +2098,7 @@
 10	gabaron	gabar	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
 11	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
 12	axudas	axuda	NOUN	Scfp	Gender=Fem|Number=Plur	10	obj	_	_
-13	institucionais	institucional	ADJ	A0fp	Gender=Fem|Number=Plur	12	amod	_	_
+13	institucionais	institucional	ADJ	A0fp	Gender=Fem|Number=Plur	12	amod	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	10	punct	_	_
 15	outros	outro	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	16	nsubj	_	_
 16-17	queixáronse	_	_	_	_	_	_	_	_
@@ -2112,7 +2112,7 @@
 21	a	a	ADP	P	AdpType=Prep	24	case	_	_
 22	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 23	seus	seu	DET	Md3pmp	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
-24	problemas	problema	NOUN	Scmp	Gender=Masc|Number=Plur	20	nmod	_	_
+24	problemas	problema	NOUN	Scmp	Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	Q.	_	16	punct	_	_
 
 # sent_id = 368
@@ -2127,13 +2127,13 @@
 7-8	do	_	_	_	_	_	_	_	_
 7	de	de	ADP	P	AdpType=Prep	9	case	_	_
 8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	mar	mar	NOUN	Scms	Gender=Masc|Number=Sing	6	nmod	_	_
+9	mar	mar	NOUN	Scms	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	Q,	_	3	punct	_	_
 11-12	do	_	_	_	_	_	_	_	_
 11	de	de	ADP	P	AdpType=Prep	14	case	_	_
 12	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	mal	malo	ADJ	A0ms	Gender=Masc|Number=Sing	14	amod	_	_
-14	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	6	conj	_	_
+14	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
 15	,	,	PUNCT	Q,	_	14	punct	_	_
 16-17	do	_	_	_	_	_	_	_	_
 16	de	de	ADP	P	AdpType=Prep	18	case	_	_
@@ -2142,13 +2142,13 @@
 19-20	das	_	_	_	_	_	_	_	_
 19	de	de	ADP	P	AdpType=Prep	21	case	_	_
 20	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-21	rías	ría	NOUN	Scfp	Gender=Fem|Number=Plur	18	nmod	_	_
+21	rías	ría	NOUN	Scfp	Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	Q,	_	14	punct	_	_
 23-24	da	_	_	_	_	_	_	_	_
 23	de	de	ADP	P	AdpType=Prep	25	case	_	_
 24	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	auga	auga	NOUN	Scfs	Gender=Fem|Number=Sing	6	conj	_	_
-26	doce	doce	ADJ	A0fs	Gender=Fem|Number=Sing	25	amod	_	_
+26	doce	doce	ADJ	A0fs	Gender=Fem|Number=Sing	25	amod	_	SpaceAfter=No
 27	,	,	PUNCT	Q,	_	3	punct	_	_
 28	mais	mais	SCONJ	Cs	_	32	mark	_	_
 29	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
@@ -2158,7 +2158,7 @@
 33	ser	ser	AUX	V0f000	VerbForm=Inf	35	cop	_	_
 34	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
 35	palabra	palabra	NOUN	Scfs	Gender=Fem|Number=Sing	32	xcomp	_	_
-36	maldita	maldito	ADJ	A0fs	Gender=Fem|Number=Sing	35	amod	_	_
+36	maldita	maldito	ADJ	A0fs	Gender=Fem|Number=Sing	35	amod	_	SpaceAfter=No
 37	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 373
@@ -2177,16 +2177,16 @@
 11	comisión	comisión	NOUN	Scfs	Gender=Fem|Number=Sing	8	obl	_	_
 12	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	vindeiro	vindeiro	ADJ	A0ms	Gender=Masc|Number=Sing	14	amod	_	_
-14	luns	luns	NOUN	Scms	Gender=Masc|Number=Sing	8	obl	_	_
+14	luns	luns	NOUN	Scms	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 15	,	,	PUNCT	Q,	_	18	punct	_	_
 16	7	7	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	14	appos	_	_
 17	de	de	ADP	P	AdpType=Prep	18	case	_	_
-18	marzo	marzo	NOUN	Scms	Gender=Masc|Number=Sing	16	nmod	_	_
+18	marzo	marzo	NOUN	Scms	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	Q,	_	18	punct	_	_
 20	representada	representar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	2	acl	_	_
 21	por	por	ADP	P	AdpType=Prep	22	case	_	_
 22	Rafa	rafa	PROPN	Spm0	Gender=Masc	20	obl	_	_
-23	Villar	villar	PROPN	Spm0	Gender=Masc	22	flat:name	_	_
+23	Villar	villar	PROPN	Spm0	Gender=Masc	22	flat:name	_	SpaceAfter=No
 24	,	,	PUNCT	Q,	_	20	punct	_	_
 25	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	27	nsubj	_	_
 26	irá	ir	AUX	Vfi30s	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	27	aux	_	_
@@ -2205,7 +2205,7 @@
 37	que	que	PRON	Tnmp	Gender=Masc|Number=Plur|PronType=Rel	38	obl	_	_
 38	traballa	traballar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl	_	_
 39	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	40	det	_	_
-40	organización	organización	NOUN	Scfs	Gender=Fem|Number=Sing	38	obj	_	_
+40	organización	organización	NOUN	Scfs	Gender=Fem|Number=Sing	38	obj	_	SpaceAfter=No
 41	.	.	PUNCT	Q.	_	38	punct	_	_
 
 # sent_id = 378
@@ -2228,7 +2228,7 @@
 15-16	do	_	_	_	_	_	_	_	_
 15	de	de	ADP	P	AdpType=Prep	17	case	_	_
 16	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	Prestige	Prestige	PROPN	Spms	Gender=Masc|Number=Sing	14	nmod	_	_
+17	Prestige	Prestige	PROPN	Spms	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 383
@@ -2241,14 +2241,14 @@
 6	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 7	súa	seu	DET	Md3afs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 8	libre	libre	ADJ	A0fs	Gender=Fem|Number=Sing	9	amod	_	_
-9	colaboración	colaboración	NOUN	Scfs	Gender=Fem|Number=Sing	5	obj	_	_
+9	colaboración	colaboración	NOUN	Scfs	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
 10	,	,	PUNCT	Q,	_	9	punct	_	_
 11	vou	ir	AUX	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	facer	facer	VERB	V0f000	VerbForm=Inf	0	root	_	_
 13	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	minuto	minuto	NOUN	Scms	Gender=Masc|Number=Sing	12	obj	_	_
 15	de	de	ADP	P	AdpType=Prep	16	case	_	_
-16	silencio	silencio	NOUN	Scms	Gender=Masc|Number=Sing	14	nmod	_	_
+16	silencio	silencio	NOUN	Scms	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Q.	_	9	punct	_	_
 
 # sent_id = 388
@@ -2258,13 +2258,13 @@
 3	quixera	querer	VERB	Vli10s	Mood=Ind|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin	0	root	_	_
 4	formular	formular	VERB	V0f000	VerbForm=Inf	3	xcomp	_	_
 5	tres	tres	NUM	Ncdfp	Gender=Fem|Number=Plur|NumType=Card	6	nummod	_	_
-6	cuestións	cuestión	NOUN	Scfp	Gender=Fem|Number=Plur	4	obj	_	_
+6	cuestións	cuestión	NOUN	Scfp	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
 7	:	:	PUNCT	Q:	_	3	punct	_	_
 
 # sent_id = 393
 # text = O abandono, o maltrato ás xentes do mar e falla de medios con que se abordou esta catástrofe.
 1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	abandono	abandono	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
+2	abandono	abandono	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	5	punct	_	_
 4	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	maltrato	maltrato	NOUN	Scms	Gender=Masc|Number=Sing	2	conj	_	_
@@ -2285,7 +2285,7 @@
 18	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	19	expl	_	_
 19	abordou	abordar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl	_	_
 20	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	21	det	_	_
-21	catástrofe	catástrofe	NOUN	Scfs	Gender=Fem|Number=Sing	19	nsubj	_	_
+21	catástrofe	catástrofe	NOUN	Scfs	Gender=Fem|Number=Sing	19	nsubj	_	SpaceAfter=No
 22	.	.	PUNCT	Q.	_	19	punct	_	_
 
 # sent_id = 398
@@ -2318,7 +2318,7 @@
 23	en	en	ADP	P	AdpType=Prep	25	case	_	_
 24	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
 25	zonas	zona	NOUN	Scfp	Gender=Fem|Number=Plur	22	obl	_	_
-26	afectadas	afectado	ADJ	A0fp	Gender=Fem|Number=Plur	25	amod	_	_
+26	afectadas	afectado	ADJ	A0fp	Gender=Fem|Number=Plur	25	amod	_	SpaceAfter=No
 27	.	.	PUNCT	Q.	_	22	punct	_	_
 
 # sent_id = 403
@@ -2341,7 +2341,7 @@
 15-16	polo	_	_	_	_	_	_	_	_
 15	por	por	ADP	P	AdpType=Prep	17	case	_	_
 16	lo	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	medio	medio	NOUN	Scms	Gender=Masc|Number=Sing	12	nmod	_	_
+17	medio	medio	NOUN	Scms	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 408
@@ -2382,7 +2382,7 @@
 33	canto	canto	PRON	Gnms	Gender=Masc|Number=Sing|PronType=Int	36	advmod	_	_
 34	e	e	CCONJ	Cc	_	35	cc	_	_
 35	como	como	ADV	Wg	PronType=Int	33	conj	_	_
-36	paga	pagar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	advcl	_	_
+36	paga	pagar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	advcl	_	SpaceAfter=No
 37	.	.	PUNCT	Q.	_	36	punct	_	_
 
 # sent_id = 413
@@ -2390,26 +2390,26 @@
 1	Se	se	SCONJ	Cs	_	4	mark	_	_
 2	teño	ter	AUX	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	que	que	SCONJ	Cs	_	4	mark	_	_
-4	chamar	chamar	VERB	V0f000	VerbForm=Inf	13	advcl	_	_
+4	chamar	chamar	VERB	V0f000	VerbForm=Inf	13	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	Q,	_	7	punct	_	_
 6	salvo	salvo	ADP	P	AdpType=Prep	7	case	_	_
 7	caso	caso	NOUN	Scms	Gender=Masc|Number=Sing	13	obl	_	_
 8	de	de	ADP	P	AdpType=Prep	9	case	_	_
-9	emerxencia	emerxencia	NOUN	Scfs	Gender=Fem|Number=Sing	7	nmod	_	_
+9	emerxencia	emerxencia	NOUN	Scfs	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	Q,	_	7	punct	_	_
 11	xa	xa	ADV	Wn	_	13	advmod	_	_
 12	o	o	PRON	Raa3ms	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl	_	_
 13	farei	facer	VERB	Vfi10s	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 14	desde	desde	ADP	P	AdpType=Prep	16	case	_	_
 15	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	fixo	fixo	ADJ	A0ms	Gender=Masc|Number=Sing	13	obl	_	_
+16	fixo	fixo	ADJ	A0ms	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 17	.	.	PUNCT	Q.	_	13	punct	_	_
 
 # sent_id = 418
 # text = Menos que agora, se é un cuarto de hora para un recado rápido.
 1	Menos	menos	ADV	Wn	_	8	parataxis	_	_
 2	que	que	SCONJ	Cs	_	3	mark	_	_
-3	agora	agora	ADV	Wn	_	1	advmod	_	_
+3	agora	agora	ADV	Wn	_	1	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	8	punct	_	_
 5	se	se	SCONJ	Cs	_	8	mark	_	_
 6	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -2420,7 +2420,7 @@
 11	para	para	ADP	P	AdpType=Prep	13	case	_	_
 12	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	recado	recado	NOUN	Scms	Gender=Masc|Number=Sing	8	nmod	_	_
-14	rápido	rápido	ADJ	A0ms	Gender=Masc|Number=Sing	13	amod	_	_
+14	rápido	rápido	ADJ	A0ms	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
 15	.	.	PUNCT	Q.	_	8	punct	_	_
 
 # sent_id = 423
@@ -2431,7 +2431,7 @@
 4	opción	opción	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
 5	para	para	ADP	P	AdpType=Prep	7	case	_	_
 6	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	saúde	saúde	NOUN	Scfs	Gender=Fem|Number=Sing	4	nmod	_	_
+7	saúde	saúde	NOUN	Scfs	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	4	punct	_	_
 9	para	para	ADP	P	AdpType=Prep	11	case	_	_
 10	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -2440,7 +2440,7 @@
 13	e	e	CCONJ	Cc	_	16	cc	_	_
 14	para	para	ADP	P	AdpType=Prep	16	case	_	_
 15	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	peto	peto	NOUN	Scms	Gender=Masc|Number=Sing	7	conj	_	_
+16	peto	peto	NOUN	Scms	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
 17	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 428
@@ -2448,7 +2448,7 @@
 1	Van	ir	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
 2	quentando	quentar	VERB	V0x000	VerbForm=Ger	0	root	_	_
 3	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	ambiente	ambiente	NOUN	Scms	Gender=Masc|Number=Sing	2	obj	_	_
+4	ambiente	ambiente	NOUN	Scms	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	Q,	_	7	punct	_	_
 6	e	e	CCONJ	Cc	_	7	cc	_	_
 7	chamando	chamar	VERB	V0x000	VerbForm=Ger	2	conj	_	_
@@ -2467,22 +2467,22 @@
 19-20	nas	_	_	_	_	_	_	_	_
 19	en	en	ADP	P	AdpType=Prep	21	case	_	_
 20	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-21	denuncias	denuncia	NOUN	Scfp	Gender=Fem|Number=Plur	18	nmod	_	_
+21	denuncias	denuncia	NOUN	Scfp	Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	Q,	_	21	punct	_	_
 23	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	26	nsubj	_	_
 24	normalmente	normalmente	ADV	Wn	_	26	advmod	_	_
 25	son	ser	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
 26	mentiras	mentira	NOUN	Scfp	Gender=Fem|Number=Plur	21	acl	_	_
-27	(	(	PUNCT	Q(	_	28	punct	_	_
+27	(	(	PUNCT	Q(	_	28	punct	_	SpaceAfter=No
 28	onde	onde	ADV	Wg	PronType=Int	26	parataxis	_	_
 29	están	estar	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
 30	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	31	det	_	_
 31	armas	arma	NOUN	Scfp	Gender=Fem|Number=Plur	29	nsubj	_	_
 32	terroríficas	terrorífico	ADJ	A0fp	Gender=Fem|Number=Plur	31	amod	_	_
 33	de	de	ADP	P	AdpType=Prep	34	case	_	_
-34	Sadan	Sadan	PROPN	Spm0	Gender=Masc	31	nmod	_	_
-35	?	?	PUNCT	Q?	_	31	punct	_	_
-36	)	)	PUNCT	Q)	_	28	punct	_	_
+34	Sadan	Sadan	PROPN	Spm0	Gender=Masc	31	nmod	_	SpaceAfter=No
+35	?	?	PUNCT	Q?	_	31	punct	_	SpaceAfter=No
+36	)	)	PUNCT	Q)	_	28	punct	_	SpaceAfter=No
 37	.	.	PUNCT	Q.	_	26	punct	_	_
 
 # sent_id = 433
@@ -2492,7 +2492,7 @@
 2	de	de	ADP	P	AdpType=Prep	4	case	_	_
 3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	ONU	ONU	PROPN	Zgfs	Gender=Fem|Number=Sing	1	nmod	_	_
-5	calan	calar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	calan	calar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 438
@@ -2508,7 +2508,7 @@
 8	poden	poder	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	frear	frear	VERB	V0f000	VerbForm=Inf	0	root	_	_
 10	estes	este	DET	Edmp	Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
-11	preparativos	preparativos	NOUN	Scmp	Gender=Masc|Number=Plur	9	obj	_	_
+11	preparativos	preparativos	NOUN	Scmp	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	Q.	_	9	punct	_	_
 
 # sent_id = 443
@@ -2516,20 +2516,20 @@
 1	Derivados	derivado	NOUN	Scmp	Gender=Masc|Number=Plur	4	nsubj	_	_
 2	patrimoniais	patrimonial	ADJ	A0mp	Gender=Masc|Number=Plur	1	amod	_	_
 3	son	ser	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	peón	peón	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
+4	peón	peón	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	Q,	_	6	punct	_	_
-6	pezuña	pezuña	NOUN	Scfs	Gender=Fem|Number=Sing	4	conj	_	_
+6	pezuña	pezuña	NOUN	Scfs	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
 7	,	,	PUNCT	Q,	_	8	punct	_	_
-8	pegada	pegada	NOUN	Scfs	Gender=Fem|Number=Sing	4	conj	_	_
+8	pegada	pegada	NOUN	Scfs	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
 9	,	,	PUNCT	Q,	_	10	punct	_	_
-10	piollo	piollo	NOUN	Scms	Gender=Masc|Number=Sing	4	conj	_	_
+10	piollo	piollo	NOUN	Scms	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	12	punct	_	_
-12	apear	apear	VERB	V0f000	VerbForm=Inf	4	conj	_	_
+12	apear	apear	VERB	V0f000	VerbForm=Inf	4	conj	_	SpaceAfter=No
 13	,	,	PUNCT	Q,	_	14	punct	_	_
 14	sopé	sopé	NOUN	Scms	Gender=Masc|Number=Sing	4	conj	_	_
 15	ou	ou	CCONJ	Cc	_	16	cc	_	_
 16	traspés	traspés	NOUN	Scms	Gender=Masc|Number=Sing	4	conj	_	_
-17	(	(	PUNCT	Q(	_	18	punct	_	_
+17	(	(	PUNCT	Q(	_	18	punct	_	SpaceAfter=No
 18	palabra	palabra	NOUN	Scfs	Gender=Fem|Number=Sing	16	appos	_	_
 19	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	23	nsubj	_	_
 20	en	en	ADP	P	AdpType=Prep	21	case	_	_
@@ -2540,8 +2540,8 @@
 25	non	non	ADV	Wn	Polarity=Neg	27	advmod	_	_
 26	en	en	ADP	P	AdpType=Prep	27	case	_	_
 27	galego	galego	NOUN	Scms	Gender=Masc|Number=Sing	23	conj	_	_
-28	normativo	normativo	ADJ	A0ms	Gender=Masc|Number=Sing	27	amod	_	_
-29	)	)	PUNCT	Q)	_	23	punct	_	_
+28	normativo	normativo	ADJ	A0ms	Gender=Masc|Number=Sing	27	amod	_	SpaceAfter=No
+29	)	)	PUNCT	Q)	_	23	punct	_	SpaceAfter=No
 30	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 448
@@ -2554,14 +2554,14 @@
 6	ela	el	PRON	Rtp3fs	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	pegada	pegada	NOUN	Scfs	Gender=Fem|Number=Sing	4	nsubj	_	_
-9	'	'	PUNCT	Q'	_	10	punct	_	_
+9	'	'	PUNCT	Q'	_	10	punct	_	SpaceAfter=No
 10	marca	marca	NOUN	Scfs	Gender=Fem|Number=Sing	8	appos	_	_
 11	deixada	deixar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	10	acl	_	_
 12-13	polo	_	_	_	_	_	_	_	_
 12	por	por	ADP	P	AdpType=Prep	14	case	_	_
 13	lo	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	pé	pé	NOUN	Scms	Gender=Masc|Number=Sing	11	obl	_	_
-15	'	'	PUNCT	Q'	_	10	punct	_	_
+14	pé	pé	NOUN	Scms	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+15	'	'	PUNCT	Q'	_	10	punct	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	4	punct	_	_
 17-18	polo	_	_	_	_	_	_	_	_
 17	por	por	ADP	P	AdpType=Prep	19	case	_	_
@@ -2578,17 +2578,17 @@
 28	senón	senón	SCONJ	Cs	_	30	cc	_	_
 29	de	de	ADP	P	AdpType=Prep	30	case	_	_
 30	impresións	impresión	NOUN	Scfp	Gender=Fem|Number=Plur	24	conj	_	_
-31	(	(	PUNCT	Q(	_	34	punct	_	_
+31	(	(	PUNCT	Q(	_	34	punct	_	SpaceAfter=No
 32	como	como	SCONJ	Cs	_	34	case	_	_
 33	en	en	ADP	P	AdpType=Prep	34	case	_	_
-34	portugués	portugués	NOUN	Scms	Gender=Masc|Number=Sing	30	nmod	_	_
+34	portugués	portugués	NOUN	Scms	Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
 35	)	)	PUNCT	Q)	_	34	punct	_	_
 36-37	ao	_	_	_	_	_	_	_	_
 36	a	a	ADP	P	AdpType=Prep	40	case	_	_
 37	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
 38	ser	ser	AUX	V0f000	VerbForm=Inf	40	cop	_	_
 39	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
-40	contrasentido	contrasentido	NOUN	Scms	Gender=Masc|Number=Sing	24	advcl	_	_
+40	contrasentido	contrasentido	NOUN	Scms	Gender=Masc|Number=Sing	24	advcl	_	SpaceAfter=No
 41	.	.	PUNCT	Q.	_	40	punct	_	_
 
 # sent_id = 453
@@ -2602,10 +2602,10 @@
 6	occitano	occitano	NOUN	Scms	Gender=Masc|Number=Sing	3	obl	_	_
 7	pe	pe	NOUN	Scms	Gender=Masc|Number=Sing	6	nmod	_	_
 8	tanco	tanco	ADJ	A0ms	Gender=Masc|Number=Sing	7	amod	_	_
-9	'	'	PUNCT	Q'	_	10	punct	_	_
+9	'	'	PUNCT	Q'	_	10	punct	_	SpaceAfter=No
 10	pé	pé	NOUN	Scms	Gender=Masc|Number=Sing	7	appos	_	_
-11	chantado	chantado	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	_
-12	'	'	PUNCT	Q'	_	10	punct	_	_
+11	chantado	chantado	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+12	'	'	PUNCT	Q'	_	10	punct	_	SpaceAfter=No
 13	,	,	PUNCT	Q,	_	3	punct	_	_
 14	que	que	SCONJ	Cs	_	18	mark	_	_
 15	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
@@ -2614,7 +2614,7 @@
 18	mantén	manter	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	_
 19	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	pé	pé	NOUN	Scms	Gender=Masc|Number=Sing	18	nsubj	_	_
-21	a	a	ADP	P	AdpType=Prep	23	mark	_	_
+21	a	a	ADP	P	AdpType=Prep	23	mark	_	SpaceAfter=No
 22	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	lanzar	lanzar	VERB	V0f000	VerbForm=Inf	18	advcl	_	_
 24	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
@@ -2622,7 +2622,7 @@
 26-27	do	_	_	_	_	_	_	_	_
 26	de	de	ADP	P	AdpType=Prep	28	case	_	_
 27	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
-28	xogo	xogo	NOUN	Scms	Gender=Masc|Number=Sing	25	nmod	_	_
+28	xogo	xogo	NOUN	Scms	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 458
@@ -2630,7 +2630,7 @@
 1	sermos	ser	AUX	V0f10p	Number=Plur|Person=1|VerbForm=Inf	2	cop	_	_
 2	bípedes	bípede	ADJ	A0ap	Gender=Com|Number=Plur	0	root	_	_
 3	ou	ou	CCONJ	Cc	_	4	cc	_	_
-4	dípodos	dípodo	ADJ	A0mp	Gender=Masc|Number=Plur	2	conj	_	_
+4	dípodos	dípodo	ADJ	A0mp	Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	Q,	_	7	punct	_	_
 6	e	e	CCONJ	Cc	_	7	cc	_	_
 7	irmos	ir	VERB	V0f10p	Number=Plur|Person=1|VerbForm=Inf	2	conj	_	_
@@ -2642,7 +2642,7 @@
 12-13	ao	_	_	_	_	_	_	_	_
 12	a	a	ADP	P	AdpType=Prep	14	case	_	_
 13	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	podólogo	podólogo	NOUN	Scms	Gender=Masc|Number=Sing	10	conj	_	_
+14	podólogo	podólogo	NOUN	Scms	Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
 15	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 463
@@ -2661,7 +2661,7 @@
 7	de	de	ADP	P	AdpType=Prep	8	case	_	_
 8	Xornalistas	xornalista	NOUN	Scmp	Gender=Masc|Number=Plur	6	nmod	_	_
 9	de	de	ADP	P	AdpType=Prep	10	case	_	_
-10	Galicia	galicia	PROPN	Spms	Gender=Masc|Number=Sing	8	nmod	_	_
+10	Galicia	galicia	PROPN	Spms	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 11	?	?	PUNCT	Q?	_	4	punct	_	_
 
 # sent_id = 473
@@ -2680,7 +2680,7 @@
 12-13	do	_	_	_	_	_	_	_	_
 12	de	de	ADP	P	AdpType=Prep	14	case	_	_
 13	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	sector	sector	NOUN	Scms	Gender=Masc|Number=Sing	11	nmod	_	_
+14	sector	sector	NOUN	Scms	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 15	?	?	PUNCT	Q?	_	1	punct	_	_
 
 # sent_id = 478
@@ -2699,7 +2699,7 @@
 10	en	en	ADP	P	AdpType=Prep	12	case	_	_
 11	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	Asamblea	asamblea	PROPN	Spfs	Gender=Fem|Number=Sing	9	obl	_	_
-13	Constituínte	constituínte	ADJ	A00s	Number=Sing	12	amod	_	_
+13	Constituínte	constituínte	ADJ	A00s	Number=Sing	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 483
@@ -2709,11 +2709,11 @@
 3	para	para	ADP	P	AdpType=Prep	4	mark	_	_
 4	pelexar	pelexar	VERB	V0f000	VerbForm=Inf	2	xcomp	_	_
 5	con	con	ADP	P	AdpType=Prep	6	case	_	_
-6	ninguén	ninguén	PRON	Inas	Gender=Com|Number=Sing|PronType=Ind	4	obl	_	_
+6	ninguén	ninguén	PRON	Inas	Gender=Com|Number=Sing|PronType=Ind	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	Q,	_	10	punct	_	_
 8	senón	senón	SCONJ	Cs	_	10	cc	_	_
 9	para	para	ADP	P	AdpType=Prep	10	mark	_	_
-10	colaborar	colaborar	VERB	V0f000	VerbForm=Inf	2	conj	_	_
+10	colaborar	colaborar	VERB	V0f000	VerbForm=Inf	2	conj	_	SpaceAfter=No
 11	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 488
@@ -2735,7 +2735,7 @@
 13-14	dos	_	_	_	_	_	_	_	_
 13	de	de	ADP	P	AdpType=Prep	15	case	_	_
 14	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
-15	compañeiros	compañeiro	NOUN	Scmp	Gender=Masc|Number=Plur	12	nmod	_	_
+15	compañeiros	compañeiro	NOUN	Scmp	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 493
@@ -2747,7 +2747,7 @@
 4	de	de	ADP	P	AdpType=Prep	7	case	_	_
 5	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 6	maiores	maior	ADJ	Acmp	Degree=Cmp|Gender=Masc|Number=Plur	7	amod	_	_
-7	problemas	problema	NOUN	Scmp	Gender=Masc|Number=Plur	3	nmod	_	_
+7	problemas	problema	NOUN	Scmp	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 498
@@ -2764,7 +2764,7 @@
 10-11	na	_	_	_	_	_	_	_	_
 10	en	en	ADP	P	AdpType=Prep	12	case	_	_
 11	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	Facultade	Facultade	PROPN	Spfs	Gender=Fem|Number=Sing	9	nmod	_	_
+12	Facultade	Facultade	PROPN	Spfs	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	Q,	_	7	punct	_	_
 14-15	co	_	_	_	_	_	_	_	_
 14	con	con	ADP	P	AdpType=Prep	16	case	_	_
@@ -2779,7 +2779,7 @@
 23	unhas	un	DET	Difp	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
 24	condicións	condición	NOUN	Scfp	Gender=Fem|Number=Plur	22	obj	_	_
 25	salariais	salarial	ADJ	A0fp	Gender=Fem|Number=Plur	24	amod	_	_
-26	dignas	digno	ADJ	A0fp	Gender=Fem|Number=Plur	24	amod	_	_
+26	dignas	digno	ADJ	A0fp	Gender=Fem|Number=Plur	24	amod	_	SpaceAfter=No
 27	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 503
@@ -2818,7 +2818,7 @@
 30	álbum	álbum	PROPN	Sp00	_	27	nmod	_	_
 31	de	de	ADP	P	AdpType=Prep	32	case	_	_
 32	Música	música	NOUN	Scfs	Gender=Fem|Number=Sing	30	nmod	_	_
-33	Tradicional	tradicional	ADJ	A000	_	32	amod	_	_
+33	Tradicional	tradicional	ADJ	A000	_	32	amod	_	SpaceAfter=No
 34	.	.	PUNCT	Q.	_	14	punct	_	_
 
 # sent_id = 508
@@ -2840,7 +2840,7 @@
 14	nacionalistas	nacionalista	NOUN	Scmp	Gender=Masc|Number=Plur	10	nmod	_	_
 15	até	até	ADP	P	AdpType=Prep	17	case	_	_
 16	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	verán	verán	NOUN	Scms	Gender=Masc|Number=Sing	8	obl	_	_
+17	verán	verán	NOUN	Scms	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 18	,	,	PUNCT	Q,	_	8	punct	_	_
 19	se	se	SCONJ	Cs	_	31	mark	_	_
 20	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
@@ -2856,12 +2856,12 @@
 28	listas	lista	NOUN	Scfp	Gender=Fem|Number=Plur	25	nmod	_	_
 29	non	non	ADV	Wn	Polarity=Neg	31	advmod	_	_
 30	o	o	PRON	Raa3ms	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	obj	_	_
-31	impiden	impedir	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+31	impiden	impedir	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
 32	.	.	PUNCT	Q.	_	31	punct	_	_
 
 # sent_id = 513
 # text = Así, puidemos saber que a interrelación coas "Bases para a reforma do Estatuto" realizadas pola fundación Iniciativas 21 e asumidas polo PSOE, foi importante.
-1	Así	así	ADV	Wn	_	4	advmod	_	_
+1	Así	así	ADV	Wn	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	Q,	_	1	punct	_	_
 3	puidemos	poder	AUX	Vei10p	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	_
 4	saber	saber	VERB	V0f000	VerbForm=Inf	0	root	_	_
@@ -2871,7 +2871,7 @@
 8-9	coas	_	_	_	_	_	_	_	_
 8	con	con	ADP	P	AdpType=Prep	11	case	_	_
 9	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
-10	"	"	PUNCT	Q"	_	11	punct	_	_
+10	"	"	PUNCT	Q"	_	11	punct	_	SpaceAfter=No
 11	Bases	bases	PROPN	Spfp	Gender=Fem|Number=Plur	7	nmod	_	_
 12	para	para	ADP	P	AdpType=Prep	14	case	_	_
 13	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -2879,7 +2879,7 @@
 15-16	do	_	_	_	_	_	_	_	_
 15	de	de	ADP	P	AdpType=Prep	17	case	_	_
 16	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	Estatuto	estatuto	NOUN	Scms	Gender=Masc|Number=Sing	14	nmod	_	_
+17	Estatuto	estatuto	NOUN	Scms	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
 18	"	"	PUNCT	Q"	_	11	punct	_	_
 19	realizadas	realizar	VERB	V0p0fp	Gender=Fem|Number=Plur|VerbForm=Part	11	acl	_	_
 20-21	pola	_	_	_	_	_	_	_	_
@@ -2893,17 +2893,17 @@
 27-28	polo	_	_	_	_	_	_	_	_
 27	por	por	ADP	P	AdpType=Prep	29	case	_	_
 28	lo	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-29	PSOE	PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	26	obl	_	_
+29	PSOE	PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
 30	,	,	PUNCT	Q,	_	7	punct	_	_
 31	foi	ser	AUX	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	cop	_	_
-32	importante	importante	ADJ	A0fs	Gender=Fem|Number=Sing	4	ccomp	_	_
+32	importante	importante	ADJ	A0fs	Gender=Fem|Number=Sing	4	ccomp	_	SpaceAfter=No
 33	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 518
 # text = Reclaman así mesmo, a participación directa de Galiza na UE, cando os asuntos sexan do noso interese, e a capacidade de definir as políticas estatais (coincidente no fondo con Iniciativas 21).
 1	Reclaman	reclamar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	así	así	ADV	Wn	_	1	advmod	_	_
-3	mesmo	mesmo	ADV	Wn	_	2	fixed	_	_
+3	mesmo	mesmo	ADV	Wn	_	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	1	punct	_	_
 5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	participación	participación	NOUN	Scfs	Gender=Fem|Number=Sing	1	obj	_	_
@@ -2913,7 +2913,7 @@
 10-11	na	_	_	_	_	_	_	_	_
 10	en	en	ADP	P	AdpType=Prep	12	case	_	_
 11	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	UE	UE	PROPN	Zgfs	Gender=Fem|Number=Sing	6	nmod	_	_
+12	UE	UE	PROPN	Zgfs	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	Q,	_	1	punct	_	_
 14	cando	cando	ADV	Wr	PronType=Rel	21	advmod	_	_
 15	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
@@ -2923,7 +2923,7 @@
 18	de	de	ADP	P	AdpType=Prep	21	case	_	_
 19	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 20	noso	noso	DET	Md1pms	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
-21	interese	interese	NOUN	Scms	Gender=Masc|Number=Sing	1	advcl	_	_
+21	interese	interese	NOUN	Scms	Gender=Masc|Number=Sing	1	advcl	_	SpaceAfter=No
 22	,	,	PUNCT	Q,	_	1	punct	_	_
 23	e	e	CCONJ	Cc	_	25	cc	_	_
 24	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
@@ -2933,7 +2933,7 @@
 28	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	_
 29	políticas	política	NOUN	Scfp	Gender=Fem|Number=Plur	27	obj	_	_
 30	estatais	estatal	ADJ	A0fp	Gender=Fem|Number=Plur	29	amod	_	_
-31	(	(	PUNCT	Q(	_	32	punct	_	_
+31	(	(	PUNCT	Q(	_	32	punct	_	SpaceAfter=No
 32	coincidente	coincidente	ADJ	A0as	Gender=Com|Number=Sing	25	amod	_	_
 33-34	no	_	_	_	_	_	_	_	_
 33	en	en	ADP	P	AdpType=Prep	35	case	_	_
@@ -2941,13 +2941,13 @@
 35	fondo	fondo	NOUN	Scms	Gender=Masc|Number=Sing	32	obl	_	_
 36	con	con	ADP	P	AdpType=Prep	37	case	_	_
 37	Iniciativas	iniciativas	PROPN	Sp00	_	35	nmod	_	_
-38	21	21	PROPN	Sp00	_	37	flat:name	_	_
-39	)	)	PUNCT	Q)	_	32	punct	_	_
+38	21	21	PROPN	Sp00	_	37	flat:name	_	SpaceAfter=No
+39	)	)	PUNCT	Q)	_	32	punct	_	SpaceAfter=No
 40	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 523
 # text = (Aquí existe unha importante diferenza co que os socialistas definen como "novo municipalismo").
-1	(	(	PUNCT	Q(	_	3	punct	_	_
+1	(	(	PUNCT	Q(	_	3	punct	_	SpaceAfter=No
 2	Aquí	aquí	ADV	Wn	_	3	advmod	_	_
 3	existe	existir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -2961,44 +2961,44 @@
 11	socialistas	socialista	NOUN	Scmp	Gender=Masc|Number=Plur	12	nsubj	_	_
 12	definen	definir	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
 13	como	como	ADV	Wr	PronType=Rel	12	advmod	_	_
-14	"	"	PUNCT	Q"	_	16	punct	_	_
+14	"	"	PUNCT	Q"	_	16	punct	_	SpaceAfter=No
 15	novo	novo	ADJ	A0ms	Gender=Masc|Number=Sing	16	amod	_	_
-16	municipalismo	municipalismo	NOUN	Scms	Gender=Masc|Number=Sing	12	obl	_	_
-17	"	"	PUNCT	Q"	_	16	punct	_	_
-18	)	)	PUNCT	Q)	_	3	punct	_	_
+16	municipalismo	municipalismo	NOUN	Scms	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+17	"	"	PUNCT	Q"	_	16	punct	_	SpaceAfter=No
+18	)	)	PUNCT	Q)	_	3	punct	_	SpaceAfter=No
 19	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 528
 # text = O BNG, pola súa banda, pretende que, a mesma reforma estatutaria, que, na práctica, faga necesaria a reforma constitucional, superando así o actual marco estatal e recoñecendo o dereito á autodeterminación.
 1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	9	nsubj	_	_
+2	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	2	punct	_	_
 4-5	pola	_	_	_	_	_	_	_	_
 4	por	por	ADP	P	AdpType=Prep	7	case	_	_
 5	la	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	súa	seu	DET	Md3sfs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
-7	banda	banda	NOUN	Scfs	Gender=Fem|Number=Sing	2	nmod	_	_
+7	banda	banda	NOUN	Scfs	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	2	punct	_	_
 9	pretende	pretender	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-10	que	que	SCONJ	Cs	_	23	mark	_	_
+10	que	que	SCONJ	Cs	_	23	mark	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	14	punct	_	_
 12	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 13	mesma	mesmo	DET	Idfs	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
 14	reforma	reforma	NOUN	Scfs	Gender=Fem|Number=Sing	23	obl	_	_
-15	estatutaria	estatutario	ADJ	A0fs	Gender=Fem|Number=Sing	14	amod	_	_
+15	estatutaria	estatutario	ADJ	A0fs	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	14	punct	_	_
-17	que	que	SCONJ	Cs	_	23	mark	_	_
+17	que	que	SCONJ	Cs	_	23	mark	_	SpaceAfter=No
 18	,	,	PUNCT	Q,	_	23	punct	_	_
 19-20	na	_	_	_	_	_	_	_	_
 19	en	en	ADP	P	AdpType=Prep	21	case	_	_
 20	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-21	práctica	práctica	NOUN	Scfs	Gender=Fem|Number=Sing	23	obl	_	_
+21	práctica	práctica	NOUN	Scfs	Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
 22	,	,	PUNCT	Q,	_	23	punct	_	_
 23	faga	facer	VERB	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
 24	necesaria	necesario	ADJ	A0fs	Gender=Fem|Number=Sing	23	xcomp	_	_
 25	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	reforma	reforma	NOUN	Scfs	Gender=Fem|Number=Sing	24	obj	_	_
-27	constitucional	constitucional	ADJ	A0fs	Gender=Fem|Number=Sing	26	amod	_	_
+27	constitucional	constitucional	ADJ	A0fs	Gender=Fem|Number=Sing	26	amod	_	SpaceAfter=No
 28	,	,	PUNCT	Q,	_	24	punct	_	_
 29	superando	superar	VERB	V0x000	VerbForm=Ger	23	advcl	_	_
 30	así	así	ADV	Wn	_	29	advmod	_	_
@@ -3013,7 +3013,7 @@
 39-40	á	_	_	_	_	_	_	_	_
 39	a	a	ADP	P	AdpType=Prep	41	case	_	_
 40	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
-41	autodeterminación	autodeterminación	NOUN	Scfs	Gender=Fem|Number=Sing	38	nmod	_	_
+41	autodeterminación	autodeterminación	NOUN	Scfs	Gender=Fem|Number=Sing	38	nmod	_	SpaceAfter=No
 42	.	.	PUNCT	Q.	_	36	punct	_	_
 
 # sent_id = 533
@@ -3024,13 +3024,13 @@
 4	por	por	ADP	P	AdpType=Prep	5	case	_	_
 5	Manuel	manuel	PROPN	Spm0	Gender=Masc	3	obl	_	_
 6	Gutiérrez	gutiérrez	PROPN	Spm0	Gender=Masc	5	flat:name	_	_
-7	Aragón	aragón	PROPN	Spm0	Gender=Masc	5	flat:name	_	_
+7	Aragón	aragón	PROPN	Spm0	Gender=Masc	5	flat:name	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	2	punct	_	_
 9	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	vida	vida	NOUN	Scfs	Gender=Fem|Number=Sing	13	nsubj	_	_
 11	que	que	PRON	Tn00	_	13	obj	_	_
 12	che	che	PRON	Rad2as	_	13	iobj	_	_
-13	espera	espera	PROPN	Sp00	_	2	nmod	_	_
+13	espera	espera	PROPN	Sp00	_	2	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	7	punct	_	_
 15	opta	optar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 16	a	a	ADP	P	AdpType=Prep	18	case	_	_
@@ -3038,14 +3038,14 @@
 18	total	total	NOUN	Scms	Gender=Masc|Number=Sing	15	obl	_	_
 19	de	de	ADP	P	AdpType=Prep	21	case	_	_
 20	oito	oito	NUM	Ncdfp	Gender=Fem|Number=Plur|NumType=Card	21	nummod	_	_
-21	nominacións	nominación	NOUN	Scfp	Gender=Fem|Number=Plur	18	nmod	_	_
+21	nominacións	nominación	NOUN	Scfp	Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	Q,	_	24	punct	_	_
 23	entre	entre	ADP	P	AdpType=Prep	24	case	_	_
 24	outras	outro	PRON	Infp	Gender=Fem|Number=Plur|PronType=Ind	21	nmod	_	_
 25	a	o	PRON	Ddfs	Gender=Fem|Number=Sing|Person=3|PronType=Art	24	nmod	_	_
 26	de	de	ADP	P	AdpType=Prep	28	case	_	_
 27	mellor	mellor	ADJ	Acfs	Degree=Cmp|Gender=Fem|Number=Sing	28	amod	_	_
-28	dirección	dirección	NOUN	Scfs	Gender=Fem|Number=Sing	25	nmod	_	_
+28	dirección	dirección	NOUN	Scfs	Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	Q,	_	31	punct	_	_
 30	mellor	mellor	ADJ	Acms	Degree=Cmp|Gender=Masc|Number=Sing	31	amod	_	_
 31	guión	guión	NOUN	Scms	Gender=Masc|Number=Sing	25	conj	_	_
@@ -3055,7 +3055,7 @@
 35	feminina	feminino	ADJ	A0fs	Gender=Fem|Number=Sing	34	amod	_	_
 36	e	e	CCONJ	Cc	_	37	cc	_	_
 37	masculina	masculino	ADJ	A0fs	Gender=Fem|Number=Sing	35	conj	_	_
-38	protagonista	protagonista	ADJ	A0fs	Gender=Fem|Number=Sing	34	amod	_	_
+38	protagonista	protagonista	ADJ	A0fs	Gender=Fem|Number=Sing	34	amod	_	SpaceAfter=No
 39	.	.	PUNCT	Q.	_	38	punct	_	_
 
 # sent_id = 538
@@ -3068,7 +3068,7 @@
 5	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	parroquias	parroquia	NOUN	Scfp	Gender=Fem|Number=Plur	3	obl	_	_
 7	de	de	ADP	P	AdpType=Prep	8	case	_	_
-8	Ribadeo	Ribadeo	PROPN	Sp00	_	6	nmod	_	_
+8	Ribadeo	Ribadeo	PROPN	Sp00	_	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 543
@@ -3083,7 +3083,7 @@
 6	a	a	ADP	P	AdpType=Prep	9	case	_	_
 7	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	máis	máis	ADV	Wm	_	9	advmod	_	_
-9	clásico	clásico	ADJ	A0ms	Gender=Masc|Number=Sing	5	amod	_	_
+9	clásico	clásico	ADJ	A0ms	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
 10	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 548
@@ -3099,7 +3099,7 @@
 8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Quixote	Quixote	PROPN	Spms	Gender=Masc|Number=Sing	5	nmod	_	_
 10	en	en	ADP	P	AdpType=Prep	11	case	_	_
-11	1990	1990	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	3	obl	_	_
+11	1990	1990	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	3	obl	_	SpaceAfter=No
 12	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 553
@@ -3114,10 +3114,10 @@
 7	de	de	ADP	P	AdpType=Prep	9	case	_	_
 8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	capítulo	capítulo	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
-10	IX	IX	NUM	Nonms	Gender=Masc|Number=Sing|NumType=Ord	9	nummod	_	_
+10	IX	IX	NUM	Nonms	Gender=Masc|Number=Sing|NumType=Ord	9	nummod	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	10	punct	_	_
 12	primeiro	primeiro	NUM	Nodms	Gender=Masc|Number=Sing|NumType=Ord	13	nummod	_	_
-13	libro	libro	NOUN	Scms	Gender=Masc|Number=Sing	9	nmod	_	_
+13	libro	libro	NOUN	Scms	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	9	punct	_	_
 15	coñecido	coñecer	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	9	acl	_	_
 16	como	como	ADV	Wr	PronType=Rel	17	case	_	_
@@ -3125,12 +3125,12 @@
 18-19	aos	_	_	_	_	_	_	_	_
 18	a	a	ADP	P	AdpType=Prep	20	case	_	_
 19	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
-20	cabreros	cabreros	NOUN	Scmp	Gender=Masc|Number=Plur	17	nmod	_	_
+20	cabreros	cabreros	NOUN	Scmp	Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Q.	_	9	punct	_	_
 
 # sent_id = 558
 # text = Daquela, o concello manchego de Consuegra quixo erguer un muíño de vento, no que se instalaría unha biblioteca con traducións da obra cervantina en todas as linguas do mundo.
-1	Daquela	daquela	ADV	Wn	_	8	advmod	_	_
+1	Daquela	daquela	ADV	Wn	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	Q,	_	8	punct	_	_
 3	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	concello	concello	NOUN	Scms	Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -3142,7 +3142,7 @@
 10	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	muíño	muíño	NOUN	Scms	Gender=Masc|Number=Sing	9	obj	_	_
 12	de	de	ADP	P	AdpType=Prep	13	case	_	_
-13	vento	vento	NOUN	Scms	Gender=Masc|Number=Sing	11	nmod	_	_
+13	vento	vento	NOUN	Scms	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	19	punct	_	_
 15-16	no	_	_	_	_	_	_	_	_
 15	en	en	ADP	P	AdpType=Prep	17	case	_	_
@@ -3166,7 +3166,7 @@
 32-33	do	_	_	_	_	_	_	_	_
 32	de	de	ADP	P	AdpType=Prep	34	case	_	_
 33	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	mundo	mundo	NOUN	Scms	Gender=Masc|Number=Sing	31	nmod	_	_
+34	mundo	mundo	NOUN	Scms	Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
 35	.	.	PUNCT	Q.	_	8	punct	_	_
 
 # sent_id = 563
@@ -3181,14 +3181,14 @@
 7	completa	completo	ADJ	A0fs	Gender=Fem|Number=Sing	6	amod	_	_
 8	anos	ano	NOUN	Scmp	Gender=Masc|Number=Plur	10	obl	_	_
 9	máis	máis	ADV	Wm	_	10	advmod	_	_
-10	tarde	tarde	ADV	Wn	_	3	advmod	_	_
+10	tarde	tarde	ADV	Wn	_	3	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	16	punct	_	_
 12	e	e	CCONJ	Cc	_	16	cc	_	_
 13	tamén	tamén	ADV	Wn	_	16	advmod	_	_
 14-15	dos	_	_	_	_	_	_	_	_
 14	de	de	ADP	P	AdpType=Prep	16	case	_	_
 15	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-16	predecesores	predecesor	NOUN	Scmp	Gender=Masc|Number=Plur	3	conj	_	_
+16	predecesores	predecesor	NOUN	Scmp	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
 17	,	,	PUNCT	Q,	_	3	punct	_	_
 18	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	autores	autor	NOUN	Scmp	Gender=Masc|Number=Plur	20	nsubj	_	_
@@ -3204,13 +3204,13 @@
 28-29	da	_	_	_	_	_	_	_	_
 28	de	de	ADP	P	AdpType=Prep	30	case	_	_
 29	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
-30	lingua	lingua	NOUN	Scfs	Gender=Fem|Number=Sing	27	nmod	_	_
+30	lingua	lingua	NOUN	Scfs	Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
 31	,	,	PUNCT	Q,	_	20	punct	_	_
-32	"	"	PUNCT	Q"	_	42	punct	_	_
+32	"	"	PUNCT	Q"	_	42	punct	_	SpaceAfter=No
 33	este	este	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	34	det	_	_
 34	molliño	mollo	NOUN	Scms	Gender=Masc|Number=Sing	47	nsubj	_	_
 35	de	de	ADP	P	AdpType=Prep	36	case	_	_
-36	follas	folla	NOUN	Scfp	Gender=Fem|Number=Plur	34	nmod	_	_
+36	follas	folla	NOUN	Scfp	Gender=Fem|Number=Plur	34	nmod	_	SpaceAfter=No
 37	,	,	PUNCT	Q,	_	34	punct	_	_
 38	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	39	det	_	_
 39	tradución	tradución	NOUN	Scfs	Gender=Fem|Number=Sing	34	nmod	_	_
@@ -3220,7 +3220,7 @@
 43-44	ao	_	_	_	_	_	_	_	_
 43	a	a	ADP	P	AdpType=Prep	45	case	_	_
 44	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
-45	prelo	prelo	NOUN	Scms	Gender=Masc|Number=Sing	42	iobj	_	_
+45	prelo	prelo	NOUN	Scms	Gender=Masc|Number=Sing	42	iobj	_	SpaceAfter=No
 46	,	,	PUNCT	Q,	_	42	punct	_	_
 47	tenta	tentar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
 48	ser	ser	AUX	V0f000	VerbForm=Inf	50	cop	_	_
@@ -3230,11 +3230,11 @@
 52-53	á	_	_	_	_	_	_	_	_
 52	a	a	ADP	P	AdpType=Prep	54	case	_	_
 53	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	54	det	_	_
-54	laboura	laboura	NOUN	Scfs	Gender=Fem|Number=Sing	50	nmod	_	_
+54	laboura	laboura	NOUN	Scfs	Gender=Fem|Number=Sing	50	nmod	_	SpaceAfter=No
 55	,	,	PUNCT	Q,	_	50	punct	_	_
 56	nunca	nunca	ADV	Wn	Polarity=Neg	58	advmod	_	_
 57	dabondo	dabondo	ADV	Wn	_	58	advmod	_	_
-58	exercitada	exercitar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	54	acl	_	_
+58	exercitada	exercitar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	54	acl	_	SpaceAfter=No
 59	,	,	PUNCT	Q,	_	58	punct	_	_
 60	de	de	ADP	P	AdpType=Prep	61	mark	_	_
 61	arrequecer	arrequecer	VERB	V0f000	VerbForm=Inf	54	acl	_	_
@@ -3247,13 +3247,13 @@
 67	incorporación	incorporación	NOUN	Scfs	Gender=Fem|Number=Sing	61	obl	_	_
 68	de	de	ADP	P	AdpType=Prep	69	case	_	_
 69	textos	texto	NOUN	Scmp	Gender=Masc|Number=Plur	67	nmod	_	_
-70	alleos	alleo	ADJ	A0mp	Gender=Masc|Number=Plur	69	amod	_	_
-71	"	"	PUNCT	Q"	_	42	punct	_	_
+70	alleos	alleo	ADJ	A0mp	Gender=Masc|Number=Plur	69	amod	_	SpaceAfter=No
+71	"	"	PUNCT	Q"	_	42	punct	_	SpaceAfter=No
 72	.	.	PUNCT	Q.	_	20	punct	_	_
 
 # sent_id = 568
 # text = "Cando me propuxeron a tradución _lembra Arias_ pensei que era unha oportunidade que non se podía desperdiciar e dunha grande importancia para a normalización do galego.
-1	"	"	PUNCT	Q"	_	4	punct	_	_
+1	"	"	PUNCT	Q"	_	4	punct	_	SpaceAfter=No
 2	Cando	cando	ADV	Wr	PronType=Rel	4	advmod	_	_
 3	me	me	PRON	Rad1as	Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
 4	propuxeron	propoñer	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
@@ -3285,7 +3285,7 @@
 29-30	do	_	_	_	_	_	_	_	_
 29	de	de	ADP	P	AdpType=Prep	31	case	_	_
 30	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
-31	galego	galego	NOUN	Scms	Gender=Masc|Number=Sing	28	nmod	_	_
+31	galego	galego	NOUN	Scms	Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	Q.	_	11	punct	_	_
 
 # sent_id = 573
@@ -3295,36 +3295,36 @@
 3	serigrafías	serigrafía	NOUN	Scfp	Gender=Fem|Number=Plur	2	obj	_	_
 4	orixinais	orixinal	ADJ	A0fp	Gender=Fem|Number=Plur	3	amod	_	_
 5	de	de	ADP	P	AdpType=Prep	6	case	_	_
-6	Laxeiro	Laxeiro	PROPN	Sp00	_	3	nmod	_	_
+6	Laxeiro	Laxeiro	PROPN	Sp00	_	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	Q,	_	8	punct	_	_
-8	Abelenda	Abelenda	PROPN	Sp00	_	6	conj	_	_
+8	Abelenda	Abelenda	PROPN	Sp00	_	6	conj	_	SpaceAfter=No
 9	,	,	PUNCT	Q,	_	10	punct	_	_
-10	Lodeiro	Lodeiro	PROPN	Sp00	_	6	conj	_	_
+10	Lodeiro	Lodeiro	PROPN	Sp00	_	6	conj	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	12	punct	_	_
 12	Conde	conde	PROPN	Sp00	_	6	conj	_	_
-13	Corbal	corbal	PROPN	Sp00	_	12	flat:name	_	_
+13	Corbal	corbal	PROPN	Sp00	_	12	flat:name	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	15	punct	_	_
 15	Alfonso	alfonso	PROPN	Spm0	Gender=Masc	6	conj	_	_
-16	Costas	costas	PROPN	Spm0	Gender=Masc	15	flat:name	_	_
+16	Costas	costas	PROPN	Spm0	Gender=Masc	15	flat:name	_	SpaceAfter=No
 17	,	,	PUNCT	Q,	_	18	punct	_	_
-18	Sucasas	Sucasas	PROPN	Sp00	_	6	conj	_	_
+18	Sucasas	Sucasas	PROPN	Sp00	_	6	conj	_	SpaceAfter=No
 19	,	,	PUNCT	Q,	_	20	punct	_	_
-20	Moldes	Moldes	PROPN	Sp00	_	6	conj	_	_
+20	Moldes	Moldes	PROPN	Sp00	_	6	conj	_	SpaceAfter=No
 21	,	,	PUNCT	Q,	_	22	punct	_	_
 22	Correa	correa	PROPN	Sp00	_	6	conj	_	_
-23	Corredoira	corredoira	PROPN	Sp00	_	22	flat:name	_	_
+23	Corredoira	corredoira	PROPN	Sp00	_	22	flat:name	_	SpaceAfter=No
 24	,	,	PUNCT	Q,	_	25	punct	_	_
-25	Lamazares	Lamazares	PROPN	Sp00	_	6	conj	_	_
+25	Lamazares	Lamazares	PROPN	Sp00	_	6	conj	_	SpaceAfter=No
 26	,	,	PUNCT	Q,	_	27	punct	_	_
-27	Virxilio	Virxilio	PROPN	Spm0	Gender=Masc	6	conj	_	_
+27	Virxilio	Virxilio	PROPN	Spm0	Gender=Masc	6	conj	_	SpaceAfter=No
 28	,	,	PUNCT	Q,	_	29	punct	_	_
 29	Alberto	alberto	PROPN	Spm0	Gender=Masc	6	conj	_	_
-30	Datas	datas	PROPN	Spm0	Gender=Masc	29	flat:name	_	_
+30	Datas	datas	PROPN	Spm0	Gender=Masc	29	flat:name	_	SpaceAfter=No
 31	,	,	PUNCT	Q,	_	32	punct	_	_
 32	Costas	Costas	PROPN	Sp00	_	6	conj	_	_
 33	e	e	CCONJ	Cc	_	34	cc	_	_
 34	Leopoldo	leopoldo	PROPN	Spm0	Gender=Masc	6	conj	_	_
-35	Novoa	novoa	PROPN	Spm0	Gender=Masc	34	flat:name	_	_
+35	Novoa	novoa	PROPN	Spm0	Gender=Masc	34	flat:name	_	SpaceAfter=No
 36	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 578
@@ -3350,7 +3350,7 @@
 15	nos	nos	PRON	Rad1ap	Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	14	iobj	_	_
 16	moito	moito	ADV	Wn	_	14	advmod	_	_
 17	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-18	lata	lata	NOUN	Scfs	Gender=Fem|Number=Sing	14	obj	_	_
+18	lata	lata	NOUN	Scfs	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
 19	.	.	PUNCT	Q.	_	14	punct	_	_
 
 # sent_id = 583
@@ -3375,7 +3375,7 @@
 17-18	ao	_	_	_	_	_	_	_	_
 17	a	a	ADP	P	AdpType=Prep	19	case	_	_
 18	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	galego	galego	NOUN	Scms	Gender=Masc|Number=Sing	12	obl	_	_
+19	galego	galego	NOUN	Scms	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
 20	.	.	PUNCT	Q.	_	12	punct	_	_
 
 # sent_id = 588
@@ -3409,7 +3409,7 @@
 25	Edicións	edicións	PROPN	Sp00	_	22	nsubj	_	_
 26	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 27	Nosa	noso	DET	Md1pfs	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	28	det	_	_
-28	Terra	terra	NOUN	Sp00	_	25	nmod	_	_
+28	Terra	terra	NOUN	Sp00	_	25	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 593
@@ -3432,9 +3432,9 @@
 15	de	de	ADP	P	AdpType=Prep	16	case	_	_
 16	Helena	helena	PROPN	Spf0	Gender=Fem	14	nmod	_	_
 17	Seixo	seixo	PROPN	Spf0	Gender=Fem	16	flat:name	_	_
-18	(	(	PUNCT	Q(	_	19	punct	_	_
+18	(	(	PUNCT	Q(	_	19	punct	_	SpaceAfter=No
 19	Sarabela	sarabela	PROPN	Sp00	_	16	nmod	_	_
-20	Teatro	teatro	PROPN	Sp00	_	19	flat:name	_	_
+20	Teatro	teatro	PROPN	Sp00	_	19	flat:name	_	SpaceAfter=No
 21	)	)	PUNCT	Q)	_	19	punct	_	_
 22-23	na	_	_	_	_	_	_	_	_
 22	en	en	ADP	P	AdpType=Prep	24	case	_	_
@@ -3442,7 +3442,7 @@
 24	serie	serie	NOUN	Scfs	Gender=Fem|Number=Sing	14	nmod	_	_
 25	de	de	ADP	P	AdpType=Prep	27	case	_	_
 26	Los	los	DET	Ddms	_	27	det	_	_
-27	Serrano	serrano	PROPN	Sp00	_	24	nmod	_	_
+27	Serrano	serrano	PROPN	Sp00	_	24	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 598
@@ -3458,12 +3458,12 @@
 8	modelo	modelo	NOUN	Scms	Gender=Masc|Number=Sing	5	obl	_	_
 9	moral	moral	ADJ	A0ms	Gender=Masc|Number=Sing	8	amod	_	_
 10	cristián	cristián	ADJ	A0ms	Gender=Masc|Number=Sing	8	amod	_	_
-11	(	(	PUNCT	Q(	_	12	punct	_	_
-12	cuíño	cu	NOUN	Scms	Gender=Masc|Number=Sing	10	parataxis	_	_
+11	(	(	PUNCT	Q(	_	12	punct	_	SpaceAfter=No
+12	cuíño	cu	NOUN	Scms	Gender=Masc|Number=Sing	10	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	Q,	_	14	punct	_	_
 14	cuíño	cu	NOUN	Scms	Gender=Masc|Number=Sing	12	conj	_	_
-15	...	...	PUNCT	Q...	_	12	punct	_	_
-16	)	)	PUNCT	Q)	_	12	punct	_	_
+15	...	...	PUNCT	Q...	_	12	punct	_	SpaceAfter=No
+16	)	)	PUNCT	Q)	_	12	punct	_	SpaceAfter=No
 17	?	?	PUNCT	Q?	_	5	punct	_	_
 
 # sent_id = 603
@@ -3484,7 +3484,7 @@
 13	apenas	apenas	ADV	Wn	_	14	advmod	_	_
 14	sabe	saber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl	_	_
 15	falar	falar	VERB	V0f000	VerbForm=Inf	14	xcomp	_	_
-16	castelán	castelán	NOUN	Scms	Gender=Masc|Number=Sing	15	obj	_	_
+16	castelán	castelán	NOUN	Scms	Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
 17	,	,	PUNCT	Q,	_	10	punct	_	_
 18	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	19	nsubj	_	_
 19	ten	ter	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
@@ -3492,12 +3492,12 @@
 21	fillo	fillo	NOUN	Scms	Gender=Masc|Number=Sing	19	obj	_	_
 22	de	de	ADP	P	AdpType=Prep	24	case	_	_
 23	cada	cada	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	24	det	_	_
-24	pai	pai	NOUN	Scms	Gender=Masc|Number=Sing	21	nmod	_	_
+24	pai	pai	NOUN	Scms	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	Q,	_	24	punct	_	_
 26	incapaz	incapaz	ADJ	A0fs	Gender=Fem|Number=Sing	14	conj	_	_
 27	para	para	ADP	P	AdpType=Prep	29	case	_	_
 28	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-29	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	26	obl	_	_
+29	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
 30	,	,	PUNCT	Q,	_	26	punct	_	_
 31-32	véndonos	_	_	_	_	_	_	_	_
 31	vendo	ver	VERB	V0x000	VerbForm=Ger	6	advcl	_	_
@@ -3506,7 +3506,7 @@
 34	persoas	persoa	NOUN	Scfp	Gender=Fem|Number=Plur	31	obl	_	_
 35	incultas	inculto	ADJ	A0fp	Gender=Fem|Number=Plur	34	amod	_	_
 36	e	e	CCONJ	Cc	_	37	cc	_	_
-37	desestruturadas	desestruturado	ADJ	A0fp	Gender=Fem|Number=Plur	35	conj	_	_
+37	desestruturadas	desestruturado	ADJ	A0fp	Gender=Fem|Number=Plur	35	conj	_	SpaceAfter=No
 38	,	,	PUNCT	Q,	_	31	punct	_	_
 39	e	e	CCONJ	Cc	_	40	cc	_	_
 40	sei	saber	VERB	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
@@ -3524,7 +3524,7 @@
 51-52	nesta	_	_	_	_	_	_	_	_
 51	en	en	ADP	P	AdpType=Prep	53	case	_	_
 52	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	53	det	_	_
-53	visión	visión	NOUN	Scfs	Gender=Fem|Number=Sing	50	obl	_	_
+53	visión	visión	NOUN	Scfs	Gender=Fem|Number=Sing	50	obl	_	SpaceAfter=No
 54	,	,	PUNCT	Q,	_	50	punct	_	_
 55	mais	mais	SCONJ	Cs	_	61	cc	_	_
 56	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	57	det	_	_
@@ -3539,7 +3539,7 @@
 65	mostras	mostra	NOUN	Scfp	Gender=Fem|Number=Plur	64	obj	_	_
 66	de	de	ADP	P	AdpType=Prep	68	case	_	_
 67	enorme	enorme	ADJ	A0fs	Gender=Fem|Number=Sing	68	amod	_	_
-68	dignidade	dignidade	NOUN	Scfs	Gender=Fem|Number=Sing	65	nmod	_	_
+68	dignidade	dignidade	NOUN	Scfs	Gender=Fem|Number=Sing	65	nmod	_	SpaceAfter=No
 69	.	.	PUNCT	Q.	_	64	punct	_	_
 
 # sent_id = 608
@@ -3572,7 +3572,7 @@
 12	comunicación	comunicación	NOUN	Scfs	Gender=Fem|Number=Sing	10	conj	_	_
 13	musical	musical	ADJ	A0fs	Gender=Fem|Number=Sing	12	amod	_	_
 14	en	en	ADP	P	AdpType=Prep	15	case	_	_
-15	xornais	xornal	NOUN	Scmp	Gender=Masc|Number=Plur	6	nmod	_	_
+15	xornais	xornal	NOUN	Scmp	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	4	punct	_	_
 17	revistas	revista	NOUN	Scfp	Gender=Fem|Number=Plur	15	conj	_	_
 18	etc.	etc.	X	Za00	_	15	conj	_	_
@@ -3590,15 +3590,15 @@
 8	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 9	súa	seu	DET	Md3sfs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	voz	voz	NOUN	Scfs	Gender=Fem|Number=Sing	4	nmod	_	_
-11	(	(	PUNCT	Q(	_	12	punct	_	_
+11	(	(	PUNCT	Q(	_	12	punct	_	SpaceAfter=No
 12	lectura	lectura	NOUN	Scfs	Gender=Fem|Number=Sing	4	nmod	_	_
 13	de	de	ADP	P	AdpType=Prep	14	case	_	_
-14	poemas	poema	NOUN	Scmp	Gender=Masc|Number=Plur	12	nmod	_	_
+14	poemas	poema	NOUN	Scmp	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	Q,	_	16	punct	_	_
-16	conferencias	conferencia	NOUN	Scfp	Gender=Fem|Number=Plur	12	conj	_	_
+16	conferencias	conferencia	NOUN	Scfp	Gender=Fem|Number=Plur	12	conj	_	SpaceAfter=No
 17	,	,	PUNCT	Q,	_	18	punct	_	_
-18	entrevistas	entrevista	NOUN	Scfp	Gender=Fem|Number=Plur	12	conj	_	_
-19	...	...	PUNCT	Q...	_	12	punct	_	_
+18	entrevistas	entrevista	NOUN	Scfp	Gender=Fem|Number=Plur	12	conj	_	SpaceAfter=No
+19	...	...	PUNCT	Q...	_	12	punct	_	SpaceAfter=No
 20	)	)	PUNCT	Q)	_	12	punct	_	_
 21	e	e	CCONJ	Cc	_	23	cc	_	_
 22	todo	todo	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	23	det	_	_
@@ -3610,7 +3610,7 @@
 28-29	neste	_	_	_	_	_	_	_	_
 28	en	en	ADP	P	AdpType=Prep	30	case	_	_
 29	este	este	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	30	det	_	_
-30	documental	documental	NOUN	Scms	Gender=Masc|Number=Sing	27	obl	_	_
+30	documental	documental	NOUN	Scms	Gender=Masc|Number=Sing	27	obl	_	SpaceAfter=No
 31	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 623
@@ -3628,7 +3628,7 @@
 11-12	da	_	_	_	_	_	_	_	_
 11	de	de	ADP	P	AdpType=Prep	13	case	_	_
 12	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	represión	represión	NOUN	Scfs	Gender=Fem|Number=Sing	10	nmod	_	_
+13	represión	represión	NOUN	Scfs	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	15	punct	_	_
 15	continúa	continuar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 16	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -3642,7 +3642,7 @@
 23-24	do	_	_	_	_	_	_	_	_
 23	de	de	ADP	P	AdpType=Prep	25	case	_	_
 24	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-25	36	36	NUM	N0000	NumType=Card	22	nmod	_	_
+25	36	36	NUM	N0000	NumType=Card	22	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	Q,	_	18	punct	_	_
 27	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	29	nsubj	_	_
 28	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	iobj	_	_
@@ -3653,7 +3653,7 @@
 32	de	de	ADP	P	AdpType=Prep	34	case	_	_
 33	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	ano	ano	NOUN	Scms	Gender=Masc|Number=Sing	31	nmod	_	_
-35	91	91	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	34	nummod	_	_
+35	91	91	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	34	nummod	_	SpaceAfter=No
 36	.	.	PUNCT	Q.	_	8	punct	_	_
 
 # sent_id = 628
@@ -3669,7 +3669,7 @@
 8	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	xentes	xente	NOUN	Scfp	Gender=Fem|Number=Plur	6	nmod	_	_
 10	de	de	ADP	P	AdpType=Prep	11	case	_	_
-11	Abades	Abades	PROPN	Sp00	_	9	nmod	_	_
+11	Abades	Abades	PROPN	Sp00	_	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	Q,	_	4	punct	_	_
 13	pois	pois	SCONJ	Cs	_	23	mark	_	_
 14	en	en	ADP	P	AdpType=Prep	20	mark	_	_
@@ -3690,15 +3690,15 @@
 27-28	da	_	_	_	_	_	_	_	_
 27	de	de	ADP	P	AdpType=Prep	29	case	_	_
 28	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
-29	represión	represión	NOUN	Scfs	Gender=Fem|Number=Sing	26	nmod	_	_
+29	represión	represión	NOUN	Scfs	Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	Q,	_	31	punct	_	_
-31	interrogan	interrogar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
+31	interrogan	interrogar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	SpaceAfter=No
 32	,	,	PUNCT	Q,	_	33	punct	_	_
-33	chantaxean	chantaxear	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
+33	chantaxean	chantaxear	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	SpaceAfter=No
 34	,	,	PUNCT	Q,	_	35	punct	_	_
 35	rapan	rapar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
 36	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	37	det	_	_
-37	mulleres	muller	NOUN	Scfp	Gender=Fem|Number=Plur	35	obj	_	_
+37	mulleres	muller	NOUN	Scfp	Gender=Fem|Number=Plur	35	obj	_	SpaceAfter=No
 38	,	,	PUNCT	Q,	_	40	punct	_	_
 39	non	non	ADV	Wn	Polarity=Neg	40	advmod	_	_
 40	perden	perder	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
@@ -3708,7 +3708,7 @@
 44-45	na	_	_	_	_	_	_	_	_
 44	en	en	ADP	P	AdpType=Prep	46	case	_	_
 45	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	46	det	_	_
-46	xente	xente	NOUN	Scfs	Gender=Fem|Number=Sing	43	obl	_	_
+46	xente	xente	NOUN	Scfs	Gender=Fem|Number=Sing	43	obl	_	SpaceAfter=No
 47	...	...	PUNCT	Q...	_	43	punct	_	_
 
 # sent_id = 633
@@ -3720,7 +3720,7 @@
 5-6	dos	_	_	_	_	_	_	_	_
 5	de	de	ADP	P	AdpType=Prep	7	case	_	_
 6	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-7	fuxidos	fuxido	NOUN	Scmp	Gender=Masc|Number=Plur	4	nmod	_	_
+7	fuxidos	fuxido	NOUN	Scmp	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 638
@@ -3731,7 +3731,7 @@
 4	de	de	ADP	P	AdpType=Prep	5	case	_	_
 5	falta	falta	NOUN	Scfs	Gender=Fem|Number=Sing	3	obl	_	_
 6	de	de	ADP	P	AdpType=Prep	7	case	_	_
-7	credibilidade	credibilidade	NOUN	Scfs	Gender=Fem|Number=Sing	5	nmod	_	_
+7	credibilidade	credibilidade	NOUN	Scfs	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	3	punct	_	_
 9	son	ser	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 10	moi	moito	ADV	Wm	_	11	advmod	_	_
@@ -3755,7 +3755,7 @@
 27	para	para	ADP	P	AdpType=Prep	30	case	_	_
 28	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 29	súa	seu	DET	Md3pfs	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
-30	condición	condición	NOUN	Scfs	Gender=Fem|Number=Sing	26	obl	_	_
+30	condición	condición	NOUN	Scfs	Gender=Fem|Number=Sing	26	obl	_	SpaceAfter=No
 31	,	,	PUNCT	Q,	_	12	punct	_	_
 32-33	producíndose	_	_	_	_	_	_	_	_
 32	producindo	producir	VERB	V0x000	VerbForm=Ger	12	parataxis	_	_
@@ -3774,7 +3774,7 @@
 44-45	do	_	_	_	_	_	_	_	_
 44	de	de	ADP	P	AdpType=Prep	46	case	_	_
 45	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
-46	narrador	narrador	NOUN	Scms	Gender=Masc|Number=Sing	43	nmod	_	_
+46	narrador	narrador	NOUN	Scms	Gender=Masc|Number=Sing	43	nmod	_	SpaceAfter=No
 47	,	,	PUNCT	Q,	_	51	punct	_	_
 48	isto	este	PRON	Enns	Gender=Neut|Number=Sing|PronType=Dem	51	nmod	_	_
 49	ademais	ademais	ADV	Wn	_	51	advmod	_	_
@@ -3787,7 +3787,7 @@
 56	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	59	nsubj	_	_
 57	tamén	tamén	ADV	Wn	_	59	advmod	_	_
 58	as	o	PRON	Raa3fp	Case=Acc|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	59	obj	_	_
-59	penaliza	penalizar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	53	acl	_	_
+59	penaliza	penalizar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	53	acl	_	SpaceAfter=No
 60	.	.	PUNCT	Q.	_	12	punct	_	_
 
 # sent_id = 643
@@ -3801,20 +3801,20 @@
 7-8	aos	_	_	_	_	_	_	_	_
 7	a	a	ADP	P	AdpType=Prep	9	case	_	_
 8	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	fuxidos	fuxido	NOUN	Scmp	Gender=Masc|Number=Plur	6	nmod	_	_
+9	fuxidos	fuxido	NOUN	Scmp	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	Q,	_	3	punct	_	_
 11	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
 12	novela	novela	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	_
-13	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	_
+13	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	18	punct	_	_
 15	iso	ese	PRON	Enns	Gender=Neut|Number=Sing|PronType=Dem	18	advmod	_	_
-16	si	si	ADV	Wn	_	15	fixed	_	_
+16	si	si	ADV	Wn	_	15	fixed	_	SpaceAfter=No
 17	,	,	PUNCT	Q,	_	18	punct	_	_
 18	dará	dar	VERB	Vfi30s	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	acl	_	_
 19	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 20	bo	bo	ADJ	A0ms	Gender=Masc|Number=Sing	21	amod	_	_
 21	guión	guión	NOUN	Scms	Gender=Masc|Number=Sing	18	obj	_	_
-22	cinematográfico	cinematográfico	ADJ	A0ms	Gender=Masc|Number=Sing	21	amod	_	_
+22	cinematográfico	cinematográfico	ADJ	A0ms	Gender=Masc|Number=Sing	21	amod	_	SpaceAfter=No
 23	.	.	PUNCT	Q.	_	18	punct	_	_
 
 # sent_id = 648
@@ -3824,11 +3824,11 @@
 3-4	da	_	_	_	_	_	_	_	_
 3	de	de	ADP	P	AdpType=Prep	5	case	_	_
 4	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	ponte	ponte	PROPN	Sp00	_	1	nmod	_	_
+5	ponte	ponte	PROPN	Sp00	_	1	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	Q,	_	1	punct	_	_
 7	de	de	ADP	P	AdpType=Prep	8	case	_	_
 8	Ramiro	ramiro	PROPN	Spm0	Gender=Masc	2	nmod	_	_
-9	Fonte	fonte	PROPN	Spm0	Gender=Masc	8	flat:name	_	_
+9	Fonte	fonte	PROPN	Spm0	Gender=Masc	8	flat:name	_	SpaceAfter=No
 10	,	,	PUNCT	Q,	_	1	punct	_	_
 11	volve	volver	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12-13	ao	_	_	_	_	_	_	_	_
@@ -3843,7 +3843,7 @@
 20	en	en	ADP	P	AdpType=Prep	23	case	_	_
 21	Os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
 22	meus	meu	DET	Md1smp	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	23	det	_	_
-23	ollos	ollos	PROPN	Sp00	_	19	obl	_	_
+23	ollos	ollos	PROPN	Sp00	_	19	obl	_	SpaceAfter=No
 24	.	.	PUNCT	Q.	_	11	punct	_	_
 
 # sent_id = 653
@@ -3866,7 +3866,7 @@
 14	de	de	ADP	P	AdpType=Prep	16	case	_	_
 15	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	ola	ola	NOUN	Scfs	Gender=Fem|Number=Sing	13	nmod	_	_
-17	express	express	ADJ	A0fs	Gender=Fem|Number=Sing	16	amod	_	_
+17	express	express	ADJ	A0fs	Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
 18	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 658
@@ -3881,12 +3881,12 @@
 8	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	6	nmod	_	_
 9	para	para	ADP	P	AdpType=Prep	10	mark	_	_
 10	responder	responder	VERB	V0f000	VerbForm=Inf	4	advcl	_	_
-11	curriculos	curriculo	NOUN	Scmp	Gender=Masc|Number=Plur	10	obj	_	_
+11	curriculos	curriculo	NOUN	Scmp	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
 12	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 663
 # text = Simple:
-1	Simple	simple	ADJ	A0as	Gender=Com|Number=Sing	0	root	_	_
+1	Simple	simple	ADJ	A0as	Gender=Com|Number=Sing	0	root	_	SpaceAfter=No
 2	:	:	PUNCT	Q:	_	1	punct	_	_
 
 # sent_id = 668
@@ -3904,7 +3904,7 @@
 11	conseguiu	conseguir	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
 12	pronunciar	pronunciar	VERB	V0f000	VerbForm=Inf	11	xcomp	_	_
 13	algunhas	algún	DET	Idfp	Gender=Fem|Number=Plur|PronType=Ind	14	det	_	_
-14	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	12	obj	_	_
+14	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
 15	?	?	PUNCT	Q?	_	3	punct	_	_
 
 # sent_id = 673
@@ -3919,7 +3919,7 @@
 7	até	até	ADP	P	AdpType=Prep	9	case	_	_
 8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	século	século	NOUN	Scms	Gender=Masc|Number=Sing	6	obl	_	_
-10	XIX	XIX	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	9	nummod	_	_
+10	XIX	XIX	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	9	nummod	_	SpaceAfter=No
 11	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 678
@@ -3927,7 +3927,7 @@
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	P	AdpType=Prep	3	case	_	_
 2	este	este	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
-3	relato	relato	NOUN	Scms	Gender=Masc|Number=Sing	22	obl	_	_
+3	relato	relato	NOUN	Scms	Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	3	punct	_	_
 5	compendio	compendio	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
 6	de	de	ADP	P	AdpType=Prep	9	case	_	_
@@ -3943,7 +3943,7 @@
 15	mito	mito	NOUN	Scms	Gender=Masc|Number=Sing	12	obl	_	_
 16	recollido	recoller	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	15	acl	_	_
 17	por	por	ADP	P	AdpType=Prep	18	case	_	_
-18	Perrault	Perrault	PROPN	Sp00	_	16	obl	_	_
+18	Perrault	Perrault	PROPN	Sp00	_	16	obl	_	SpaceAfter=No
 19	,	,	PUNCT	Q,	_	22	punct	_	_
 20	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	Carapuchiña	Carapuchiña	PROPN	Spfs	Gender=Fem|Number=Sing	22	nsubj	_	_
@@ -3963,7 +3963,7 @@
 34	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	36	nsubj	_	_
 35	lle	lle	PRON	Rad3fs	Case=Dat|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	iobj	_	_
 36	dá	dar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	acl	_	_
-37	nome	nome	NOUN	Scms	Gender=Masc|Number=Sing	36	obj	_	_
+37	nome	nome	NOUN	Scms	Gender=Masc|Number=Sing	36	obj	_	SpaceAfter=No
 38	.	.	PUNCT	Q.	_	36	punct	_	_
 
 # sent_id = 683
@@ -3979,7 +3979,7 @@
 8-9	da	_	_	_	_	_	_	_	_
 8	de	de	ADP	P	AdpType=Prep	10	case	_	_
 9	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	literatura	literatura	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	_
+10	literatura	literatura	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 688
@@ -3997,7 +3997,7 @@
 11	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	12	obj	_	_
 12	representa	representar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
 13	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	fame	fame	NOUN	Scfs	Gender=Fem|Number=Sing	12	nsubj	_	_
+14	fame	fame	NOUN	Scfs	Gender=Fem|Number=Sing	12	nsubj	_	SpaceAfter=No
 15	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 693
@@ -4029,7 +4029,7 @@
 22	Portugal	portugal	PROPN	Spfs	Gender=Fem|Number=Sing	20	nmod	_	_
 23	desde	desde	ADP	P	AdpType=Prep	25	case	_	_
 24	diferentes	diferente	ADJ	A0mp	Gender=Masc|Number=Plur	25	amod	_	_
-25	enfoques	enfoque	NOUN	Scmp	Gender=Masc|Number=Plur	8	obl	_	_
+25	enfoques	enfoque	NOUN	Scmp	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
 26	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 698
@@ -4041,7 +4041,7 @@
 5	educar	educar	VERB	V0f000	VerbForm=Inf	3	advcl	_	_
 6	para	para	ADP	P	AdpType=Prep	8	case	_	_
 7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	sexualidade	sexualidade	NOUN	Scfs	Gender=Fem|Number=Sing	5	obl	_	_
+8	sexualidade	sexualidade	NOUN	Scfs	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 9	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 703
@@ -4052,7 +4052,7 @@
 4	visto	ver	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	_	_
 5	por	por	ADP	P	AdpType=Prep	6	case	_	_
 6	Calros	calros	PROPN	Spm0	Gender=Masc	4	obl	_	_
-7	Silvar	silvar	PROPN	Spm0	Gender=Masc	6	flat:name	_	_
+7	Silvar	silvar	PROPN	Spm0	Gender=Masc	6	flat:name	_	SpaceAfter=No
 8	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 708
@@ -4080,7 +4080,7 @@
 18-19	da	_	_	_	_	_	_	_	_
 18	de	de	ADP	P	AdpType=Prep	20	case	_	_
 19	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	fantasía	fantasía	PROPN	Sp00	_	17	nmod	_	_
+20	fantasía	fantasía	PROPN	Sp00	_	17	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	Q,	_	14	punct	_	_
 22-23	do	_	_	_	_	_	_	_	_
 22	de	de	ADP	P	AdpType=Prep	24	case	_	_
@@ -4094,7 +4094,7 @@
 28	Rodari	rodari	PROPN	Spms	Gender=Masc|Number=Sing	27	flat:name	_	_
 29	'	'	PUNCT	Q'	_	27	punct	_	_
 30	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	31	expl	_	_
-31	tratase	tratar	VERB	Ves30s	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+31	tratase	tratar	VERB	Ves30s	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	SpaceAfter=No
 32	,	,	PUNCT	Q,	_	35	punct	_	_
 33	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	vilalbés	vilalbés	NOUN	Scms	Gender=Masc|Number=Sing	35	nsubj	_	_
@@ -4111,7 +4111,7 @@
 44-45	do	_	_	_	_	_	_	_	_
 44	de	de	ADP	P	AdpType=Prep	46	case	_	_
 45	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
-46	cómic	cómic	NOUN	Scms	Gender=Masc|Number=Sing	43	nmod	_	_
+46	cómic	cómic	NOUN	Scms	Gender=Masc|Number=Sing	43	nmod	_	SpaceAfter=No
 47	,	,	PUNCT	Q,	_	40	punct	_	_
 48	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	51	obj	_	_
 49	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	50	det	_	_
@@ -4126,7 +4126,7 @@
 57	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	60	det	_	_
 58	súas	seu	DET	Md3sfp	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	60	det	_	_
 59	grandes	grande	ADJ	A0fp	Gender=Fem|Number=Plur	60	amod	_	_
-60	paixóns	paixón	NOUN	Scfp	Gender=Fem|Number=Plur	55	nmod	_	_
+60	paixóns	paixón	NOUN	Scfp	Gender=Fem|Number=Plur	55	nmod	_	SpaceAfter=No
 61	,	,	PUNCT	Q,	_	51	punct	_	_
 62	para	para	ADP	P	AdpType=Prep	64	mark	_	_
 63	nos	nos	PRON	Rad1ap	Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	64	iobj	_	_
@@ -4138,7 +4138,7 @@
 69	non	non	ADV	Wn	Polarity=Neg	70	advmod	_	_
 70	exerce	exercer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	66	acl	_	_
 71	de	de	ADP	P	AdpType=Prep	72	case	_	_
-72	tal	tal	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	70	obl	_	_
+72	tal	tal	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	70	obl	_	SpaceAfter=No
 73	,	,	PUNCT	Q,	_	70	punct	_	_
 74	humanizando	humanizar	VERB	V0x000	VerbForm=Ger	64	advcl	_	_
 75	a	a	ADP	P	AdpType=Prep	76	case	_	_
@@ -4155,7 +4155,7 @@
 85	seu	seu	DET	Md3sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	86	det	_	_
 86	creador	creador	NOUN	Scms	Gender=Masc|Number=Sing	83	nsubj	_	_
 87	Stan	stan	PROPN	Spm0	Gender=Masc	86	nmod	_	_
-88	Lee	lee	PROPN	Spm0	Gender=Masc	87	flat:name	_	_
+88	Lee	lee	PROPN	Spm0	Gender=Masc	87	flat:name	_	SpaceAfter=No
 89	;	;	PUNCT	Q;	_	83	punct	_	_
 90	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	91	det	_	_
 91	vampiro	vampiro	NOUN	Scms	Gender=Masc|Number=Sing	76	nmod	_	_
@@ -4176,16 +4176,16 @@
 104	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	105	det	_	_
 105	país	país	NOUN	Scms	Gender=Masc|Number=Sing	102	nmod	_	_
 106	e	e	CCONJ	Cc	_	113	cc	_	_
-107	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	113	nsubj	_	_
+107	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	113	nsubj	_	SpaceAfter=No
 108	,	,	PUNCT	Q,	_	110	punct	_	_
 109	sen	sen	ADP	P	AdpType=Prep|Polarity=Neg	110	case	_	_
-110	estridencias	estridencia	NOUN	Scfp	Gender=Fem|Number=Plur	113	obl	_	_
+110	estridencias	estridencia	NOUN	Scfp	Gender=Fem|Number=Plur	113	obl	_	SpaceAfter=No
 111	,	,	PUNCT	Q,	_	110	punct	_	_
 112	nos	nos	PRON	Rad1ap	Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	113	iobj	_	_
 113	mostra	mostrar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	99	conj	_	_
 114	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	115	det	_	_
 115	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	113	ccomp	_	_
-116	somos	ser	AUX	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	115	cop	_	_
+116	somos	ser	AUX	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	115	cop	_	SpaceAfter=No
 117	.	.	PUNCT	Q.	_	35	punct	_	_
 
 # sent_id = 713
@@ -4213,7 +4213,7 @@
 20-21	do	_	_	_	_	_	_	_	_
 20	de	de	ADP	P	AdpType=Prep	22	case	_	_
 21	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	incerto	incerto	NOUN	Scms	Gender=Masc|Number=Sing	19	nmod	_	_
+22	incerto	incerto	NOUN	Scms	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	Q.	_	9	punct	_	_
 
 # sent_id = 718
@@ -4229,11 +4229,11 @@
 8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	ritmo	ritmo	NOUN	Scms	Gender=Masc|Number=Sing	11	nsubj:pass	_	_
 10	está	estar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	conseguido	conseguir	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
+11	conseguido	conseguir	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	SpaceAfter=No
 12	,	,	PUNCT	Q,	_	3	punct	_	_
-13	debido	deber	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	11	acl	_	_
+13	debido	deber	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	11	acl	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	15	punct	_	_
-15	sobretodo	sobretodo	ADV	Wn	_	13	advmod	_	_
+15	sobretodo	sobretodo	ADV	Wn	_	13	advmod	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	15	punct	_	_
 17-18	aos	_	_	_	_	_	_	_	_
 17	a	a	ADP	P	AdpType=Prep	20	case	_	_
@@ -4244,7 +4244,7 @@
 22-23	polo	_	_	_	_	_	_	_	_
 22	por	por	ADP	P	AdpType=Prep	24	case	_	_
 23	lo	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	poeta	poeta	NOUN	Scms	Gender=Masc|Number=Sing	21	obl	_	_
+24	poeta	poeta	NOUN	Scms	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
 25	,	,	PUNCT	Q,	_	28	punct	_	_
 26	moitas	moito	DET	Idfp	Gender=Fem|Number=Plur|PronType=Ind	27	det	_	_
 27	veces	vez	NOUN	Scfp	Gender=Fem|Number=Plur	28	obl	_	_
@@ -4265,7 +4265,7 @@
 40-41	no	_	_	_	_	_	_	_	_
 40	en	en	ADP	P	AdpType=Prep	42	case	_	_
 41	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
-42	verso	verso	NOUN	Scms	Gender=Masc|Number=Sing	38	conj	_	_
+42	verso	verso	NOUN	Scms	Gender=Masc|Number=Sing	38	conj	_	SpaceAfter=No
 43	,	,	PUNCT	Q,	_	31	punct	_	_
 44	estea	estar	AUX	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	45	aux:pass	_	_
 45	baseado	basear	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	28	ccomp	_	_
@@ -4277,7 +4277,7 @@
 50-51	do	_	_	_	_	_	_	_	_
 50	de	de	ADP	P	AdpType=Prep	52	case	_	_
 51	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	52	det	_	_
-52	lector	lector	NOUN	Scms	Gender=Masc|Number=Sing	49	nmod	_	_
+52	lector	lector	NOUN	Scms	Gender=Masc|Number=Sing	49	nmod	_	SpaceAfter=No
 53	.	.	PUNCT	Q.	_	28	punct	_	_
 
 # sent_id = 723
@@ -4308,7 +4308,7 @@
 23	ler	ler	VERB	V0f000	VerbForm=Inf	20	ccomp	_	_
 24	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	libro	libro	NOUN	Scms	Gender=Masc|Number=Sing	23	obj	_	_
-26	enteiro	enteiro	ADJ	A0ms	Gender=Masc|Number=Sing	25	amod	_	_
+26	enteiro	enteiro	ADJ	A0ms	Gender=Masc|Number=Sing	25	amod	_	SpaceAfter=No
 27	.	.	PUNCT	Q.	_	23	punct	_	_
 
 # sent_id = 728
@@ -4324,7 +4324,7 @@
 9	morte	morte	NOUN	Scfs	Gender=Fem|Number=Sing	5	obj	_	_
 10	tan	tanto	ADV	Wm	_	12	advmod	_	_
 11	de	de	ADP	P	AdpType=Prep	10	fixed	_	_
-12	perto	perto	ADV	Wn	_	5	advmod	_	_
+12	perto	perto	ADV	Wn	_	5	advmod	_	SpaceAfter=No
 13	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 733
@@ -4336,11 +4336,11 @@
 4	exilio	exilio	NOUN	Scms	Gender=Masc|Number=Sing	6	obl	_	_
 5	francés	francés	ADJ	A0ms	Gender=Masc|Number=Sing	4	amod	_	_
 6	escribe	escribir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	"	"	PUNCT	Q"	_	8	punct	_	_
+7	"	"	PUNCT	Q"	_	8	punct	_	SpaceAfter=No
 8	Cárcere	cárcere	PROPN	Sp00	_	6	obj	_	_
 9	de	de	PROPN	Sp00	_	10	case	_	_
-10	Ventas	ventas	PROPN	Sp00	_	8	nmod	_	_
-11	"	"	PUNCT	Q"	_	8	punct	_	_
+10	Ventas	ventas	PROPN	Sp00	_	8	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	Q"	_	8	punct	_	SpaceAfter=No
 12	,	,	PUNCT	Q,	_	8	punct	_	_
 13	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 14	extraordinario	extraordinario	ADJ	A0ms	Gender=Masc|Number=Sing	15	amod	_	_
@@ -4365,7 +4365,7 @@
 30	Edicións	edicións	PROPN	Sp00	_	26	nsubj	_	_
 31	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
 32	Nosa	noso	DET	Md1pfs	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	33	det	_	_
-33	Terra	terra	NOUN	Scfs	Gender=Fem|Number=Sing	30	nmod	_	_
+33	Terra	terra	NOUN	Scfs	Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 738
@@ -4382,7 +4382,7 @@
 5	para	para	ADP	P	AdpType=Prep	8	case	_	_
 6	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 7	súa	seu	DET	Md3sfs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
-8	carreira	carreira	NOUN	Scfs	Gender=Fem|Number=Sing	2	obl	_	_
+8	carreira	carreira	NOUN	Scfs	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 9	?	?	PUNCT	Q?	_	2	punct	_	_
 
 # sent_id = 748
@@ -4399,7 +4399,7 @@
 10	achegan	achegar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 11	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	ambiente	ambiente	NOUN	Scms	Gender=Masc|Number=Sing	10	obj	_	_
-13	sudamericano	sudamericano	ADJ	A0ms	Gender=Masc|Number=Sing	12	amod	_	_
+13	sudamericano	sudamericano	ADJ	A0ms	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 753
@@ -4412,7 +4412,7 @@
 5	profesores	profesor	NOUN	Scmp	Gender=Masc|Number=Plur	1	nmod	_	_
 6	o	o	PRON	Raa3ms	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 7	marcou	marcar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	máis	máis	ADV	Wn	_	7	advmod	_	_
+8	máis	máis	ADV	Wn	_	7	advmod	_	SpaceAfter=No
 9	?	?	PUNCT	Q?	_	7	punct	_	_
 
 # sent_id = 758
@@ -4423,13 +4423,13 @@
 4	para	para	ADP	P	AdpType=Prep	5	mark	_	_
 5	escoller	escoller	VERB	V0f000	VerbForm=Inf	3	advcl	_	_
 6	cada	cada	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
-7	programa	programa	NOUN	Scms	Gender=Masc|Number=Sing	5	obj	_	_
+7	programa	programa	NOUN	Scms	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 8	?	?	PUNCT	Q?	_	3	punct	_	_
 
 # sent_id = 763
 # text = Sen embargo, noutros lugares aínda se está loitando para que sexa valorada e para a xente moza continúa sendo difícil facer unha carreira concertística porque non hai tantos concertos e o nivel é altísimo.
 1	Sen	sen	ADP	P	AdpType=Prep|Polarity=Neg	10	advmod	_	_
-2	embargo	embargo	NOUN	Scms	Gender=Masc|Number=Sing	1	fixed	_	_
+2	embargo	embargo	NOUN	Scms	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	10	punct	_	_
 4-5	noutros	_	_	_	_	_	_	_	_
 4	en	en	ADP	P	AdpType=Prep	6	case	_	_
@@ -4464,7 +4464,7 @@
 33	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	nivel	nivel	NOUN	Scms	Gender=Masc|Number=Sing	36	nsubj	_	_
 35	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
-36	altísimo	alto	ADJ	Asms	Degree=Sup|Gender=Masc|Number=Sing	29	conj	_	_
+36	altísimo	alto	ADJ	Asms	Degree=Sup|Gender=Masc|Number=Sing	29	conj	_	SpaceAfter=No
 37	.	.	PUNCT	Q.	_	10	punct	_	_
 
 # sent_id = 768
@@ -4475,7 +4475,7 @@
 4	teñamos	ter	AUX	Vps10p	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	que	que	SCONJ	Cs	_	6	mark	_	_
 6	tocar	tocar	VERB	V0f000	VerbForm=Inf	2	ccomp	_	_
-7	mellor	mellor	ADV	Wn	_	6	advmod	_	_
+7	mellor	mellor	ADV	Wn	_	6	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	6	punct	_	_
 9	xa	xa	ADV	Wn	_	11	mark	_	_
 10	que	que	SCONJ	Cs	_	9	fixed	_	_
@@ -4483,7 +4483,7 @@
 12	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	nivel	nivel	NOUN	Scms	Gender=Masc|Number=Sing	11	obj	_	_
 14	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	15	obj	_	_
-15	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	_
+15	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	2	punct	_	_
 17	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	concertistas	concertista	NOUN	Scmp	Gender=Masc|Number=Plur	19	nsubj	_	_
@@ -4492,7 +4492,7 @@
 20	nos	nos	PRON	Raf1mp	Clitic=Yes|Gender=Masc|Number=Plur|Person=1|PronType=Prs	19	expl	_	_
 21	obrigados	obrigar	VERB	V0p0mp	Gender=Masc|Number=Plur|VerbForm=Part	19	xcomp	_	_
 22	a	a	ADP	P	AdpType=Prep	23	mark	_	_
-23-24	acadalo	_	_	_	_	_	_	_	_
+23-24	acadalo	_	_	_	_	_	_	_	SpaceAfter=No
 23	acadar	acadar	VERB	V0f000	VerbForm=Inf	21	advcl	_	_
 24	lo	o	PRON	Raa3ms	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
 25	.	.	PUNCT	Q.	_	2	punct	_	_
@@ -4514,7 +4514,7 @@
 12	de	de	ADP	P	AdpType=Prep	9	fixed	_	_
 13	todo	todo	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
 14	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	país	país	NOUN	Scms	Gender=Masc|Number=Sing	8	obl	_	_
+15	país	país	NOUN	Scms	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 16	;	;	PUNCT	Q;	_	4	punct	_	_
 
 # sent_id = 778
@@ -4525,7 +4525,7 @@
 4-5	neste	_	_	_	_	_	_	_	_
 4	en	en	ADP	P	AdpType=Prep	6	case	_	_
 5	este	este	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
-6	senso	senso	NOUN	Scms	Gender=Masc|Number=Sing	3	obl	_	_
+6	senso	senso	NOUN	Scms	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 783
@@ -4547,7 +4547,7 @@
 14	facer	facer	VERB	V0f000	VerbForm=Inf	9	advcl	_	_
 15	algo	algo	PRON	In00	PronType=Ind	14	obj	_	_
 16	de	de	ADP	P	AdpType=Prep	17	case	_	_
-17	calidade	calidade	NOUN	Scfs	Gender=Fem|Number=Sing	15	nmod	_	_
+17	calidade	calidade	NOUN	Scfs	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	Q.	_	9	punct	_	_
 
 # sent_id = 788
@@ -4559,14 +4559,14 @@
 5	tocan	tocar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
 6	obras	obra	NOUN	Scfp	Gender=Fem|Number=Plur	5	obj	_	_
 7	de	de	ADP	P	AdpType=Prep	8	case	_	_
-8	guitarra	guitarra	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	_
+8	guitarra	guitarra	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 793
 # text = O século XX, pois é cando se fixeron máis obras, onde incluso compositores non guitarristas compuxeron para este instrumento.
 1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	século	século	NOUN	Scms	Gender=Masc|Number=Sing	9	nsubj	_	_
-3	XX	XX	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	2	nummod	_	_
+3	XX	XX	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	2	nummod	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	2	punct	_	_
 5	pois	pois	ADV	Wn	_	9	advmod	_	_
 6	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
@@ -4574,7 +4574,7 @@
 8	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	9	expl	_	_
 9	fixeron	facer	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	máis	máis	ADV	Wm	_	11	advmod	_	_
-11	obras	obra	NOUN	Scfp	Gender=Fem|Number=Plur	9	obj	_	_
+11	obras	obra	NOUN	Scfp	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
 12	,	,	PUNCT	Q,	_	11	punct	_	_
 13	onde	onde	ADV	Wr	PronType=Rel	18	advmod	_	_
 14	incluso	incluso	ADV	Wn	_	18	advmod	_	_
@@ -4584,7 +4584,7 @@
 18	compuxeron	compoñer	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	_
 19	para	para	ADP	P	AdpType=Prep	21	case	_	_
 20	este	este	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
-21	instrumento	instrumento	NOUN	Scms	Gender=Masc|Number=Sing	18	obl	_	_
+21	instrumento	instrumento	NOUN	Scms	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
 22	.	.	PUNCT	Q.	_	9	punct	_	_
 
 # sent_id = 798
@@ -4593,7 +4593,7 @@
 2	familiaridade	familiaridade	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
 3	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	unha	un	PRON	Infs	Gender=Fem|Number=Sing|PronType=Ind	2	nsubj	_	_
-5-6	delas	_	_	_	_	_	_	_	_
+5-6	delas	_	_	_	_	_	_	_	SpaceAfter=No
 5	de	de	ADP	P	AdpType=Prep	6	case	_	_
 6	elas	el	PRON	Rtp3fp	Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	nmod	_	_
 7	.	.	PUNCT	Q.	_	4	punct	_	_
@@ -4607,13 +4607,13 @@
 4	música	música	NOUN	Scfs	Gender=Fem|Number=Sing	6	obl	_	_
 5	non	non	ADV	Wn	Polarity=Neg	6	advmod	_	_
 6	pasa	pasar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	isto	este	PRON	Enns	Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
+7	isto	este	PRON	Enns	Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 808
 # text = Pero claro, Madonna fai un concerto e gástase moito diñeiro en promoción, sen embargo toca un grande pianista e non se fai ese mesmo esforzo promocional, polo que estamos tamén diante de razóns comerciais.
 1	Pero	pero	SCONJ	Cs	_	5	mark	_	_
-2	claro	claro	ADV	Wn	_	5	advmod	_	_
+2	claro	claro	ADV	Wn	_	5	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	5	punct	_	_
 4	Madonna	Madonna	PROPN	Spf0	Gender=Fem	5	nsubj	_	_
 5	fai	facer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
@@ -4626,7 +4626,7 @@
 11	moito	moito	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
 12	diñeiro	diñeiro	NOUN	Scms	Gender=Masc|Number=Sing	9	obj	_	_
 13	en	en	ADP	P	AdpType=Prep	14	case	_	_
-14	promoción	promoción	NOUN	Scfs	Gender=Fem|Number=Sing	9	obl	_	_
+14	promoción	promoción	NOUN	Scfs	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 15	,	,	PUNCT	Q,	_	5	punct	_	_
 16	sen	sen	ADP	P	AdpType=Prep|Polarity=Neg	18	advmod	_	_
 17	embargo	embargo	NOUN	Scms	Gender=Masc|Number=Sing	16	fixed	_	_
@@ -4641,7 +4641,7 @@
 26	ese	ese	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	28	det	_	_
 27	mesmo	mesmo	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	28	det	_	_
 28	esforzo	esforzo	NOUN	Scms	Gender=Masc|Number=Sing	25	nsubj	_	_
-29	promocional	promocional	ADJ	A0ms	Gender=Masc|Number=Sing	28	amod	_	_
+29	promocional	promocional	ADJ	A0ms	Gender=Masc|Number=Sing	28	amod	_	SpaceAfter=No
 30	,	,	PUNCT	Q,	_	18	punct	_	_
 31-32	polo	_	_	_	_	_	_	_	_
 31	por	por	ADP	P	AdpType=Prep	33	case	_	_
@@ -4652,7 +4652,7 @@
 36	diante	diante	ADV	Wn	_	38	advmod	_	_
 37	de	de	ADP	P	AdpType=Prep	38	case	_	_
 38	razóns	razón	NOUN	Scfp	Gender=Fem|Number=Plur	25	advcl	_	_
-39	comerciais	comercial	ADJ	A0fp	Gender=Fem|Number=Plur	38	amod	_	_
+39	comerciais	comercial	ADJ	A0fp	Gender=Fem|Number=Plur	38	amod	_	SpaceAfter=No
 40	.	.	PUNCT	Q.	_	18	punct	_	_
 
 # sent_id = 813
@@ -4680,7 +4680,7 @@
 21	básicas	básico	ADJ	A0fp	Gender=Fem|Number=Plur	20	amod	_	_
 22	para	para	ADP	P	AdpType=Prep	23	mark	_	_
 23	realizar	realizar	VERB	V0f000	VerbForm=Inf	18	advcl	_	_
-24	acompañamentos	acompañamento	NOUN	Scmp	Gender=Masc|Number=Plur	23	obj	_	_
+24	acompañamentos	acompañamento	NOUN	Scmp	Gender=Masc|Number=Plur	23	obj	_	SpaceAfter=No
 25	.	.	PUNCT	Q.	_	23	punct	_	_
 
 # sent_id = 818
@@ -4705,7 +4705,7 @@
 4	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	gratitude	gratitude	NOUN	Scfs	Gender=Fem|Number=Sing	3	obj	_	_
 6	de	de	ADP	P	AdpType=Prep	7	case	_	_
-7	todos	todo	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	3	obl	_	_
+7	todos	todo	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	3	obl	_	SpaceAfter=No
 8	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 833
@@ -4739,7 +4739,7 @@
 23	de	de	ADP	P	AdpType=Prep	25	case	_	_
 24	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	Estado	Estado	PROPN	Spms	Gender=Masc|Number=Sing	21	nmod	_	_
-26	español	español	ADJ	A0ms	Gender=Masc|Number=Sing	25	amod	_	_
+26	español	español	ADJ	A0ms	Gender=Masc|Number=Sing	25	amod	_	SpaceAfter=No
 27	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 838
@@ -4770,7 +4770,7 @@
 20	alcance	alcance	NOUN	Scms	Gender=Masc|Number=Sing	16	obl	_	_
 21	obxectivo	obxectivo	ADJ	A0ms	Gender=Masc|Number=Sing	20	amod	_	_
 22	carácter	carácter	NOUN	Scms	Gender=Masc|Number=Sing	16	obj	_	_
-23	constitucional	constitucional	ADJ	A0ms	Gender=Masc|Number=Sing	22	amod	_	_
+23	constitucional	constitucional	ADJ	A0ms	Gender=Masc|Number=Sing	22	amod	_	SpaceAfter=No
 24	.	.	PUNCT	Q.	_	16	punct	_	_
 
 # sent_id = 843
@@ -4797,7 +4797,7 @@
 18	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 19	súa	seu	DET	Md3sfs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	condición	condición	NOUN	Scfs	Gender=Fem|Number=Sing	16	nmod	_	_
-21	nacional	nacional	ADJ	A0fs	Gender=Fem|Number=Sing	20	amod	_	_
+21	nacional	nacional	ADJ	A0fs	Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No
 22	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 848
@@ -4808,13 +4808,13 @@
 4	ambicioso	ambicioso	ADJ	A0ms	Gender=Masc|Number=Sing	3	amod	_	_
 5	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	competencias	competencia	NOUN	Scfp	Gender=Fem|Number=Plur	1	obj	_	_
-7	exclusivas	exclusivo	ADJ	A0fp	Gender=Fem|Number=Plur	6	amod	_	_
+7	exclusivas	exclusivo	ADJ	A0fp	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	1	punct	_	_
 9	describindo	describir	VERB	V0x000	VerbForm=Ger	1	advcl	_	_
 10	pormenorizadamente	pormenorizadamente	ADV	Wn	_	9	advmod	_	_
 11	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
 12	41	41	NUM	Ncnfp	Gender=Fem|Number=Plur|NumType=Card	9	obj	_	_
-13	consideradas	considerar	VERB	V0p0fp	Gender=Fem|Number=Plur|VerbForm=Part	12	acl	_	_
+13	consideradas	considerar	VERB	V0p0fp	Gender=Fem|Number=Plur|VerbForm=Part	12	acl	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	9	punct	_	_
 15	desde	desde	ADP	P	AdpType=Prep	17	case	_	_
 16	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -4829,7 +4829,7 @@
 24	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	política	política	NOUN	Scfs	Gender=Fem|Number=Sing	17	nmod	_	_
 26	de	de	ADP	P	AdpType=Prep	27	case	_	_
-27	inmigración	inmigración	NOUN	Scfs	Gender=Fem|Number=Sing	25	nmod	_	_
+27	inmigración	inmigración	NOUN	Scfs	Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 853
@@ -4855,7 +4855,7 @@
 16	de	de	ADP	P	AdpType=Prep	19	case	_	_
 17	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 18	Novo	novo	ADJ	A0ms	Gender=Masc|Number=Sing	19	amod	_	_
-19	Estatuto	estatuto	NOUN	Scms	Gender=Masc|Number=Sing	15	nmod	_	_
+19	Estatuto	estatuto	NOUN	Scms	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	Q,	_	15	punct	_	_
 21	explicábeis	explicábel	ADJ	A0fp	Gender=Fem|Number=Plur	12	amod	_	_
 22-23	polo	_	_	_	_	_	_	_	_
@@ -4867,7 +4867,7 @@
 27-28	do	_	_	_	_	_	_	_	_
 27	de	de	ADP	P	AdpType=Prep	29	case	_	_
 28	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-29	documento	documento	NOUN	Scms	Gender=Masc|Number=Sing	25	nmod	_	_
+29	documento	documento	NOUN	Scms	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	Q.	_	3	punct	_	_
 
 # sent_id = 858
@@ -4899,7 +4899,7 @@
 21	de	de	ADP	P	AdpType=Prep	23	case	_	_
 22	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
 23	actividades	actividade	NOUN	Scfp	Gender=Fem|Number=Plur	20	nmod	_	_
-24	produtivas	produtivo	ADJ	A0fp	Gender=Fem|Number=Plur	23	amod	_	_
+24	produtivas	produtivo	ADJ	A0fp	Gender=Fem|Number=Plur	23	amod	_	SpaceAfter=No
 25	.	.	PUNCT	Q.	_	13	punct	_	_
 
 # sent_id = 863
@@ -4917,14 +4917,14 @@
 # text = O director español, de orixe chilena, Alejandro Amenábar, demostrou con Mar adentro que é capaz de ver o obvio.
 1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	director	director	NOUN	Scms	Gender=Masc|Number=Sing	12	nsubj	_	_
-3	español	español	ADJ	A0ms	Gender=Masc|Number=Sing	2	amod	_	_
+3	español	español	ADJ	A0ms	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	2	punct	_	_
 5	de	de	ADP	P	AdpType=Prep	6	case	_	_
 6	orixe	orixe	NOUN	Scfs	Gender=Fem|Number=Sing	2	nmod	_	_
-7	chilena	chileno	ADJ	A0fs	Gender=Fem|Number=Sing	6	amod	_	_
+7	chilena	chileno	ADJ	A0fs	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	2	punct	_	_
 9	Alejandro	alejandro	PROPN	Spm0	Gender=Masc	2	nmod	_	_
-10	Amenábar	amenábar	PROPN	Spm0	Gender=Masc	9	flat:name	_	_
+10	Amenábar	amenábar	PROPN	Spm0	Gender=Masc	9	flat:name	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	2	punct	_	_
 12	demostrou	demostrar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	con	con	ADP	P	AdpType=Prep	14	case	_	_
@@ -4936,7 +4936,7 @@
 19	de	de	ADP	P	AdpType=Prep	20	mark	_	_
 20	ver	ver	VERB	V0f000	VerbForm=Inf	18	advcl	_	_
 21	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	obvio	obvio	ADJ	A0ms	Gender=Masc|Number=Sing	20	obj	_	_
+22	obvio	obvio	ADJ	A0ms	Gender=Masc|Number=Sing	20	obj	_	SpaceAfter=No
 23	.	.	PUNCT	Q.	_	12	punct	_	_
 
 # sent_id = 873
@@ -4945,7 +4945,7 @@
 1	Con	con	ADP	P	AdpType=Prep	3	case	_	_
 2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	galardón	galardón	NOUN	Scms	Gender=Masc|Number=Sing	9	obl	_	_
-4	norteamericano	norteamericano	ADJ	A0ms	Gender=Masc|Number=Sing	3	amod	_	_
+4	norteamericano	norteamericano	ADJ	A0ms	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
 5	,	,	PUNCT	Q,	_	3	punct	_	_
 6	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 7	xove	xove	ADJ	A0ms	Gender=Masc|Number=Sing	8	amod	_	_
@@ -4962,7 +4962,7 @@
 18-19	no	_	_	_	_	_	_	_	_
 18	en	en	ADP	P	AdpType=Prep	20	case	_	_
 19	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	local	local	ADJ	A0ms	Gender=Masc|Number=Sing	17	amod	_	_
+20	local	local	ADJ	A0ms	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
 21	.	.	PUNCT	Q.	_	9	punct	_	_
 
 # sent_id = 878
@@ -4983,14 +4983,14 @@
 12	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 13	moi	moito	ADV	Wm	_	14	advmod	_	_
 14	boa	bo	ADJ	A0fs	Gender=Fem|Number=Sing	15	amod	_	_
-15	película	película	NOUN	Scfs	Gender=Fem|Number=Sing	9	obl	_	_
+15	película	película	NOUN	Scfs	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	17	punct	_	_
 17	rodeado	rodear	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	_
 18	de	de	ADP	P	AdpType=Prep	19	case	_	_
 19	actores	actor	NOUN	Scmp	Gender=Masc|Number=Plur	17	obl	_	_
 20	que	que	PRON	Tnmp	Gender=Masc|Number=Plur|PronType=Rel	21	nsubj	_	_
 21	souberon	saber	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	19	acl	_	_
-22-23	entendelo	_	_	_	_	_	_	_	_
+22-23	entendelo	_	_	_	_	_	_	_	SpaceAfter=No
 22	entender	entender	VERB	V0f000	VerbForm=Inf	21	xcomp	_	_
 23	lo	o	PRON	Raa3ms	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
 24	.	.	PUNCT	Q.	_	17	punct	_	_
@@ -5019,7 +5019,7 @@
 19	xénero	xénero	NOUN	Scms	Gender=Masc|Number=Sing	16	nmod	_	_
 20	e	e	CCONJ	Cc	_	21	cc	_	_
 21	diálogos	diálogo	NOUN	Scmp	Gender=Masc|Number=Plur	16	conj	_	_
-22	manidos	manido	ADJ	A0mp	Gender=Masc|Number=Plur	21	amod	_	_
+22	manidos	manido	ADJ	A0mp	Gender=Masc|Number=Plur	21	amod	_	SpaceAfter=No
 23	,	,	PUNCT	Q,	_	16	punct	_	_
 24	iso	ese	PRON	Enns	Gender=Neut|Number=Sing|PronType=Dem	27	advmod	_	_
 25	si	si	ADV	Wn	_	24	fixed	_	_
@@ -5035,11 +5035,11 @@
 34	sobre	sobre	ADP	P	AdpType=Prep	36	case	_	_
 35	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	eutanasia	eutanasia	NOUN	Scfs	Gender=Fem|Number=Sing	32	nmod	_	_
-37	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	43	nsubj	_	_
+37	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	43	nsubj	_	SpaceAfter=No
 38	,	,	PUNCT	Q,	_	41	punct	_	_
 39	por	por	ADP	P	AdpType=Prep	41	case	_	_
 40	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
-41	casualidade	casualidade	NOUN	Scfs	Gender=Fem|Number=Sing	43	obl	_	_
+41	casualidade	casualidade	NOUN	Scfs	Gender=Fem|Number=Sing	43	obl	_	SpaceAfter=No
 42	,	,	PUNCT	Q,	_	41	punct	_	_
 43	enlaza	enlazar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	acl	_	_
 44	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
@@ -5050,7 +5050,7 @@
 48	con	con	ADP	P	AdpType=Prep	49	case	_	_
 49	o	o	PRON	Ddms	Gender=Masc|Number=Sing|Person=3|PronType=Art	43	obl	_	_
 50	de	de	ADP	P	AdpType=Prep	51	case	_	_
-51	Amenábar	Amenábar	PROPN	Sp00	_	49	nmod	_	_
+51	Amenábar	Amenábar	PROPN	Sp00	_	49	nmod	_	SpaceAfter=No
 52	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 888
@@ -5069,7 +5069,7 @@
 11	negativa	negativo	ADJ	A0fs	Gender=Fem|Number=Sing	10	amod	_	_
 12	de	de	ADP	P	AdpType=Prep	13	case	_	_
 13	Wim	wim	PROPN	Spm0	Gender=Masc	10	nmod	_	_
-14	Wenders	wenders	PROPN	Spm0	Gender=Masc	13	flat:name	_	_
+14	Wenders	wenders	PROPN	Spm0	Gender=Masc	13	flat:name	_	SpaceAfter=No
 15	,	,	PUNCT	Q,	_	1	punct	_	_
 16-17	estreouse	_	_	_	_	_	_	_	_
 16	estreou	estrear	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -5077,7 +5077,7 @@
 18	entre	entre	ADP	P	AdpType=Prep	19	case	_	_
 19	nós	nós	PRON	Rtp1ap	Gender=Com|Number=Plur|Person=1|PronType=Prs	16	obl	_	_
 20	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	fundimento	fundimento	PROPN	Sp00	_	16	nsubj	_	_
+21	fundimento	fundimento	PROPN	Sp00	_	16	nsubj	_	SpaceAfter=No
 22	,	,	PUNCT	Q,	_	16	punct	_	_
 23	película	película	NOUN	Scfs	Gender=Fem|Number=Sing	21	appos	_	_
 24	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	25	nsubj	_	_
@@ -5093,14 +5093,14 @@
 33	seu	seu	DET	Md3sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
 34	bunker	bunker	NOUN	Scms	Gender=Masc|Number=Sing	28	nmod	_	_
 35	de	de	ADP	P	AdpType=Prep	36	case	_	_
-36	Berlín	Berlín	PROPN	Sp00	_	34	nmod	_	_
+36	Berlín	Berlín	PROPN	Sp00	_	34	nmod	_	SpaceAfter=No
 37	,	,	PUNCT	Q,	_	38	punct	_	_
 38	asediado	asediar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	30	acl	_	_
 39-40	pola	_	_	_	_	_	_	_	_
 39	por	por	ADP	P	AdpType=Prep	41	case	_	_
 40	la	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
 41	artillería	artillería	NOUN	Scfs	Gender=Fem|Number=Sing	38	obl	_	_
-42	rusa	ruso	ADJ	A0fs	Gender=Fem|Number=Sing	41	amod	_	_
+42	rusa	ruso	ADJ	A0fs	Gender=Fem|Number=Sing	41	amod	_	SpaceAfter=No
 43	.	.	PUNCT	Q.	_	38	punct	_	_
 
 # sent_id = 893
@@ -5114,15 +5114,15 @@
 7	presentar	presentar	VERB	V0f000	VerbForm=Inf	5	acl	_	_
 8	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Hitler	Hitler	PROPN	Spms	Gender=Masc|Number=Sing	7	obj	_	_
-10	críbel	críbel	ADJ	A0ms	Gender=Masc|Number=Sing	9	xcomp	_	_
+10	críbel	críbel	ADJ	A0ms	Gender=Masc|Number=Sing	9	xcomp	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	9	punct	_	_
-12	humano	humano	ADJ	A0ms	Gender=Masc|Number=Sing	10	conj	_	_
+12	humano	humano	ADJ	A0ms	Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
 13	,	,	PUNCT	Q,	_	3	punct	_	_
 14	como	como	ADV	Wg	PronType=Int	18	case	_	_
 15	non	non	ADV	Wn	Polarity=Neg	16	advmod	_	_
 16	podía	poder	AUX	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	_
 17	ser	ser	AUX	V0f000	VerbForm=Inf	18	cop	_	_
-18	menos	menos	ADV	Wn	_	7	advcl	_	_
+18	menos	menos	ADV	Wn	_	7	advcl	_	SpaceAfter=No
 19	,	,	PUNCT	Q,	_	20	punct	_	_
 20	familiar	familiar	ADJ	A0ms	Gender=Masc|Number=Sing	10	conj	_	_
 21	dentro	dentro	ADV	Wn	_	25	advmod	_	_
@@ -5136,7 +5136,7 @@
 28	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	situación	situación	NOUN	Scfs	Gender=Fem|Number=Sing	25	obj	_	_
 30	de	de	ADP	P	AdpType=Prep	31	case	_	_
-31	emerxencia	emerxencia	NOUN	Scfs	Gender=Fem|Number=Sing	29	nmod	_	_
+31	emerxencia	emerxencia	NOUN	Scfs	Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	Q,	_	20	punct	_	_
 33	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	36	nsubj	_	_
@@ -5152,7 +5152,7 @@
 43	de	de	ADP	P	AdpType=Prep	45	case	_	_
 44	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
 45	fenómeno	fenómeno	NOUN	Scms	Gender=Masc|Number=Sing	40	nmod	_	_
-46	nazi	nazi	ADJ	A0ms	Gender=Masc|Number=Sing	45	amod	_	_
+46	nazi	nazi	ADJ	A0ms	Gender=Masc|Number=Sing	45	amod	_	SpaceAfter=No
 47	.	.	PUNCT	Q.	_	37	punct	_	_
 
 # sent_id = 898
@@ -5163,20 +5163,20 @@
 4	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	seu	seu	DET	Md3sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	esforzo	esforzo	NOUN	Scms	Gender=Masc|Number=Sing	12	nsubj	_	_
-7	"	"	PUNCT	Q"	_	12	punct	_	_
+7	"	"	PUNCT	Q"	_	12	punct	_	SpaceAfter=No
 8	non	non	ADV	Wn	Polarity=Neg	9	advmod	_	_
 9	foi	ser	AUX	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
 10	só	só	ADV	Wn	_	12	advmod	_	_
 11	por	por	ADP	P	AdpType=Prep	12	case	_	_
-12	Alemaña	Alemaña	PROPN	Sp00	_	2	ccomp	_	_
+12	Alemaña	Alemaña	PROPN	Sp00	_	2	ccomp	_	SpaceAfter=No
 13	"	"	PUNCT	Q"	_	12	punct	_	_
-14	(	(	PUNCT	Q(	_	19	punct	_	_
+14	(	(	PUNCT	Q(	_	19	punct	_	SpaceAfter=No
 15	tamén	tamén	ADV	Wn	_	19	advmod	_	_
 16	por	por	ADP	P	AdpType=Prep	19	case	_	_
 17	esas	ese	DET	Edfp	Gender=Fem|Number=Plur|PronType=Dem	19	det	_	_
-18	"	"	PUNCT	Q"	_	19	punct	_	_
+18	"	"	PUNCT	Q"	_	19	punct	_	SpaceAfter=No
 19	democracias	democracia	NOUN	Scfp	Gender=Fem|Number=Plur	12	conj	_	_
-20	decadentes	decadente	ADJ	A0fp	Gender=Fem|Number=Plur	19	amod	_	_
+20	decadentes	decadente	ADJ	A0fp	Gender=Fem|Number=Plur	19	amod	_	SpaceAfter=No
 21	"	"	PUNCT	Q"	_	19	punct	_	_
 22	incapaces	incapaz	ADJ	A0fp	Gender=Fem|Number=Plur	20	amod	_	_
 23	de	de	ADP	P	AdpType=Prep	24	mark	_	_
@@ -5188,11 +5188,11 @@
 28-29	ás	_	_	_	_	_	_	_	_
 28	a	a	ADP	P	AdpType=Prep	31	case	_	_
 29	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	31	det	_	_
-30	"	"	PUNCT	Q"	_	31	punct	_	_
+30	"	"	PUNCT	Q"	_	31	punct	_	SpaceAfter=No
 31	hordas	horda	NOUN	Scfp	Gender=Fem|Number=Plur	24	obl	_	_
-32	asiáticas	asiático	ADJ	A0fp	Gender=Fem|Number=Plur	31	amod	_	_
-33	"	"	PUNCT	Q"	_	31	punct	_	_
-34	)	)	PUNCT	Q)	_	19	punct	_	_
+32	asiáticas	asiático	ADJ	A0fp	Gender=Fem|Number=Plur	31	amod	_	SpaceAfter=No
+33	"	"	PUNCT	Q"	_	31	punct	_	SpaceAfter=No
+34	)	)	PUNCT	Q)	_	19	punct	_	SpaceAfter=No
 35	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 903
@@ -5212,7 +5212,7 @@
 7-8	da	_	_	_	_	_	_	_	_
 7	de	de	ADP	P	AdpType=Prep	9	case	_	_
 8	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	ikebana	ikebana	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	_
+9	ikebana	ikebana	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 913
@@ -5226,7 +5226,7 @@
 7	simbolismo	simbolismo	NOUN	Scms	Gender=Masc|Number=Sing	4	nmod	_	_
 8	e	e	CCONJ	Cc	_	10	cc	_	_
 9	moi	moito	ADV	Wm	_	10	advmod	_	_
-10	complicada	complicado	ADJ	A0fs	Gender=Fem|Number=Sing	4	conj	_	_
+10	complicada	complicado	ADJ	A0fs	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	4	punct	_	_
 12	até	até	ADP	P	AdpType=Prep	26	mark	_	_
 13	que	que	SCONJ	Cs	_	26	mark	_	_
@@ -5238,10 +5238,10 @@
 18	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	mestre	mestre	NOUN	Scms	Gender=Masc|Number=Sing	26	nsubj	_	_
 20	de	de	ADP	P	AdpType=Prep	21	case	_	_
-21	ikebana	ikebana	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	_
+21	ikebana	ikebana	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	Q,	_	23	punct	_	_
 23	Teshigahara	teshigahara	PROPN	Spm0	Gender=Masc	21	nmod	_	_
-24	Sensei	sensei	PROPN	Spm0	Gender=Masc	23	flat:name	_	_
+24	Sensei	sensei	PROPN	Spm0	Gender=Masc	23	flat:name	_	SpaceAfter=No
 25	,	,	PUNCT	Q,	_	23	punct	_	_
 26-27	simplificouna	_	_	_	_	_	_	_	_
 26	simplificou	simplificar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
@@ -5279,7 +5279,7 @@
 55-56	da	_	_	_	_	_	_	_	_
 55	de	de	ADP	P	AdpType=Prep	57	case	_	_
 56	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	57	det	_	_
-57	nobreza	nobreza	NOUN	Scfs	Gender=Fem|Number=Sing	54	nmod	_	_
+57	nobreza	nobreza	NOUN	Scfs	Gender=Fem|Number=Sing	54	nmod	_	SpaceAfter=No
 58	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 918
@@ -5294,10 +5294,10 @@
 7	miras	mirar	VERB	Vpi20s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
 8	para	para	ADP	P	AdpType=Prep	10	case	_	_
 9	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-10	uces	uz	NOUN	Scfp	Gender=Fem|Number=Plur	7	obl	_	_
+10	uces	uz	NOUN	Scfp	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	7	punct	_	_
 12	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	acacias	acacia	NOUN	Scfp	Gender=Fem|Number=Plur	10	conj	_	_
+13	acacias	acacia	NOUN	Scfp	Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	13	punct	_	_
 15	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 16	xestas	xesta	NOUN	Scfp	Gender=Fem|Number=Plur	10	conj	_	_
@@ -5316,7 +5316,7 @@
 28	máis	máis	ADV	Wn	_	26	advmod	_	_
 29	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	31	obj	_	_
-31	ves	ver	VERB	Vpi20s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	26	ccomp	_	_
+31	ves	ver	VERB	Vpi20s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	26	ccomp	_	SpaceAfter=No
 32	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 923
@@ -5339,7 +5339,7 @@
 15	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 16	cousas	cousa	NOUN	Scfp	Gender=Fem|Number=Plur	8	obl	_	_
 17	máis	máis	ADV	Wm	_	18	advmod	_	_
-18	sinxelas	sinxelo	ADJ	A0fp	Gender=Fem|Number=Plur	16	amod	_	_
+18	sinxelas	sinxelo	ADJ	A0fp	Gender=Fem|Number=Plur	16	amod	_	SpaceAfter=No
 19	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 928
@@ -5352,7 +5352,7 @@
 4	de	de	ADP	P	AdpType=Prep	6	case	_	_
 5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	moda	moda	NOUN	Scfs	Gender=Fem|Number=Sing	3	nmod	_	_
-7	minimalista	minimalista	ADJ	A0fs	Gender=Fem|Number=Sing	6	amod	_	_
+7	minimalista	minimalista	ADJ	A0fs	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	3	punct	_	_
 9	tomou	tomar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	forza	forza	NOUN	Scfs	Gender=Fem|Number=Sing	9	obj	_	_
@@ -5362,7 +5362,7 @@
 13	de	de	ADP	P	AdpType=Prep	15	case	_	_
 14	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	decoración	decoración	NOUN	Scfs	Gender=Fem|Number=Sing	12	nmod	_	_
-16	moderna	moderno	ADJ	A0fs	Gender=Fem|Number=Sing	15	amod	_	_
+16	moderna	moderno	ADJ	A0fs	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No
 17	,	,	PUNCT	Q,	_	22	punct	_	_
 18-19	na	_	_	_	_	_	_	_	_
 18	en	en	ADP	P	AdpType=Prep	20	case	_	_
@@ -5374,7 +5374,7 @@
 24	forza	forza	NOUN	Scfs	Gender=Fem|Number=Sing	22	obl	_	_
 25	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 26	súa	seu	DET	Md3sfs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
-27	esencia	esencia	NOUN	Scfs	Gender=Fem|Number=Sing	22	nsubj	_	_
+27	esencia	esencia	NOUN	Scfs	Gender=Fem|Number=Sing	22	nsubj	_	SpaceAfter=No
 28	.	.	PUNCT	Q.	_	9	punct	_	_
 
 # sent_id = 933
@@ -5390,13 +5390,13 @@
 8-9	da	_	_	_	_	_	_	_	_
 8	de	de	ADP	P	AdpType=Prep	10	case	_	_
 9	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	ikebana	ikebana	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	_
+10	ikebana	ikebana	NOUN	Scfs	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 938
 # text = Entre elas, o feito de que o Xapón e Galiza teñen un lugar que lles é común: as súas querencias moi asentadas pola terra e pola auga e, por tanto, pola natureza.
 1	Entre	entre	ADP	P	AdpType=Prep	2	case	_	_
-2	elas	el	PRON	Rtp3fp	Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	nmod	_	_
+2	elas	el	PRON	Rtp3fp	Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	5	punct	_	_
 4	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	feito	feito	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
@@ -5412,7 +5412,7 @@
 15	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	_
 16	lles	lle	PRON	Rad3ap	Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=3|PronType=Prs	18	iobj	_	_
 17	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
-18	común	común	ADJ	A0ms	Gender=Masc|Number=Sing	14	acl	_	_
+18	común	común	ADJ	A0ms	Gender=Masc|Number=Sing	14	acl	_	SpaceAfter=No
 19	:	:	PUNCT	Q:	_	12	punct	_	_
 20	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
 21	súas	seu	DET	Md3pfp	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
@@ -5428,15 +5428,15 @@
 29	por	por	ADP	P	AdpType=Prep	31	case	_	_
 30	la	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
 31	auga	auga	NOUN	Scfs	Gender=Fem|Number=Sing	27	conj	_	_
-32	e	e	CCONJ	Cc	_	39	cc	_	_
+32	e	e	CCONJ	Cc	_	39	cc	_	SpaceAfter=No
 33	,	,	PUNCT	Q,	_	34	punct	_	_
 34	por	por	ADP	P	AdpType=Prep	39	advmod	_	_
-35	tanto	tanto	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	34	fixed	_	_
+35	tanto	tanto	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	34	fixed	_	SpaceAfter=No
 36	,	,	PUNCT	Q,	_	34	punct	_	_
 37-38	pola	_	_	_	_	_	_	_	_
 37	por	por	ADP	P	AdpType=Prep	39	case	_	_
 38	la	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
-39	natureza	natureza	NOUN	Scfs	Gender=Fem|Number=Sing	27	conj	_	_
+39	natureza	natureza	NOUN	Scfs	Gender=Fem|Number=Sing	27	conj	_	SpaceAfter=No
 40	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 943
@@ -5451,13 +5451,13 @@
 8	20	20	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	6	obj	_	_
 9	por	por	ADP	P	AdpType=Prep	8	flat	_	_
 10	cento	cento	NUM	Ncdms	Gender=Masc|Number=Sing|NumType=Card	8	flat	_	_
-11	(	(	PUNCT	Q(	_	15	punct	_	_
+11	(	(	PUNCT	Q(	_	15	punct	_	SpaceAfter=No
 12	máis	máis	ADV	Wn	_	14	advmod	_	_
 13	de	de	ADP	P	AdpType=Prep	15	case	_	_
 14	5.000	5.000	NUM	Ncdfp	Gender=Fem|Number=Plur|NumType=Card	15	nummod	_	_
 15	persoas	persoa	NOUN	Scfp	Gender=Fem|Number=Plur	8	appos	_	_
 16	sen	sen	ADP	P	AdpType=Prep|Polarity=Neg	17	case	_	_
-17	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	15	nmod	_	_
+17	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 18	)	)	PUNCT	Q)	_	15	punct	_	_
 19	e	e	CCONJ	Cc	_	28	cc	_	_
 20	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
@@ -5468,13 +5468,13 @@
 25	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
 26	de	de	ADP	P	AdpType=Prep	28	case	_	_
 27	77.859	77.859	NUM	Ncdmp	Gender=Masc|Number=Plur|NumType=Card	28	nummod	_	_
-28	habitantes	habitante	NOUN	Scmp	Gender=Masc|Number=Plur	6	conj	_	_
+28	habitantes	habitante	NOUN	Scmp	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
 29	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 948
 # text = Xaime Bello, Vicepresidente da Deputación da Coruña.
 1	Xaime	xaime	PROPN	Spm0	Gender=Masc	0	root	_	_
-2	Bello	bello	PROPN	Spm0	Gender=Masc	1	flat:name	_	_
+2	Bello	bello	PROPN	Spm0	Gender=Masc	1	flat:name	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	1	punct	_	_
 4	Vicepresidente	vicepresidente	NOUN	Scms	Gender=Masc|Number=Sing	1	appos	_	_
 5-6	da	_	_	_	_	_	_	_	_
@@ -5484,7 +5484,7 @@
 8-9	da	_	_	_	_	_	_	_	_
 8	de	de	ADP	P	AdpType=Prep	10	case	_	_
 9	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	Coruña	coruña	PROPN	Spfs	Gender=Fem|Number=Sing	7	nmod	_	_
+10	Coruña	coruña	PROPN	Spfs	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 953
@@ -5492,7 +5492,7 @@
 1-2	Construíanse	_	_	_	_	_	_	_	_
 1	Construían	construír	VERB	Vii30p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	1	expl	_	_
-3	daquela	daquela	ADV	Wn	_	1	advmod	_	_
+3	daquela	daquela	ADV	Wn	_	1	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	1	punct	_	_
 5-6	nos	_	_	_	_	_	_	_	_
 5	en	en	ADP	P	AdpType=Prep	7	case	_	_
@@ -5502,7 +5502,7 @@
 9	Astano	Astano	PROPN	Sp00	_	7	nmod	_	_
 10	e	e	CCONJ	Cc	_	12	cc	_	_
 11	de	de	ADP	P	AdpType=Prep	12	case	_	_
-12	Bazán	Bazán	PROPN	Sp00	_	9	conj	_	_
+12	Bazán	Bazán	PROPN	Sp00	_	9	conj	_	SpaceAfter=No
 13	,	,	PUNCT	Q,	_	15	punct	_	_
 14	grandes	grande	ADJ	A0mp	Gender=Masc|Number=Plur	15	amod	_	_
 15	petroleiros	petroleiro	NOUN	Scmp	Gender=Masc|Number=Plur	1	nsubj	_	_
@@ -5517,7 +5517,7 @@
 24	de	de	ADP	P	AdpType=Prep	27	case	_	_
 25	todo	todo	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	27	det	_	_
 26	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-27	mundo	mundo	NOUN	Scms	Gender=Masc|Number=Sing	23	nmod	_	_
+27	mundo	mundo	NOUN	Scms	Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 958
@@ -5528,7 +5528,7 @@
 4	empezaron	empezar	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	gobernando	gobernar	VERB	V0x000	VerbForm=Ger	4	advcl	_	_
 6	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	PSOE	PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	5	nsubj	_	_
+7	PSOE	PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	4	punct	_	_
 9-10	coa	_	_	_	_	_	_	_	_
 9	con	con	ADP	P	AdpType=Prep	13	case	_	_
@@ -5541,7 +5541,7 @@
 16	e	e	CCONJ	Cc	_	17	cc	_	_
 17	reindustrialización	reindustrialización	NOUN	Scfs	Gender=Fem|Number=Sing	15	conj	_	_
 18	de	de	ADP	P	AdpType=Prep	19	case	_	_
-19	1983	1983	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	13	nmod	_	_
+19	1983	1983	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	13	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	Q,	_	13	punct	_	_
 21	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	22	nsubj	_	_
 22	eliminou	eliminar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl	_	_
@@ -5557,7 +5557,7 @@
 31	en	en	ADP	P	AdpType=Prep	32	case	_	_
 32	Astano	Astano	PROPN	Sp00	_	30	obl	_	_
 33	e	e	CCONJ	Cc	_	34	cc	_	_
-34	Bazán	Bazán	PROPN	Sp00	_	32	conj	_	_
+34	Bazán	Bazán	PROPN	Sp00	_	32	conj	_	SpaceAfter=No
 35	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 963
@@ -5572,7 +5572,7 @@
 7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	8	expl	_	_
 8	publican	publicar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
 9	estas	este	DET	Edfp	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
-10	liñas	liña	NOUN	Scfp	Gender=Fem|Number=Plur	8	nsubj	_	_
+10	liñas	liña	NOUN	Scfp	Gender=Fem|Number=Plur	8	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	8	punct	_	_
 12	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	total	total	NOUN	Scms	Gender=Masc|Number=Sing	30	nsubj	_	_
@@ -5612,7 +5612,7 @@
 44	de	de	ADP	P	AdpType=Prep	45	case	_	_
 45	regulación	regulación	NOUN	Scfs	Gender=Fem|Number=Sing	43	nmod	_	_
 46	de	de	ADP	P	AdpType=Prep	47	case	_	_
-47	emprego	emprego	NOUN	Scms	Gender=Masc|Number=Sing	45	nmod	_	_
+47	emprego	emprego	NOUN	Scms	Gender=Masc|Number=Sing	45	nmod	_	SpaceAfter=No
 48	,	,	PUNCT	Q,	_	40	punct	_	_
 49	aceptado	aceptar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	43	acl	_	_
 50	por	por	ADP	P	AdpType=Prep	51	case	_	_
@@ -5625,7 +5625,7 @@
 57-58	pola	_	_	_	_	_	_	_	_
 57	por	por	ADP	P	AdpType=Prep	59	case	_	_
 58	la	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	59	det	_	_
-59	CIG	CIG	PROPN	Zgfs	Gender=Fem|Number=Sing	55	obl	_	_
+59	CIG	CIG	PROPN	Zgfs	Gender=Fem|Number=Sing	55	obl	_	SpaceAfter=No
 60	,	,	PUNCT	Q,	_	58	punct	_	_
 61	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	63	nsubj	_	_
 62	os	o	PRON	Raa3mp	Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	63	obj	_	_
@@ -5635,7 +5635,7 @@
 66-67	ao	_	_	_	_	_	_	_	_
 66	a	a	ADP	P	AdpType=Prep	68	case	_	_
 67	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	68	det	_	_
-68	paro	paro	NOUN	Scms	Gender=Masc|Number=Sing	63	obl	_	_
+68	paro	paro	NOUN	Scms	Gender=Masc|Number=Sing	63	obl	_	SpaceAfter=No
 69	,	,	PUNCT	Q,	_	63	punct	_	_
 70-71	ao	_	_	_	_	_	_	_	_
 70	a	a	ADP	P	AdpType=Prep	72	case	_	_
@@ -5645,24 +5645,24 @@
 73	de	de	ADP	P	AdpType=Prep	75	case	_	_
 74	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	75	det	_	_
 75	INEM	INEM	PROPN	Zgms	Gender=Masc|Number=Sing	72	nmod	_	_
-76	despois	despois	ADV	Wn	_	72	advmod	_	_
+76	despois	despois	ADV	Wn	_	72	advmod	_	SpaceAfter=No
 77	,	,	PUNCT	Q,	_	63	punct	_	_
 78	até	até	ADP	P	AdpType=Prep	80	mark	_	_
 79	que	que	SCONJ	Cs	_	80	mark	_	_
 80	cumpran	cumprir	VERB	Vps30p	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	63	advcl	_	_
 81	60	60	NUM	Ncdmp	Gender=Masc|Number=Plur|NumType=Card	82	nummod	_	_
-82	anos	ano	NOUN	Scmp	Gender=Masc|Number=Plur	80	obj	_	_
+82	anos	ano	NOUN	Scmp	Gender=Masc|Number=Plur	80	obj	_	SpaceAfter=No
 83	,	,	PUNCT	Q,	_	80	punct	_	_
-84	e	e	CCONJ	Cc	_	92	cc	_	_
+84	e	e	CCONJ	Cc	_	92	cc	_	SpaceAfter=No
 85	,	,	PUNCT	Q,	_	86	punct	_	_
 86	a	a	ADP	P	AdpType=Prep	92	advmod	_	_
-87	continuación	continuación	NOUN	Scfs	Gender=Fem|Number=Sing	86	fixed	_	_
+87	continuación	continuación	NOUN	Scfs	Gender=Fem|Number=Sing	86	fixed	_	SpaceAfter=No
 88	,	,	PUNCT	Q,	_	86	punct	_	_
 89-90	á	_	_	_	_	_	_	_	_
 89	a	a	ADP	P	AdpType=Prep	92	case	_	_
 90	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	92	det	_	_
 91	súa	seu	DET	Md3pfs	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	92	det	_	_
-92	prexubilación	prexubilación	NOUN	Scfs	Gender=Fem|Number=Sing	68	conj	_	_
+92	prexubilación	prexubilación	NOUN	Scfs	Gender=Fem|Number=Sing	68	conj	_	SpaceAfter=No
 93	.	.	PUNCT	Q.	_	63	punct	_	_
 
 # sent_id = 968
@@ -5676,7 +5676,7 @@
 7	e	e	CCONJ	Cc	_	8	cc	_	_
 8	social	social	ADJ	A0fs	Gender=Fem|Number=Sing	6	conj	_	_
 9	de	de	ADP	P	AdpType=Prep	10	case	_	_
-10	Ferrol	Ferrol	PROPN	Sp00	_	5	nmod	_	_
+10	Ferrol	Ferrol	PROPN	Sp00	_	5	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	Q,	_	3	punct	_	_
 12	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	seu	seu	DET	Md3sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
@@ -5697,21 +5697,21 @@
 27-28	da	_	_	_	_	_	_	_	_
 27	de	de	ADP	P	AdpType=Prep	29	case	_	_
 28	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
-29	cidade	cidade	NOUN	Scfs	Gender=Fem|Number=Sing	26	nmod	_	_
+29	cidade	cidade	NOUN	Scfs	Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	Q,	_	26	punct	_	_
 31	agora	agora	ADV	Wn	_	34	advmod	_	_
 32	mesmo	mesmo	ADV	Wm	_	31	advmod	_	_
 33	máis	máis	ADV	Wm	_	34	advmod	_	_
 34	desmoralizados	desmoralizado	ADJ	A0mp	Gender=Masc|Number=Plur	26	amod	_	_
 35	que	que	SCONJ	Cs	_	36	mark	_	_
-36	nunca	nunca	ADV	Wn	Polarity=Neg	34	advmod	_	_
+36	nunca	nunca	ADV	Wn	Polarity=Neg	34	advmod	_	SpaceAfter=No
 37	.	.	PUNCT	Q.	_	17	punct	_	_
 
 # sent_id = 973
 # text = De ser así, habería que ir pensando en que Ferrol podería ser escenario das consecuencias do paro na seguridade.
 1	De	de	ADP	P	AdpType=Prep	3	mark	_	_
 2	ser	ser	AUX	V0f000	VerbForm=Inf	3	cop	_	_
-3	así	así	ADV	Wn	_	8	advcl	_	_
+3	así	así	ADV	Wn	_	8	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	3	punct	_	_
 5	habería	haber	AUX	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	8	aux	_	_
 6	que	que	SCONJ	Cs	_	8	mark	_	_
@@ -5734,7 +5734,7 @@
 21-22	na	_	_	_	_	_	_	_	_
 21	en	en	ADP	P	AdpType=Prep	23	case	_	_
 22	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-23	seguridade	seguridade	NOUN	Scfs	Gender=Fem|Number=Sing	17	nmod	_	_
+23	seguridade	seguridade	NOUN	Scfs	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	Q.	_	8	punct	_	_
 
 # sent_id = 978
@@ -5750,7 +5750,7 @@
 9-10	ao	_	_	_	_	_	_	_	_
 9	a	a	ADP	P	AdpType=Prep	11	case	_	_
 10	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	sol	sol	NOUN	Scms	Gender=Masc|Number=Sing	8	nmod	_	_
+11	sol	sol	NOUN	Scms	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	Q,	_	4	punct	_	_
 13	sería	ser	AUX	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	14	cop	_	_
 14	desexábel	desexábel	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	_
@@ -5765,7 +5765,7 @@
 23	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	filme	filme	NOUN	Scms	Gender=Masc|Number=Sing	22	obj	_	_
 25	de	de	ADP	P	AdpType=Prep	26	case	_	_
-26	Costa-Gavras	Costa-Gavras	PROPN	Sp00	_	24	nmod	_	_
+26	Costa-Gavras	Costa-Gavras	PROPN	Sp00	_	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	Q.	_	14	punct	_	_
 
 # sent_id = 983
@@ -5789,7 +5789,7 @@
 15	de	de	ADP	P	AdpType=Prep	17	case	_	_
 16	novas	novo	ADJ	A0fp	Gender=Fem|Number=Plur	17	amod	_	_
 17	áreas	área	NOUN	Scfp	Gender=Fem|Number=Plur	14	nmod	_	_
-18	produtivas	produtivo	ADJ	A0fp	Gender=Fem|Number=Plur	17	amod	_	_
+18	produtivas	produtivo	ADJ	A0fp	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
 19	.	.	PUNCT	Q.	_	7	punct	_	_
 
 # sent_id = 988
@@ -5801,7 +5801,7 @@
 5	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
 6	para	para	ADP	P	AdpType=Prep	8	case	_	_
 7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	xuventude	xuventude	NOUN	Scfs	Gender=Fem|Number=Sing	2	obl	_	_
+8	xuventude	xuventude	NOUN	Scfs	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 9	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 993
@@ -5818,7 +5818,7 @@
 9	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	7	nmod	_	_
 10	non	non	ADV	Wn	Polarity=Neg	12	advmod	_	_
 11	foi	ser	AUX	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
-12	neta	neto	ADJ	A0fs	Gender=Fem|Number=Sing	1	conj	_	_
+12	neta	neto	ADJ	A0fs	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
 13	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 998
@@ -5832,7 +5832,7 @@
 6-7	pola	_	_	_	_	_	_	_	_
 6	por	por	ADP	P	AdpType=Prep	8	case	_	_
 7	la	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	SEPI	SEPI	PROPN	Zgfs	Gender=Fem|Number=Sing	5	nmod	_	_
+8	SEPI	SEPI	PROPN	Zgfs	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	Q,	_	2	punct	_	_
 10	tería	ter	AUX	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	15	aux	_	_
 11	que	que	SCONJ	Cs	_	15	mark	_	_
@@ -5856,7 +5856,7 @@
 29-30	das	_	_	_	_	_	_	_	_
 29	de	de	ADP	P	AdpType=Prep	31	case	_	_
 30	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	31	det	_	_
-31	vacantes	vacante	NOUN	Scfp	Gender=Fem|Number=Plur	28	nmod	_	_
-32	"	"	PUNCT	Q"	_	26	punct	_	_
+31	vacantes	vacante	NOUN	Scfp	Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No
+32	"	"	PUNCT	Q"	_	26	punct	_	SpaceAfter=No
 33	.	.	PUNCT	Q.	_	15	punct	_	_
 
