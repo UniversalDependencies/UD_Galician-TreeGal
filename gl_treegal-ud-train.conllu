@@ -47,7 +47,7 @@
 21	nosa	noso	DET	Md1pfs	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	22	det	_	_
 22	identidade	identidade	NOUN	Scfs	Gender=Fem|Number=Sing	18	obj	_	_
 23	política	político	ADJ	A0fs	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
-24	,	,	PUNCT	Q,	_	22	punct	_	_
+24	,	,	PUNCT	Q,	_	25	punct	_	_
 25	cultural	cultural	ADJ	A0fs	Gender=Fem|Number=Sing	23	conj	_	_
 26	e	e	CCONJ	Cc	_	27	cc	_	_
 27	lingüística	lingüístico	ADJ	A0fs	Gender=Fem|Number=Sing	23	conj	_	SpaceAfter=No
@@ -802,7 +802,7 @@
 42	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	43	det	_	_
 43	eleccións	elección	NOUN	Scfp	Gender=Fem|Number=Plur	39	nmod	_	_
 44	autonómicas	autonómico	ADJ	A0fp	Gender=Fem|Number=Plur	43	amod	_	SpaceAfter=No
-45	,	,	PUNCT	Q,	_	33	punct	_	_
+45	,	,	PUNCT	Q,	_	48	punct	_	_
 46	senón	senón	SCONJ	Cs	_	48	cc	_	_
 47	que	que	SCONJ	Cs	_	48	mark	_	_
 48	suxería	suxerir	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	conj	_	_
