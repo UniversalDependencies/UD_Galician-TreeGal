@@ -320,7 +320,7 @@
 2	Francia	Francia	PROPN	Sp00	_	3	obl	_	_
 3-4	trabállase	_	_	_	_	_	_	_	_
 3	traballa	traballar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	3	expl	_	_
+4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	3	expl	_	_
 5	dúas	dous	NUM	Ncdfp	Gender=Fem|Number=Plur|NumType=Card	6	nummod	_	_
 6	horas	hora	NOUN	Scfp	Gender=Fem|Number=Plur	7	obl	_	_
 7	menos	menos	ADV	Wm	_	3	advmod	_	_
@@ -460,7 +460,7 @@
 1	E	e	CCONJ	Cc	_	6	mark	_	_
 2	nin	nin	CCONJ	Cc	Polarity=Neg	6	advmod	_	_
 3	sequera	sequera	ADV	Wn	_	2	fixed	_	_
-4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	6	expl	_	_
+4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	6	expl	_	_
 5	lle	lle	PRON	Rad3as	Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 6	ocorre	ocorrer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	pensar	pensar	VERB	V0f000	VerbForm=Inf	6	xcomp	_	_
@@ -577,7 +577,7 @@
 26	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 27	galegos	galego	NOUN	Scmp	Gender=Masc|Number=Plur	30	nsubj	_	_
 28	non	non	ADV	Wn	Polarity=Neg	30	advmod	_	_
-29	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	30	expl	_	_
+29	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	30	expl	_	_
 30	conforman	conformar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl	_	_
 31-32	cun	_	_	_	_	_	_	_	_
 31	con	con	ADP	P	AdpType=Prep	33	case	_	_
@@ -890,7 +890,7 @@
 2	situación	situación	NOUN	Scfs	Gender=Fem|Number=Sing	3	nsubj	_	_
 3-4	complícase	_	_	_	_	_	_	_	_
 3	complica	complicar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	3	expl	_	_
+4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	3	expl	_	_
 5	así	así	ADV	Wn	_	3	advmod	_	_
 6	aínda	aínda	ADV	Wn	_	7	advmod	_	_
 7	máis	máis	ADV	Wn	_	3	advmod	_	_
@@ -915,7 +915,7 @@
 9	fácil	fácil	ADJ	A0ms	Gender=Masc|Number=Sing	5	ccomp	_	_
 10-11	entenderse	_	_	_	_	_	_	_	_
 10	entender	entender	VERB	V0f000	VerbForm=Inf	9	csubj	_	_
-11	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	10	expl	_	_
+11	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	10	expl	_	_
 12	con	con	ADP	P	AdpType=Prep	13	case	_	_
 13	el	el	PRON	Rtp3ms	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	SpaceAfter=No
 14	.	.	PUNCT	Q.	_	5	punct	_	_
@@ -985,7 +985,7 @@
 5	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	home	home	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
 7	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	_
-8	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	9	expl	_	_
+8	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	9	expl	_	_
 9	prodigue	prodigar	VERB	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
 10	en	en	ADP	P	AdpType=Prep	11	case	_	_
 11	aparicións	aparición	NOUN	Scfp	Gender=Fem|Number=Plur	9	obl	_	_
@@ -1051,7 +1051,7 @@
 2	cooperación	cooperación	NOUN	Scfs	Gender=Fem|Number=Sing	3	nsubj	_	_
 3-4	estendeuse	_	_	_	_	_	_	_	_
 3	estendeu	estender	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	3	expl	_	_
+4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	3	expl	_	_
 5	tamén	tamén	ADV	Wn	_	3	advmod	_	_
 6	a	a	ADP	P	AdpType=Prep	8	case	_	_
 7	outras	outro	DET	Idfp	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
@@ -1242,7 +1242,7 @@
 14	anos	ano	NOUN	Scmp	Gender=Masc|Number=Plur	15	obl	_	_
 15-16	esváense	_	_	_	_	_	_	_	SpaceAfter=No
 15	esvaen	esvaer	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
-16	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	15	expl	_	_
+16	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	15	expl	_	_
 17	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 193
@@ -1525,7 +1525,7 @@
 8	estilo	estilo	NOUN	Scms	Gender=Masc|Number=Sing	12	nsubj	_	_
 9	de	de	ADP	P	AdpType=Prep	10	case	_	_
 10	goberno	goberno	NOUN	Scms	Gender=Masc|Number=Sing	8	nmod	_	_
-11	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	12	expl	_	_
+11	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	12	expl	_	_
 12	distinga	distinguir	VERB	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 13-14	do	_	_	_	_	_	_	_	_
 13	de	de	ADP	P	AdpType=Prep	15	case	_	_
@@ -1595,7 +1595,7 @@
 32	obriga	obriga	NOUN	Scfs	Gender=Fem|Number=Sing	30	obj	_	_
 33	de	de	ADP	P	AdpType=Prep	36	mark	_	_
 34	que	que	SCONJ	Cs	_	36	mark	_	_
-35	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	36	expl	_	_
+35	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	36	expl	_	_
 36	retire	retirar	VERB	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	acl	_	_
 37	ENCE	ENCE	PROPN	Zg00	_	36	nsubj	_	_
 38-39	do	_	_	_	_	_	_	_	_
@@ -1762,7 +1762,7 @@
 11	,	,	PUNCT	Q,	_	12	punct	_	_
 12-13	proponse	_	_	_	_	_	_	_	_
 12	propón	propoñer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-13	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	12	expl	_	_
+13	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	12	expl	_	_
 14	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 15	"	"	PUNCT	Q"	_	19	punct	_	SpaceAfter=No
 16	lexítima	lexítimo	ADJ	A0fs	Gender=Fem|Number=Sing	19	amod	_	_
@@ -1914,7 +1914,7 @@
 3	máis	máis	ADV	Wn	_	7	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	7	punct	_	_
 5	se	se	SCONJ	Cs	_	7	mark	_	_
-6	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	7	expl	_	_
+6	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	7	expl	_	_
 7	trata	tratar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	P	AdpType=Prep	9	case	_	_
 9	materia	materia	NOUN	Scfs	Gender=Fem|Number=Sing	7	obl	_	_
@@ -2103,7 +2103,7 @@
 15	outros	outro	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	16	nsubj	_	_
 16-17	queixáronse	_	_	_	_	_	_	_	_
 16	queixaron	queixar	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-17	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	16	expl	_	_
+17	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	16	expl	_	_
 18-19	do	_	_	_	_	_	_	_	_
 18	de	de	ADP	P	AdpType=Prep	20	case	_	_
 19	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -2282,7 +2282,7 @@
 15	medios	medio	NOUN	Scmp	Gender=Masc|Number=Plur	13	nmod	_	_
 16	con	con	ADP	P	AdpType=Prep	17	case	_	_
 17	que	que	PRON	Tnmp	Gender=Masc|Number=Plur|PronType=Rel	19	obl	_	_
-18	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	19	expl	_	_
+18	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	19	expl	_	_
 19	abordou	abordar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl	_	_
 20	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	21	det	_	_
 21	catástrofe	catástrofe	NOUN	Scfs	Gender=Fem|Number=Sing	19	nsubj	_	SpaceAfter=No
@@ -2297,7 +2297,7 @@
 5	chegou	chegar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	advcl	_	_
 6-7	utilizáronse	_	_	_	_	_	_	_	_
 6	utilizaron	utilizar	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	6	expl	_	_
+7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	6	expl	_	_
 8	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	descargas	descarga	NOUN	Scfp	Gender=Fem|Number=Plur	6	obj	_	_
 10-11	da	_	_	_	_	_	_	_	_
@@ -2610,7 +2610,7 @@
 14	que	que	SCONJ	Cs	_	18	mark	_	_
 15	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 16	como	como	ADV	Wr	PronType=Rel	18	advmod	_	_
-17	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	18	expl	_	_
+17	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	18	expl	_	_
 18	mantén	manter	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	_
 19	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	pé	pé	NOUN	Scms	Gender=Masc|Number=Sing	18	nsubj	_	_
@@ -2757,7 +2757,7 @@
 3	tamén	tamén	ADV	Wn	_	4	advmod	_	_
 4	pediremos	pedir	VERB	Vfi10p	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 5	que	que	SCONJ	Cs	_	7	mark	_	_
-6	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	7	expl	_	_
+6	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	7	expl	_	_
 7	limiten	limitar	VERB	Vps30p	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 8	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	prazas	praza	NOUN	Scfp	Gender=Fem|Number=Plur	7	obj	_	_
@@ -2773,7 +2773,7 @@
 17	de	de	ADP	P	AdpType=Prep	22	mark	_	_
 18	que	que	SCONJ	Cs	_	22	mark	_	_
 19	quen	quen	PRON	Tnas	Gender=Com|Number=Sing|PronType=Rel	21	nsubj	_	_
-20	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	21	expl	_	_
+20	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	21	expl	_	_
 21	licencie	licenciar	VERB	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	csubj	_	_
 22	teña	ter	VERB	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl	_	_
 23	unhas	un	DET	Difp	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
@@ -3148,7 +3148,7 @@
 15	en	en	ADP	P	AdpType=Prep	17	case	_	_
 16	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	19	obl	_	_
-18	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	19	expl	_	_
+18	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	19	expl	_	_
 19	instalaría	instalar	VERB	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	11	acl	_	_
 20	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	biblioteca	biblioteca	NOUN	Scfs	Gender=Fem|Number=Sing	19	obj	_	_
@@ -3270,7 +3270,7 @@
 15	oportunidade	oportunidade	NOUN	Scfs	Gender=Fem|Number=Sing	11	ccomp	_	_
 16	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	20	nsubj	_	_
 17	non	non	ADV	Wn	Polarity=Neg	19	advmod	_	_
-18	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	20	expl	_	_
+18	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	20	expl	_	_
 19	podía	poder	AUX	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	aux	_	_
 20	desperdiciar	desperdiciar	VERB	V0f000	VerbForm=Inf	15	acl	_	_
 21	e	e	CCONJ	Cc	_	25	cc	_	_
@@ -3331,7 +3331,7 @@
 # text = Meterse naquela lingua cervantina e buscar expresións comprensíbeis sen traicionalo deunos moito a lata.
 1-2	Meterse	_	_	_	_	_	_	_	_
 1	Meter	meter	VERB	V0f000	VerbForm=Inf	14	csubj	_	_
-2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	1	expl	_	_
+2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	1	expl	_	_
 3-4	naquela	_	_	_	_	_	_	_	_
 3	en	en	ADP	P	AdpType=Prep	5	case	_	_
 4	aquela	aquel	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
@@ -3417,7 +3417,7 @@
 1	Só	só	ADV	Wn	_	3	advmod	_	_
 2	a	a	ADP	P	AdpType=Prep	3	case	_	_
 3	min	min	PRON	Rtp1as	Gender=Com|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
-4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	6	expl	_	_
+4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	6	expl	_	_
 5	me	me	PRON	Rad1as	Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=1|PronType=Prs	6	expl	_	_
 6	ocorre	ocorrer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	aparvar	aparvar	VERB	V0f000	VerbForm=Inf	6	xcomp	_	_
@@ -3450,7 +3450,7 @@
 1	Ou	ou	CCONJ	Cc	_	5	mark	_	_
 2	porque	porque	SCONJ	Cs	_	5	mark	_	_
 3	non	non	ADV	Wn	Polarity=Neg	5	advmod	_	_
-4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	5	expl	_	_
+4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	5	expl	_	_
 5	axusta	axustar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6-7	ao	_	_	_	_	_	_	_	_
 6	a	a	ADP	P	AdpType=Prep	8	case	_	_
@@ -3580,7 +3580,7 @@
 # sent_id = 618
 # text = Tamén se precisarían grabacións en audio da súa voz (lectura de poemas, conferencias, entrevistas...) e todo o que poda ser utilizado neste documental.
 1	Tamén	tamén	ADV	Wn	_	3	advmod	_	_
-2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	3	expl	_	_
+2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	3	expl	_	_
 3	precisarían	precisar	VERB	Vci30p	Mood=Cnd,Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 4	grabacións	grabación	NOUN	Scfp	Gender=Fem|Number=Plur	3	obj	_	_
 5	en	en	ADP	P	AdpType=Prep	6	case	_	_
@@ -3759,7 +3759,7 @@
 31	,	,	PUNCT	Q,	_	12	punct	_	_
 32-33	producíndose	_	_	_	_	_	_	_	_
 32	producindo	producir	VERB	V0x000	VerbForm=Ger	12	parataxis	_	_
-33	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	32	expl	_	_
+33	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	32	expl	_	_
 34	nivelación	nivelación	NOUN	Scfs	Gender=Fem|Number=Sing	32	nsubj	_	_
 35	estilística	estilístico	ADJ	A0fs	Gender=Fem|Number=Sing	34	amod	_	_
 36	entre	entre	ADP	P	AdpType=Prep	38	case	_	_
@@ -3892,7 +3892,7 @@
 # sent_id = 668
 # text = Por que din que o Papa está grave se xa conseguiu pronunciar algunhas palabras?
 1	Por	por	ADP	P	AdpType=Prep	2	case	_	_
-2	que	que	PRON	Gnaa	Gender=Com|Number=Dual|PronType=Int	3	obl	_	_
+2	que	que	PRON	Gnaa	Gender=Com|PronType=Int	3	obl	_	_
 3	din	dicir	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	Cs	_	8	mark	_	_
 5	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -3935,7 +3935,7 @@
 8	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	versións	versión	NOUN	Scfp	Gender=Fem|Number=Plur	5	nmod	_	_
 10	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	12	nsubj	_	_
-11	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	12	expl	_	_
+11	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	12	expl	_	_
 12	fixeron	facer	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	acl	_	_
 13-14	do	_	_	_	_	_	_	_	_
 13	de	de	ADP	P	AdpType=Prep	15	case	_	_
@@ -4006,7 +4006,7 @@
 2	número	número	NOUN	Scms	Gender=Masc|Number=Sing	3	nsubj	_	_
 3-4	adícase	_	_	_	_	_	_	_	_
 3	adica	adicar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	3	expl	_	_
+4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	3	expl	_	_
 5	por	por	ADP	P	AdpType=Prep	3	advmod	_	_
 6	completo	completo	ADJ	A0ms	Gender=Masc|Number=Sing	5	fixed	_	_
 7	a	a	ADP	P	AdpType=Prep	8	mark	_	_
@@ -4093,7 +4093,7 @@
 28-29	Rodari'	_	_	_	_	_	_	_	_
 28	Rodari	rodari	PROPN	Spms	Gender=Masc|Number=Sing	27	flat:name	_	_
 29	'	'	PUNCT	Q'	_	27	punct	_	_
-30	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	31	expl	_	_
+30	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	31	expl	_	_
 31	tratase	tratar	VERB	Ves30s	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	SpaceAfter=No
 32	,	,	PUNCT	Q,	_	35	punct	_	_
 33	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
@@ -4375,7 +4375,7 @@
 
 # sent_id = 743
 # text = Que significa este premio para a súa carreira?
-1	Que	que	PRON	Gnaa	Gender=Com|Number=Dual|PronType=Int	2	obj	_	_
+1	Que	que	PRON	Gnaa	Gender=Com|PronType=Int	2	obj	_	_
 2	significa	significar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	este	este	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	premio	premio	NOUN	Scms	Gender=Masc|Number=Sing	2	nsubj	_	_
@@ -4436,7 +4436,7 @@
 5	outros	outras	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
 6	lugares	lugar	NOUN	Scmp	Gender=Masc|Number=Plur	10	obl	_	_
 7	aínda	aínda	ADV	Wn	_	10	advmod	_	_
-8	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	10	expl	_	_
+8	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	10	expl	_	_
 9	está	estar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	loitando	loitar	VERB	V0x000	VerbForm=Ger	0	root	_	_
 11	para	para	ADP	P	AdpType=Prep	14	mark	_	_
@@ -4571,7 +4571,7 @@
 5	pois	pois	ADV	Wn	_	9	advmod	_	_
 6	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	cando	cando	ADV	Wr	PronType=Rel	9	advmod	_	_
-8	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	9	expl	_	_
+8	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	9	expl	_	_
 9	fixeron	facer	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	máis	máis	ADV	Wm	_	11	advmod	_	_
 11	obras	obra	NOUN	Scfp	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
@@ -4622,7 +4622,7 @@
 8	e	e	CCONJ	Cc	_	9	cc	_	_
 9-10	gástase	_	_	_	_	_	_	_	_
 9	gasta	gastar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
-10	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	9	expl	_	_
+10	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	9	expl	_	_
 11	moito	moito	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
 12	diñeiro	diñeiro	NOUN	Scms	Gender=Masc|Number=Sing	9	obj	_	_
 13	en	en	ADP	P	AdpType=Prep	14	case	_	_
@@ -4636,7 +4636,7 @@
 21	pianista	pianista	NOUN	Scms	Gender=Masc|Number=Sing	18	nsubj	_	_
 22	e	e	CCONJ	Cc	_	25	cc	_	_
 23	non	non	ADV	Wn	Polarity=Neg	25	advmod	_	_
-24	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	25	expl	_	_
+24	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	25	expl	_	_
 25	fai	facer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	_
 26	ese	ese	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	28	det	_	_
 27	mesmo	mesmo	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	28	det	_	_
@@ -5073,7 +5073,7 @@
 15	,	,	PUNCT	Q,	_	1	punct	_	_
 16-17	estreouse	_	_	_	_	_	_	_	_
 16	estreou	estrear	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-17	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	16	expl	_	_
+17	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	16	expl	_	_
 18	entre	entre	ADP	P	AdpType=Prep	19	case	_	_
 19	nós	nós	PRON	Rtp1ap	Gender=Com|Number=Plur|Person=1|PronType=Prs	16	obl	_	_
 20	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
@@ -5182,7 +5182,7 @@
 23	de	de	ADP	P	AdpType=Prep	24	mark	_	_
 24-25	opoñerse	_	_	_	_	_	_	_	_
 24	opoñer	opoñer	VERB	V0f000	VerbForm=Inf	22	advcl	_	_
-25	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	24	expl	_	_
+25	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	24	expl	_	_
 26	con	con	ADP	P	AdpType=Prep	27	case	_	_
 27	eficacia	eficacia	NOUN	Scfs	Gender=Fem|Number=Sing	24	obl	_	_
 28-29	ás	_	_	_	_	_	_	_	_
@@ -5248,7 +5248,7 @@
 27	na	o	PRON	Raa3fs	Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	obj	_	_
 28	notabelmente	notabelmente	ADV	Wn	_	26	advmod	_	_
 29	porque	porque	SCONJ	Cs	_	31	mark	_	_
-30	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	31	expl	_	_
+30	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	31	expl	_	_
 31	deu	dar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	advcl	_	_
 32	conta	conta	NOUN	Scfs	Gender=Fem|Number=Sing	31	obj	_	_
 33	de	de	ADP	P	AdpType=Prep	36	mark	_	_
@@ -5256,7 +5256,7 @@
 35	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
 36	algo	algo	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	32	ccomp	_	_
 37	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	40	nsubj	_	_
-38	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	40	expl	_	_
+38	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	40	expl	_	_
 39	podia	poder	AUX	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	40	aux	_	_
 40	desenvolver	desenvolver	VERB	V0f000	VerbForm=Inf	36	acl	_	_
 41	non	non	ADV	Wm	Polarity=Neg	42	advmod	_	_
@@ -5327,7 +5327,7 @@
 4	conduce	conducir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	a	a	ADP	P	AdpType=Prep	8	mark	_	_
 6	que	que	SCONJ	Cs	_	8	mark	_	_
-7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	8	expl	_	_
+7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	8	expl	_	_
 8	descubra	descubrir	VERB	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 9	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	mundo	mundo	NOUN	Scms	Gender=Masc|Number=Sing	8	obj	_	_
@@ -5491,7 +5491,7 @@
 # text = Construíanse daquela, nos estaleiros de Astano e de Bazán, grandes petroleiros e barcos de guerra que atravesaban os mares de todo o mundo.
 1-2	Construíanse	_	_	_	_	_	_	_	_
 1	Construían	construír	VERB	Vii30p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	1	expl	_	_
+2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	1	expl	_	_
 3	daquela	daquela	ADV	Wn	_	1	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	1	punct	_	_
 5-6	nos	_	_	_	_	_	_	_	_
@@ -5569,7 +5569,7 @@
 4	momento	momento	NOUN	Scms	Gender=Masc|Number=Sing	30	obl	_	_
 5	en	en	ADP	P	AdpType=Prep	6	case	_	_
 6	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	8	obl	_	_
-7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	8	expl	_	_
+7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	8	expl	_	_
 8	publican	publicar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
 9	estas	este	DET	Edfp	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
 10	liñas	liña	NOUN	Scfp	Gender=Fem|Number=Plur	8	nsubj	_	SpaceAfter=No
@@ -5808,7 +5808,7 @@
 # text = Rexuveneceuse o plantel e a perda de traballo non foi neta.
 1-2	Rexuveneceuse	_	_	_	_	_	_	_	_
 1	Rexuveneceu	rexuvenecer	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	1	expl	_	_
+2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	1	expl	_	_
 3	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	plantel	plantel	NOUN	Scms	Gender=Masc|Number=Sing	1	nsubj	_	_
 5	e	e	CCONJ	Cc	_	12	cc	_	_
@@ -5826,7 +5826,7 @@
 1	De	de	ADP	P	AdpType=Prep	2	mark	_	_
 2-3	darse	_	_	_	_	_	_	_	_
 2	dar	dar	VERB	V0f000	VerbForm=Inf	15	advcl	_	_
-3	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Number=Dual|Person=3|PronType=Prs	2	expl	_	_
+3	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	2	expl	_	_
 4	esa	ese	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
 5	prexubilación	prexubilación	NOUN	Scfs	Gender=Fem|Number=Sing	2	obj	_	_
 6-7	pola	_	_	_	_	_	_	_	_
