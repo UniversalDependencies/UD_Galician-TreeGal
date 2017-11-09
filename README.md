@@ -41,34 +41,21 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
   * General review
   * Added original text
 
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-
 Documentation status: partial
-
 Data source: manual
-
 Data available since: UD v1.4
-
 License: LGPLLR
-
 Genre: news
-
 Includes text: yes
-
 Lemmas: manual native
-
 UPOS: manual native
-
 XPOS: manual native
-
 Features: converted with corrections
-
 Relations: manual native
-
 Contributors: Garcia, Marcos
-
 Contributing: elsewhere
-
 Contact: marcos.garcia.gonzalez@udc.gal
-
 ===============================================================================
+</pre>
