@@ -8208,11 +8208,11 @@
 52	un	un	NUM	Ncdms	Gender=Masc|Number=Sing|NumType=Card	53	nummod	_	_
 53	fillo	fillo	NOUN	Scms	Gender=Masc|Number=Sing	50	obj	_	SpaceAfter=No
 54	,	,	PUNCT	Q,	_	59	punct	_	_
-55	e	e	CCONJ	Cc	_	57	cc	_	_
+55	e	e	CCONJ	Cc	_	59	cc	_	_
 56	a	a	ADP	P	AdpType=Prep	57	case	_	_
-57	Marcial	Marcial	PROPN	Spm0	Gender=Masc	47	conj	_	_
+57	Marcial	Marcial	PROPN	Spm0	Gender=Masc	59	orphan	_	_
 58	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	59	det	_	_
-59	pai	pai	NOUN	Scms	Gender=Masc|Number=Sing	50	orphan	_	SpaceAfter=No
+59	pai	pai	NOUN	Scms	Gender=Masc|Number=Sing	50	conj	_	SpaceAfter=No
 60	)	)	PUNCT	Q)	_	50	punct	_	SpaceAfter=No
 61	,	,	PUNCT	Q,	_	62	punct	_	_
 62	poder	poder	AUX	V0f000	VerbForm=Inf	63	aux	_	_
