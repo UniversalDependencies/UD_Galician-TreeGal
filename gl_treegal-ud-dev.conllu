@@ -9161,7 +9161,7 @@
 # sent_id = 711
 # text = Contos por palabras foi merecente no seu tempo do premio Lazarillo e foi incluído na lista de honra do IBBY, traducido a varios idiomas agora coas ilustracións de Enjamio e nesta edición que coido definitiva agardo que siga a recolleitar o favor dos lectores, como fixo dende a súa publicación.
 1	Contos	contos	PROPN	Sp00	_	5	nsubj:pass	_	_
-2	por	por	ADJ	P	AdpType=Prep	3	case	_	_
+2	por	por	ADP	P	AdpType=Prep	3	case	_	_
 3	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	1	nmod	_	_
 4	foi	ser	AUX	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	merecente	merecente	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	_
