@@ -14,7 +14,7 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
 
 * Garcia, Marcos, 2016. *Universal Dependencies Guidelines for the Galician-TreeGal Treebank.* Technical Report. LyS Group, Universidade da Coruña.
 
-* Garcia, Marcos, Carlos Gómez-Rodríguez and Miguel A. Alonso, 2017. *New treebank or repurposed? On the feasibility of cross-lingual parsing of Romance languages with Universal Dependencies.* Natural Language Engineering, doi:10.1017/S1351324917000377
+* Garcia, Marcos, Carlos Gómez-Rodríguez and Miguel A. Alonso, 2018. *New treebank or repurposed? On the feasibility of cross-lingual parsing of Romance languages with Universal Dependencies.* Natural Language Engineering, 24(1): 91-122.
 
 * Rojo, Guillermo, Marisol López Martínez, Eva Domínguez Noya and Fco. Mario Barcala, 2015. *Corpus de adestramento do Etiquetador/Lematizador do Galego Actual (XIADA),* v2.6. Centro Ramón Piñeiro para a Investigación en Humanidades.
 
@@ -32,14 +32,16 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
 * The dependency labels need to be reviewed by another expert to calculate inter-annotator agreement.
 
 # Changelog
+* 2018-03-21 v0.41:
+  * Few features and POS corrections.
+  * 'orphan' dependency correction.
 
-* 2017-06-02 v0.4
-
-  * POS-tags, morphological features and dependency relations adapted do UDv2
-  * Multiword expressions expanded (previously as single tokens)
-  * Complex proper nouns expanded (previously as single tokens)
-  * General review
-  * Added original text
+* 2017-06-02 v0.4:
+  * POS-tags, morphological features and dependency relations adapted do UDv2.
+  * Multiword expressions expanded (previously as single tokens).
+  * Complex proper nouns expanded (previously as single tokens).
+  * General review.
+  * Added original text.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
