@@ -28,7 +28,7 @@ relegado").
     * Both finite and infinitive verb form may inflect for [Number]() (singular or plural) and for [Person]() (1, 2, 3).
     * Finite forms also inflect in [Tense]() (present, future, past, imperfect, and pluperfect) and [Mood]() (indicative, subjuntive, imperative, and conditional).
   * Adjectives agree with nouns with respect to the features [Gender]() and [Number](). In addition, some adjectives inflect for [Degree]() (comparative, superlative).
-  * Negative adverbs (tagged as [PART]() in the Galician treebank) have negative [Polarity]() in Galician-TreeGal. Also, relative and interrogative adverbs are labeled with *Rel* and *Int* [PronType](), respectively.
+  * Negative adverbs have negative [Polarity]() in Galician-TreeGal. Also, relative and interrogative adverbs are labeled with *Rel* and *Int* [PronType](), respectively.
   * Few adpositions (e.g., *sen*) and conjunctions (*nin*) are also labeled with a negative polarity.
   * [PronType]() is used to differentiate the following pronouns and determiners: Demonstrative, indefinite, relative, interrogative, personal, and article. Personal (Prs) stands for personal and for possessive pronouns and determiners ([Poss] disambiguates between these two types). [PRON]() Articles (Art) are those determiners acting as pronouns (heads) when a noun is elided (e.g., "*a* [elided noun] de Abel")).
   * Determiners and pronouns inflect for [Number]() (singular or plural) and for [Gender]() (feminine, masculine, common, and neutral).
@@ -38,6 +38,9 @@ relegado").
 
 For more information, see the list of [Galician features](/feat/index.html) and Garcia, Marcos (2016), [Universal Dependencies Guidelines for the Galician-TreeGal Treebank](http://www.grupolys.org/~marcos/papers/GL_UD_guidelines.pdf).
 
+## Syntax
+
+* Apart from the verbs *ser*, *estar*, and *parecer*, Galician-Treegal labels as [aux] pseudo-copulative verbs as well as modal, temporal and aspectual auxiliary verbs (see the POS-tags section above).
 
 # Acknowledgments
 
