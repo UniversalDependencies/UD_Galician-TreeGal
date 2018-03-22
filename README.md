@@ -6,16 +6,16 @@ The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universi
 
 The resource derives from a subset (called *xeral*) of the XIADA corpus (v2.6), created at the Centro Ramón Piñeiro para a Investigación en Humanidades (http://corpus.cirp.es/xiada/).
 
-All the information except the syntactic one was semi-automatically converted to UD from the original resource. The dependency labels were assigned using cross-lingual parsing techniques, and then manually corrected by a linguist (see the references for more information).
+All the information except the syntactic one was semi-automatically converted to UD from the original resource. The dependency labels were assigned using cross-lingual parsing techniques, and then manually corrected by a linguist (see the references for more information). At the end of this process, several corrections were carried out in order to agree with the UD guidelines.
 
-Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 20-40-40 splits (train-dev-test).
+Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 20-40-40 splits (train-dev-test).
 
 # Differences from the generic Galician guidelines
 
 ## Morphology
 
 ### Tags
-* The Galician-TreeGal treebank uses [AUX]() also in the following cases:
+* The Galician-TreeGal treebank uses [AUX]() in the following cases:
   * Pseudo-copulative verbs: are tagged as [AUX]() when they function as copula (e.g., "Miguel Barros *permanecerá*
 relegado").
   * Modal, temporal and aspectual verbs: These verbs are considered auxiliary of the verb they depend on (e.g., "*debe* conducirnos" or "*deixa* de ser"). Similarly, auxiliary verbs in verbal periphrases are also tagged as [AUX]() (e.g., "*vai* gañar").
@@ -24,23 +24,28 @@ relegado").
 * The Galician-TreeGal treebank uses the following morphological features:
   * Nouns have inherent or inflected [Gender]() (common, feminine, or masculine) and [Number]() (singular or plural).
   * Verbs can have four different [VerbForm]() features (finite, gerund, participle, or infinitive):
-    * Forms in participle inflect in [Gender]() (feminine or masculine) and in [Number]() (singular or plural).
+    * Forms in participle inflect for [Gender]() (feminine or masculine) and for [Number]() (singular or plural).
     * Both finite and infinitive verb form may inflect for [Number]() (singular or plural) and for [Person]() (1, 2, 3).
-    * Finite forms also inflect in [Tense]() (present, future, past, imperfect, and pluperfect) and [Mood]() (indicative, subjuntive, imperative, and conditional).
+    * Finite forms also inflect for [Tense]() (present, future, past, imperfect, and pluperfect) and [Mood]() (indicative, subjuntive, imperative, and conditional).
   * Adjectives agree with nouns with respect to the features [Gender]() and [Number](). In addition, some adjectives inflect for [Degree]() (comparative, superlative).
-  * Negative adverbs have negative [Polarity]() in Galician-TreeGal. Also, relative and interrogative adverbs are labeled with *Rel* and *Int* [PronType](), respectively.
-  * Few adpositions (e.g., *sen*) and conjunctions (*nin*) are also labeled with a negative polarity.
-  * [PronType]() is used to differentiate the following pronouns and determiners: Demonstrative, indefinite, relative, interrogative, personal, and article. Personal (Prs) stands for personal and for possessive pronouns and determiners ([Poss] disambiguates between these two types). [PRON]() Articles (Art) are those determiners acting as pronouns (heads) when a noun is elided (e.g., "*a* [elided noun] de Abel")).
+  * Negative adverbs have negative [Polarity]() in Galician-TreeGal. Also, relative and interrogative adverbs are labeled with *Rel* and *Int* ([PronType]()), respectively.
+  * Few adpositions (e.g., *sen*) and conjunctions (*nin*) are also labeled with negative polarity.
+  * [PronType]() is used to differentiate the following pronouns and determiners: Demonstrative, indefinite, relative, interrogative, personal, and article. Personal (*Prs*) stands for personal and for possessive pronouns and determiners ([Poss]() disambiguates between these two types). [PRON]() Articles (*Art*) are those determiners acting as pronouns (heads) when a noun is elided (e.g., "*a* [elided noun] de Abel")).
   * Determiners and pronouns inflect for [Number]() (singular or plural) and for [Gender]() (feminine, masculine, common, and neutral).
-  * Possessive determiners and pronouns ([Poss]()) also have a language-specific feature: [Number[psor]]() (singular or plural).
+  * Possessive determiners and pronouns ([Poss]()) also have a language-specific feature which encodes the number of the possessor: [Number[psor]]() (singular or plural).
   * Clitic pronouns inflect for [Case]() with three values (nominative, accusative, dative).
   * Determiners agree with nouns in the same way as adjectives.
 
-For more information, see the list of [Galician features](/feat/index.html) and Garcia, Marcos (2016), [Universal Dependencies Guidelines for the Galician-TreeGal Treebank](http://www.grupolys.org/~marcos/papers/GL_UD_guidelines.pdf).
+For more information, see Garcia, Marcos (2016), [Universal Dependencies Guidelines for the Galician-TreeGal Treebank](http://www.grupolys.org/~marcos/papers/GL_UD_guidelines.pdf).
 
 ## Syntax
 
-* Apart from the verbs *ser*, *estar*, and *parecer*, Galician-Treegal labels as [aux] pseudo-copulative verbs as well as modal, temporal and aspectual auxiliary verbs (see the POS-tags section above).
+* Apart from the verbs *ser*, *estar*, and *parecer*, Galician-Treegal labels as [aux]() pseudo-copulative verbs as well as modal, temporal and aspectual auxiliary verbs (see the POS-tags section above).
+* Galician-TreeGal uses four dependency relation subtypes:
+  * [aux:pass]() for passive auxiliaries.
+  * [flat:name]() for exocentric complex names.
+  * [flat:foreign]() for foreign complex names with different structures.
+  * [nsubj:pass]() for nominal subjects of passive verbs.
 
 # Acknowledgments
 
