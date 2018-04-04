@@ -12,8 +12,8 @@
   <fusions unique="301" /><!-- do, da, no, na, dos, ao, á, das, polo, nas, coa, nos, co, dun, pola -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">1720</tag><!-- galego, novo, político, grande, español, mellor, público, propio, social, económico -->
-    <tag name="ADP">3806</tag><!-- de, en, a, por, con, para, sen, sobre, entre, desde -->
+    <tag name="ADJ">1719</tag><!-- galego, novo, político, grande, español, mellor, público, propio, social, económico -->
+    <tag name="ADP">3807</tag><!-- de, en, a, por, con, para, sen, sobre, entre, desde -->
     <tag name="ADV">1186</tag><!-- non, máis, como, tamén, moito, xa, así, aínda, agora, cando -->
     <tag name="AUX">644</tag><!-- ser, estar, poder, ir, ter, deber, haber, vir, resultar, parecer -->
     <tag name="CCONJ">730</tag><!-- e, ou, nin, quer, máis -->
@@ -25,18 +25,18 @@
     <tag name="PROPN">1594</tag><!-- galiza, bng, estado, ferrol, estatuto, prestige, vigo, manuel, PP, quixote -->
     <tag name="PUNCT">2692</tag><!-- ,, ., ", (, ), ?, ', _, :, ... -->
     <tag name="SCONJ">565</tag><!-- que, pero, como, se, porque, senón, mais, pois, coma, ca -->
-    <tag name="SYM">7</tag><!-- %, /, 687 614 874, manuelmaria@as-pg.com, podo, www.bng-galiza.org, www.novoestatuto.com -->
+    <tag name="SYM">7</tag><!-- %, /, 687 614 874, m​a​n​u​e​l​m​a​r​i​a​@​a​s​-​p​g​.​c​o​m, podo, www.bng-galiza.org, www.novoestatuto.com -->
     <tag name="VERB">2341</tag><!-- ter, facer, haber, dar, dicir, querer, ver, pasar, falar, chegar -->
     <tag name="X">8</tag><!-- etc, etc., ZP -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="44">
-    <feat name="AdpType" value="Prep" upos="ADJ,ADP">3799</feat><!-- de, en, a, por, con, para, sen, sobre, entre, desde -->
+    <feat name="AdpType" value="Prep" upos="ADP">3799</feat><!-- de, en, a, por, con, para, sen, sobre, entre, desde -->
     <feat name="Case" value="Acc" upos="PRON">107</feat><!-- o, nos, lo, a, as, os, me, no, los, na -->
     <feat name="Case" value="Dat" upos="PRON">121</feat><!-- lle, nos, lles, me, che -->
     <feat name="Case" value="Nom" upos="PRON">27</feat><!-- eu, el, vostede, nós, ti, eles -->
     <feat name="Clitic" value="Yes" upos="PRON">471</feat><!-- se, lle, nos, o, me, lo, lles, a, as, os -->
-    <feat name="Definite" value="Def" upos="DET,PRON">2990</feat><!-- a, o, os, as, lo, la, los, las -->
+    <feat name="Definite" value="Def" upos="DET,PRON">2989</feat><!-- o, a, os, as, lo, la, los, las -->
     <feat name="Definite" value="Ind" upos="DET">462</feat><!-- un, unha, uns, unhas -->
     <feat name="Degree" value="Cmp" upos="ADJ">35</feat><!-- mellor, maior, maiores, peor, meirande, mellores, menor -->
     <feat name="Degree" value="Sup" upos="ADJ">5</feat><!-- máximo, altísimo, importantísima, máxima -->
@@ -89,7 +89,7 @@
     <dep name="cc">793</dep>
     <dep name="ccomp">219</dep>
     <dep name="compound">23</dep>
-    <dep name="conj">1038</dep>
+    <dep name="conj">1037</dep>
     <dep name="cop">410</dep>
     <dep name="csubj">44</dep>
     <dep name="dep">1</dep>
@@ -110,7 +110,7 @@
     <dep name="obj">1169</dep>
     <dep name="obl">1296</dep>
     <dep name="orphan">1</dep>
-    <dep name="parataxis">61</dep>
+    <dep name="parataxis">62</dep>
     <dep name="punct">2692</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
