@@ -11,7 +11,7 @@
 9	dereito	dereito	NOUN	Scms	Gender=Masc|Number=Sing	7	obj	_	_
 10-11	á	_	_	_	_	_	_	_	_
 10	a	a	ADP	P	AdpType=Prep	12	case	_	_
-11	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	a	o	DET	Ddfs	Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	autodeterminación	autodeterminación	NOUN	Scfs	Gender=Fem|Number=Sing	9	nmod	_	_
 
 # sent_id = 5
