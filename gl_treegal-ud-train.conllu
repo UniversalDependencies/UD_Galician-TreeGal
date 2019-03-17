@@ -1304,7 +1304,7 @@
 16	este	este	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
 17	país	país	NOUN	Scms	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 18	,	,	PUNCT	Q,	_	17	punct	_	_
-19	incluído	incluír	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	13	advmod	_	_
+19	incluído	incluír	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	_
 20	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	universitario	universitario	ADJ	A0ms	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
 22	.	.	PUNCT	Q.	_	19	punct	_	_
@@ -5252,7 +5252,7 @@
 94	acelerada	acelerado	ADJ	A0fs	Gender=Fem|Number=Sing	95	amod	_	_
 95	urbanización	urbanización	NOUN	Scfs	Gender=Fem|Number=Sing	92	nmod	_	SpaceAfter=No
 96	"	"	PUNCT	Q"	_	22	punct	_	SpaceAfter=No
-97	.	.	PUNCT	Q.	_	95	punct	_	_
+97	.	.	PUNCT	Q.	_	16	punct	_	_
 
 # sent_id = 321
 # text = A nova organización contemplará particularmente os espazos metropolitanos de A Coruña-Ferrol e Vigo-Pontevedra, e dotaraos de institucións específicas.
@@ -8042,10 +8042,10 @@
 
 # sent_id = 448
 # text = Si ten que ver con ela a pegada 'marca deixada polo pé', polo que non deberiamos falar de pegadas dactilares ou dixitais senón de impresións (como en portugués) ao ser un contrasentido.
-1	Si	si	ADV	Wn	_	2	advmod	_	_
-2	ten	ter	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Si	si	ADV	Wn	_	4	advmod	_	_
+2	ten	ter	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	que	que	SCONJ	Cs	_	4	mark	_	_
-4	ver	ver	VERB	V0f000	VerbForm=Inf	2	xcomp	_	_
+4	ver	ver	VERB	V0f000	VerbForm=Inf	0	root	_	_
 5	con	con	ADP	P	AdpType=Prep	6	case	_	_
 6	ela	el	PRON	Rtp3fs	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -12085,10 +12085,10 @@
 42	adicar	adicar	VERB	V0f000	VerbForm=Inf	40	acl	_	_
 43	lles	lle	PRON	Rad3fp	Case=Dat|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	42	iobj	_	_
 44	pois	pois	SCONJ	Cs	_	48	mark	_	_
-45	tamén	tamén	ADV	Wn	_	46	advmod	_	_
-46	ten	ter	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	advcl	_	_
+45	tamén	tamén	ADV	Wn	_	48	advmod	_	_
+46	ten	ter	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	aux	_	_
 47	que	que	SCONJ	Cs	_	48	mark	_	_
-48	atender	atender	VERB	V0f000	VerbForm=Inf	46	xcomp	_	_
+48	atender	atender	VERB	V0f000	VerbForm=Inf	33	advcl	_	_
 49-50	ás	_	_	_	_	_	_	_	_
 49	a	a	ADP	P	AdpType=Prep	51	case	_	_
 50	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	51	det	_	_
@@ -13178,10 +13178,10 @@
 68	forman	formar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	66	acl	_	_
 69	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	70	det	_	_
 70	libro	libro	NOUN	Scms	Gender=Masc|Number=Sing	68	obj	_	_
-71	nada	nada	ADV	Wn	_	72	advmod	_	_
-72	teñen	ter	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
+71	nada	nada	ADV	Wn	_	74	advmod	_	_
+72	teñen	ter	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	74	aux	_	_
 73	que	que	SCONJ	Cs	_	74	mark	_	_
-74	ver	ver	VERB	V0f000	VerbForm=Inf	72	xcomp	_	_
+74	ver	ver	VERB	V0f000	VerbForm=Inf	27	conj	_	_
 75-76	co	_	_	_	_	_	_	_	_
 75	con	con	ADP	P	AdpType=Prep	77	case	_	_
 76	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	77	det	_	_
@@ -15295,7 +15295,7 @@
 18	di	dicir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
 19	que	que	SCONJ	Cs	_	44	mark	_	_
 20	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
-21	"	"	PUNCT	Q"	_	44	punct	_	SpaceAfter=No
+21	"	"	PUNCT	Q"	_	22	punct	_	SpaceAfter=No
 22	pobos	pobo	NOUN	Scmp	Gender=Masc|Number=Plur	44	nsubj	_	_
 23	de	de	ADP	P	AdpType=Prep	24	case	_	_
 24	Europa	Europa	PROPN	Sp00	_	22	nmod	_	SpaceAfter=No
