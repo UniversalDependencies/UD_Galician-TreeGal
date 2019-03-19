@@ -927,9 +927,9 @@
 15	Instituto	instituto	PROPN	Spms	Gender=Masc|Number=Sing	12	nmod	_	_
 16	Cervantes	cervantes	PROPN	Spms	Gender=Masc|Number=Sing	15	nmod	_	_
 17	non	non	ADV	Wn	Polarity=Neg	23	advmod	_	_
-18	deixa	deixar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
-19	de	de	ADP	P	AdpType=Prep	18	fixed	_	_
-20	ser	ser	AUX	V0f000	VerbForm=Inf	18	fixed	_	_
+18	deixa	deixar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+19	de	de	ADP	P	AdpType=Prep	23	mark	_	_
+20	ser	ser	AUX	V0f000	VerbForm=Inf	23	cop	_	_
 21	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 22	bo	bo	ADJ	A0ms	Gender=Masc|Number=Sing	23	amod	_	_
 23	despropósito	despropósito	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
@@ -1451,9 +1451,9 @@
 17	en	en	ADP	P	AdpType=Prep	19	case	_	_
 18	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
 19	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	22	obl	_	_
-20	tratan	tratar	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+20	tratan	tratar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	_
 21	de	de	ADP	P	AdpType=Prep	22	mark	_	_
-22	perfilar	perfilar	VERB	V0f000	VerbForm=Inf	14	acl	_	_
+22	perfilar	perfilar	VERB	V0f000	VerbForm=Inf	20	xcomp	_	_
 23	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
 24	liñas	liña	NOUN	Scfp	Gender=Fem|Number=Plur	22	obj	_	_
 25	mestras	mestre	ADJ	A0fp	Gender=Fem|Number=Plur	24	amod	_	_

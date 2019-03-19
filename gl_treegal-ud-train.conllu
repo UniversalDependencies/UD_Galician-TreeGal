@@ -1058,10 +1058,10 @@
 7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	cabeza	cabeza	NOUN	Scfs	Gender=Fem|Number=Sing	5	nmod	_	_
 9	e	e	CCONJ	Cc	_	13	cc	_	_
-10	non	non	ADV	Wn	Polarity=Neg	13	advmod	_	_
-11	acerta	acertar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+10	non	non	ADV	Wn	Polarity=Neg	11	advmod	_	_
+11	acerta	acertar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 12	a	a	ADP	P	AdpType=Prep	13	mark	_	_
-13	comprender	comprender	VERB	V0f000	VerbForm=Inf	2	conj	_	_
+13	comprender	comprender	VERB	V0f000	VerbForm=Inf	11	xcomp	_	_
 14	como	como	ADV	Wg	PronType=Int	17	mark	_	_
 15	certos	certo	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	16	det	_	_
 16	túzaros	túzaro	NOUN	Scmp	Gender=Masc|Number=Plur	17	nsubj	_	_
@@ -1960,8 +1960,8 @@
 6	por	por	ADP	P	AdpType=Prep	8	case	_	_
 7	lo	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	sector	sector	NOUN	Scms	Gender=Masc|Number=Sing	5	obl	_	_
-9	considerado	considerar	AUX	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	10	cop	_	_
-10	galeguista	galeguista	ADJ	A0ms	Gender=Masc|Number=Sing	8	xcomp	_	_
+9	considerado	considerar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	_
+10	galeguista	galeguista	ADJ	A0ms	Gender=Masc|Number=Sing	9	xcomp	_	_
 11	dentro	dentro	ADV	Wn	_	14	advmod	_	_
 12-13	do	_	_	_	_	_	_	_	_
 12	de	de	ADP	P	AdpType=Prep	14	case	_	_
@@ -2907,9 +2907,9 @@
 19	ceibar	ceibar	VERB	V0f000	VerbForm=Inf	18	xcomp	_	_
 20	algunha	algún	DET	Idfs	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
 21	advertencia	advertencia	NOUN	Scfs	Gender=Fem|Number=Sing	19	obj	_	_
-22	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	24	nsubj	_	_
-23	adoita	adoitar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
-24	ter	ter	VERB	V0f000	VerbForm=Inf	21	acl	_	_
+22	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	23	nsubj	_	_
+23	adoita	adoitar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl	_	_
+24	ter	ter	VERB	V0f000	VerbForm=Inf	23	xcomp	_	_
 25	destinatarios	destinatario	NOUN	Scmp	Gender=Masc|Number=Plur	24	obj	_	_
 26	concretos	concreto	ADJ	A0mp	Gender=Masc|Number=Plur	25	amod	_	SpaceAfter=No
 27	.	.	PUNCT	Q.	_	12	punct	_	_
@@ -10220,11 +10220,11 @@
 11	a	a	ADP	P	AdpType=Prep	12	case	_	_
 12	Don	don	PROPN	Spms	Gender=Masc|Number=Sing	5	iobj	_	_
 13	Quixote	quixote	PROPN	Spms	Gender=Masc|Number=Sing	12	flat:name	_	SpaceAfter=No
-14	,	,	PUNCT	Q,	_	17	punct	_	_
-15	como	como	ADV	Wr	PronType=Rel	17	case	_	_
-16	adoita	adoitar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+14	,	,	PUNCT	Q,	_	16	punct	_	_
+15	como	como	ADV	Wr	PronType=Rel	16	case	_	_
+16	adoita	adoitar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 17-18	dicirse	_	_	_	_	_	_	_	SpaceAfter=No
-17	dicir	dicir	VERB	V0f000	VerbForm=Inf	5	parataxis	_	_
+17	dicir	dicir	VERB	V0f000	VerbForm=Inf	16	xcomp	_	_
 18	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	17	expl	_	_
 19	,	,	PUNCT	Q,	_	17	punct	_	_
 20	ata	ata	ADP	P	AdpType=Prep	21	mark	_	_
@@ -10533,8 +10533,8 @@
 11	tradutores	tradutor	NOUN	Scmp	Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	Q,	_	9	punct	_	_
 13	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	_
-14	quedou	quedar	AUX	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
-15	conformado	conformar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	9	acl	_	_
+14	quedou	quedar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl	_	_
+15	conformado	conformar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	14	xcomp	_	_
 16	por	por	ADP	P	AdpType=Prep	17	case	_	_
 17	Xavier	xavier	PROPN	Spm0	Gender=Masc	15	obl	_	_
 18	Senín	senín	PROPN	Spm0	Gender=Masc	17	flat:name	_	SpaceAfter=No
@@ -13992,9 +13992,9 @@
 5	a	a	ADP	P	AdpType=Prep	10	case	_	_
 6	quen	quen	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
 7	xa	xa	ADV	Wn	_	10	advmod	_	_
-8	estaba	estar	AUX	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
-9	considerado	considerar	AUX	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	10	cop	_	_
-10	un	un	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	3	ccomp	_	_
+8	estaba	estar	AUX	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+9	considerado	considerar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	_
+10	un	un	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	9	obj	_	_
 11-12	dos	_	_	_	_	_	_	_	_
 11	de	de	ADP	P	AdpType=Prep	15	case	_	_
 12	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
@@ -14497,9 +14497,9 @@
 11	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	concertista	concertista	NOUN	Scms	Gender=Masc|Number=Sing	15	nsubj	_	_
 13-14	vese	_	_	_	_	_	_	_	_
-13	ve	ver	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-14	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	15	expl	_	_
-15	obrigado	obrigar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
+13	ve	ver	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+14	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	13	expl	_	_
+15	obrigado	obrigar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	13	xcomp	_	_
 16	a	a	ADP	P	AdpType=Prep	17	mark	_	_
 17	arranxar	arranxar	VERB	V0f000	VerbForm=Inf	15	xcomp	_	_
 18	constantemente	constantemente	ADV	Wn	_	17	advmod	_	_
@@ -17866,9 +17866,9 @@
 18	até	até	ADP	P	AdpType=Prep	19	case	_	_
 19	agora	agora	ADV	Wn	_	17	advmod	_	_
 20	e	e	CCONJ	Cc	_	23	cc	_	_
-21	pasarán	pasar	AUX	Vfi30p	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	23	aux	_	_
+21	pasarán	pasar	VERB	Vfi30p	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	13	conj	_	_
 22	a	a	ADP	P	AdpType=Prep	23	mark	_	_
-23	engordar	engordar	VERB	V0f000	VerbForm=Inf	13	conj	_	_
+23	engordar	engordar	VERB	V0f000	VerbForm=Inf	21	xcomp	_	_
 24	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	nómina	nómina	NOUN	Scfs	Gender=Fem|Number=Sing	23	obj	_	_
 26	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	30	nsubj	_	_
@@ -18054,19 +18054,19 @@
 
 # sent_id = 974
 # text = Costa-Gavras, coa súa película Le Couperet, acaba de resaltar de forma dramática cómo humilla, aniquila, deprime e até pode volver a un tolo a perda do traballo.
-1	Costa-Gavras	Costa-Gavras	PROPN	Sp00	_	12	nsubj	_	SpaceAfter=No
+1	Costa-Gavras	Costa-Gavras	PROPN	Sp00	_	10	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Q,	_	6	punct	_	_
 3-4	coa	_	_	_	_	_	_	_	_
 3	con	con	ADP	P	AdpType=Prep	6	case	_	_
 4	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 5	súa	seu	DET	Md3sfs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
-6	película	película	NOUN	Scfs	Gender=Fem|Number=Sing	12	obl	_	_
+6	película	película	NOUN	Scfs	Gender=Fem|Number=Sing	10	obl	_	_
 7	Le	le	PROPN	Sp00	_	6	nmod	_	_
 8	Couperet	couperet	PROPN	Sp00	_	7	flat	_	SpaceAfter=No
 9	,	,	PUNCT	Q,	_	6	punct	_	_
-10	acaba	acabar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+10	acaba	acabar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	de	de	ADP	P	AdpType=Prep	12	mark	_	_
-12	resaltar	resaltar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+12	resaltar	resaltar	VERB	V0f000	VerbForm=Inf	10	xcomp	_	_
 13	de	de	ADP	P	AdpType=Prep	14	case	_	_
 14	forma	forma	NOUN	Scfs	Gender=Fem|Number=Sing	12	obl	_	_
 15	dramática	dramático	ADJ	A0fs	Gender=Fem|Number=Sing	14	amod	_	_
@@ -18302,12 +18302,12 @@
 3	nós	nós	PRON	Rtn1ap	Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
 4	deixamos	deixar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	acl	_	_
 5	non	non	ADV	Wn	Polarity=Neg	8	advmod	_	_
-6	pasa	pasar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+6	pasa	pasar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	a	a	ADP	P	AdpType=Prep	8	mark	_	_
 8-9	ocupalos	_	_	_	_	_	_	_	_
-8	ocupar	ocupar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+8	ocupar	ocupar	VERB	V0f000	VerbForm=Inf	6	xcomp	_	_
 9	los	o	PRON	Raa3mp	Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	expl	_	_
-10	ninguén	ninguén	PRON	Inas	Gender=Com|Number=Sing|PronType=Ind	8	nsubj	_	SpaceAfter=No
+10	ninguén	ninguén	PRON	Inas	Gender=Com|Number=Sing|PronType=Ind	6	nsubj	_	SpaceAfter=No
 11	.	.	PUNCT	Q.	_	8	punct	_	_
 
 # sent_id = 991
