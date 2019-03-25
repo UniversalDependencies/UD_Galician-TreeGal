@@ -686,7 +686,7 @@
 
 # sent_id = 52
 # text = Lech Walesa, líder histórico do sindicato polaco Solidariedade, que rematou co sistema socialista en Polonia, Nobel da Paz e devoto fillo da Igrexa Católica, vén de emprender unha aguda campaña contra unha popular emisora católica do seu país.
-1	Lech	lech	PROPN	Spm0	Gender=Masc	35	nsubj	_	_
+1	Lech	lech	PROPN	Spm0	Gender=Masc	33	nsubj	_	_
 2	Walesa	walesa	PROPN	Spm0	Gender=Masc	1	flat:name	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	1	punct	_	_
 4	líder	líder	NOUN	Scms	Gender=Masc|Number=Sing	1	appos	_	_
@@ -722,9 +722,9 @@
 30	Igrexa	igrexa	PROPN	Spfs	Gender=Fem|Number=Sing	27	nmod	_	_
 31	Católica	católico	ADJ	A0fs	Gender=Fem|Number=Sing	30	amod	_	SpaceAfter=No
 32	,	,	PUNCT	Q,	_	1	punct	_	_
-33	vén	vir	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	aux	_	_
+33	vén	vir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 34	de	de	ADP	P	AdpType=Prep	35	mark	_	_
-35	emprender	emprender	VERB	V0f000	VerbForm=Inf	0	root	_	_
+35	emprender	emprender	VERB	V0f000	VerbForm=Inf	33	xcomp	_	_
 36	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	38	det	_	_
 37	aguda	agudo	ADJ	A0fs	Gender=Fem|Number=Sing	38	amod	_	_
 38	campaña	campaña	NOUN	Scfs	Gender=Fem|Number=Sing	35	obj	_	_
@@ -2000,11 +2000,11 @@
 
 # sent_id = 142
 # text = Permanecerá relegado Miguel Barros?
-1	Permanecerá	permanecer	AUX	Vfi30s	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	cop	_	_
-2	relegado	relegar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-3	Miguel	miguel	PROPN	Spm0	Gender=Masc	2	nsubj	_	_
+1	Permanecerá	permanecer	VERB	Vfi30s	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	relegado	relegar	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	1	xcomp	_	_
+3	Miguel	miguel	PROPN	Spm0	Gender=Masc	1	nsubj	_	_
 4	Barros	barros	PROPN	Spm0	Gender=Masc	3	flat:name	_	SpaceAfter=No
-5	?	?	PUNCT	Q?	_	2	punct	_	_
+5	?	?	PUNCT	Q?	_	1	punct	_	_
 
 # sent_id = 145
 # text = Quen decidirá os candidatos ás futuras eleccións autonómicas e locais?
@@ -3432,12 +3432,12 @@
 11	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 12	quince	quince	NUM	Ncdmp	Gender=Masc|Number=Plur|NumType=Card	13	nummod	_	_
 13	días	día	NOUN	Scmp	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
-14	,	,	PUNCT	Q,	_	18	punct	_	_
-15	e	e	CCONJ	Cc	_	18	cc	_	_
-16	vén	vir	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+14	,	,	PUNCT	Q,	_	16	punct	_	_
+15	e	e	CCONJ	Cc	_	16	cc	_	_
+16	vén	vir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 17	de	de	ADP	P	AdpType=Prep	18	mark	_	_
-18	repetir	repetir	VERB	V0f000	VerbForm=Inf	10	conj	_	_
-19	agora	agora	ADV	Wn	_	18	advmod	_	SpaceAfter=No
+18	repetir	repetir	VERB	V0f000	VerbForm=Inf	16	xcomp	_	_
+19	agora	agora	ADV	Wn	_	16	advmod	_	SpaceAfter=No
 20	,	,	PUNCT	Q,	_	18	punct	_	_
 21	que	que	SCONJ	Cs	_	25	mark	_	_
 22	ENCE	ENCE	PROPN	Zg00	_	25	nsubj	_	_
@@ -5439,25 +5439,25 @@
 
 # sent_id = 430
 # text = Bush acaba de dar unha volta por Europa hai uns días, vestido de cow-boy, como sempre.
-1	Bush	Bush	PROPN	Sp00	_	4	nsubj	_	_
-2	acaba	acabar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+1	Bush	Bush	PROPN	Sp00	_	2	nsubj	_	_
+2	acaba	acabar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	P	AdpType=Prep	4	mark	_	_
-4	dar	dar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+4	dar	dar	VERB	V0f000	VerbForm=Inf	2	xcomp	_	_
 5	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	volta	volta	NOUN	Scfs	Gender=Fem|Number=Sing	4	obj	_	_
 7	por	por	ADP	P	AdpType=Prep	8	case	_	_
 8	Europa	Europa	PROPN	Sp00	_	6	nmod	_	_
-9	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 10	uns	un	DET	Dimp	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	días	día	NOUN	Scmp	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
-12	,	,	PUNCT	Q,	_	4	punct	_	_
+12	,	,	PUNCT	Q,	_	9	punct	_	_
 13	vestido	vestir	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
 14	de	de	ADP	P	AdpType=Prep	15	case	_	_
 15	cow-boy	cow-boy	NOUN	Scms	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	18	punct	_	_
 17	como	como	SCONJ	Cs	_	18	mark	_	_
 18	sempre	sempre	ADV	Wn	_	13	advmod	_	SpaceAfter=No
-19	.	.	PUNCT	Q.	_	4	punct	_	_
+19	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 432
 # text = Tamén os da OTAN.
@@ -5776,10 +5776,10 @@
 
 # sent_id = 465
 # text = Vén de ser elixido secretario xeral do novo Sindicato de Xornalistas de Galicia (SXG).
-1	Vén	vir	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+1	Vén	vir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	P	AdpType=Prep	4	mark	_	_
 3	ser	ser	AUX	V0f000	VerbForm=Inf	4	aux:pass	_	_
-4	elixido	elixir	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	elixido	elixir	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	1	xcomp	_	_
 5	secretario	secretario	NOUN	Scms	Gender=Masc|Number=Sing	4	xcomp	_	_
 6	xeral	xeral	ADJ	A0ms	Gender=Masc|Number=Sing	5	amod	_	_
 7-8	do	_	_	_	_	_	_	_	_
@@ -5794,7 +5794,7 @@
 15	(	(	PUNCT	Q(	_	16	punct	_	SpaceAfter=No
 16	SXG	SXG	PROPN	Zg00	_	10	appos	_	SpaceAfter=No
 17	)	)	PUNCT	Q)	_	16	punct	_	SpaceAfter=No
-18	.	.	PUNCT	Q.	_	4	punct	_	_
+18	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 467
 # text = Segundo Salgado, "necesitabamos esta organización nunha profesión de asalariados como é a nosa".
@@ -6522,15 +6522,15 @@
 # sent_id = 532
 # text = A Academia Galega do audiovisual vén de dar a coñecer os candidatos que competirán o vindeiro 20 de marzo na gala dos Premios Mestre Mateo 2004, unha cerimonia que se celebrará no Teatro Caixanova de Vigo.
 1	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	Academia	academia	PROPN	Spfs	Gender=Fem|Number=Sing	9	nsubj	_	_
+2	Academia	academia	PROPN	Spfs	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	Galega	galego	ADJ	A0fs	Gender=Fem|Number=Sing	2	amod	_	_
 4-5	do	_	_	_	_	_	_	_	_
 4	de	de	ADP	P	AdpType=Prep	6	case	_	_
 5	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	audiovisual	audiovisual	NOUN	Scms	Gender=Masc|Number=Sing	2	nmod	_	_
-7	vén	vir	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+7	vén	vir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	P	AdpType=Prep	9	mark	_	_
-9	dar	dar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+9	dar	dar	VERB	V0f000	VerbForm=Inf	7	xcomp	_	_
 10	a	a	ADP	P	AdpType=Prep	11	mark	_	_
 11	coñecer	coñecer	VERB	V0f000	VerbForm=Inf	9	xcomp	_	_
 12	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
@@ -7713,10 +7713,10 @@
 12	dous	dous	NUM	Ncdmp	Gender=Masc|Number=Plur|NumType=Card	13	nummod	_	_
 13	compañeiros	compañeiro	NOUN	Scmp	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	6	punct	_	_
-15	que	que	PRON	Tnmp	Gender=Masc|Number=Plur|PronType=Rel	18	nsubj	_	_
-16	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	18	expl	_	_
-17	viron	ver	AUX	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
-18	obrigados	obrigar	VERB	V0p0mp	Gender=Masc|Number=Plur|VerbForm=Part	6	acl	_	_
+15	que	que	PRON	Tnmp	Gender=Masc|Number=Plur|PronType=Rel	17	nsubj	_	_
+16	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	17	expl	_	_
+17	viron	ver	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	_
+18	obrigados	obrigar	VERB	V0p0mp	Gender=Masc|Number=Plur|VerbForm=Part	17	xcomp	_	_
 19	a	a	ADP	P	AdpType=Prep	20	mark	_	_
 20-21	botarse	_	_	_	_	_	_	_	_
 20	botar	botar	VERB	V0f000	VerbForm=Inf	18	xcomp	_	_
@@ -8747,8 +8747,8 @@
 14	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	día	día	NOUN	Scms	Gender=Masc|Number=Sing	4	nmod	_	_
 16	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	_
-17	permanecería	permanecer	AUX	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	18	cop	_	_
-18	imborrábel	imborrábel	ADJ	A0ms	Gender=Masc|Number=Sing	15	acl	_	_
+17	permanecería	permanecer	VERB	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	15	acl	_	_
+18	imborrábel	imborrábel	ADJ	A0ms	Gender=Masc|Number=Sing	17	xcomp	_	_
 19-20	na	_	_	_	_	_	_	_	_
 19	en	en	ADP	P	AdpType=Prep	22	case	_	_
 20	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
