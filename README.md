@@ -8,15 +8,11 @@ The resource derives from a subset (called *xeral*) of the XIADA corpus (v2.6), 
 
 All the information except the syntactic one was semi-automatically converted to UD from the original resource. The dependency labels were assigned using cross-lingual parsing techniques, and then manually corrected by a linguist (see the references for more information). At the end of this process, several corrections were carried out in order to agree with the UD guidelines.
 
-Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 20-40-40 splits (train-dev-test).
+Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 60-40 splits (train-test).
 
 # Differences from the generic Galician guidelines
 
 ## Morphology
-
-### Tags
-* Following the UD guidelines, the Galician-TreeGal treebank uses [AUX]() in the following cases:
-  * Modal, temporal and aspectual verbs: These verbs are considered auxiliary of the verb they depend on (e.g., "*debe* conducirnos" or "*deixa* de ser"). Similarly, auxiliary verbs in verbal periphrases are also tagged as [AUX]() (e.g., "*vai* gañar").
 
 ### Features
 * The Galician-TreeGal treebank uses the following morphological features:
@@ -34,7 +30,7 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
   * Clitic pronouns inflect for [Case]() with three values (nominative, accusative, dative).
   * Determiners agree with nouns in the same way as adjectives.
 
-For more information, see Garcia, Marcos (2016), [Universal Dependencies Guidelines for the Galician-TreeGal Treebank](http://www.grupolys.org/~marcos/papers/GL_UD_guidelines.pdf).
+For more information, see Garcia, Marcos (2016), [Universal Dependencies Guidelines for the Galician-TreeGal Treebank](http://www.grupolys.org/~marcos/papers/GL_UD_guidelines.pdf) (note that this document follows old UD guidelines).
 
 ## Syntax
 
