@@ -5336,19 +5336,19 @@
 # text = Se se usa coche en Santiago, acabar baixo terra resulta case obrigado, pagando, desde abril, por cuartos de hora.
 1	Se	se	SCONJ	Cs	_	3	mark	_	_
 2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	3	expl	_	_
-3	usa	usar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+3	usa	usar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 4	coche	coche	NOUN	Scms	Gender=Masc|Number=Sing	3	obj	_	_
 5	en	en	ADP	P	AdpType=Prep	6	case	_	_
 6	Santiago	Santiago	PROPN	Sp00	_	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	Q,	_	3	punct	_	_
-8	acabar	acabar	VERB	V0f000	VerbForm=Inf	13	nsubj	_	_
+8	acabar	acabar	VERB	V0f000	VerbForm=Inf	11	csubj	_	_
 9	baixo	baixo	ADP	P	AdpType=Prep	10	case	_	_
 10	terra	terra	NOUN	Scfs	Gender=Fem|Number=Sing	8	obl	_	_
-11	resulta	resultar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+11	resulta	resultar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	case	case	ADV	Wm	_	13	advmod	_	_
-13	obrigado	obrigado	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+13	obrigado	obrigado	ADJ	A0ms	Gender=Masc|Number=Sing	11	xcomp	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	15	punct	_	_
-15	pagando	pagar	VERB	V0x000	VerbForm=Ger	13	advcl	_	SpaceAfter=No
+15	pagando	pagar	VERB	V0x000	VerbForm=Ger	11	advcl	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	15	punct	_	_
 17	desde	desde	ADP	P	AdpType=Prep	18	case	_	_
 18	abril	abril	NOUN	Scms	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
@@ -7883,14 +7883,14 @@
 # text = Un narrador que, como sinalamos, resulta pouco eficiente á hora de atender as diversas caras do prisma, as diferentes frontes da historia que relata.
 1	Un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	narrador	narrador	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
-3	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	SpaceAfter=No
+3	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	6	punct	_	_
 5	como	como	ADV	Wr	PronType=Rel	6	advmod	_	_
-6	sinalamos	sinalar	VERB	Vei10p	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+6	sinalamos	sinalar	VERB	Vei10p	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	8	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	Q,	_	6	punct	_	_
-8	resulta	resultar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	resulta	resultar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
 9	pouco	pouco	ADV	Wm	_	10	advmod	_	_
-10	eficiente	eficiente	ADJ	A0ms	Gender=Masc|Number=Sing	2	acl	_	_
+10	eficiente	eficiente	ADJ	A0ms	Gender=Masc|Number=Sing	8	xcomp	_	_
 11-12	á	_	_	_	_	_	_	_	_
 11	a	a	ADP	P	AdpType=Prep	13	case	_	_
 12	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -9275,15 +9275,15 @@
 12	pois	pois	SCONJ	Cs	_	13	mark	_	_
 13	teñen	ter	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 14	obras	obra	NOUN	Scfp	Gender=Fem|Number=Plur	13	obj	_	_
-15	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	23	nsubj	_	SpaceAfter=No
+15	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	22	nsubj	_	SpaceAfter=No
 16	,	,	PUNCT	Q,	_	20	punct	_	_
 17	aínda	aínda	ADV	Wn	_	20	advmod	_	_
 18	sendo	ser	AUX	V0x000	VerbForm=Ger	20	cop	_	_
 19	tecnicamente	tecnicamente	ADV	Wm	_	20	advmod	_	_
-20	fáciles	fácil	ADJ	A0fp	Gender=Fem|Number=Plur	23	advcl	_	SpaceAfter=No
+20	fáciles	fácil	ADJ	A0fp	Gender=Fem|Number=Plur	22	advcl	_	SpaceAfter=No
 21	,	,	PUNCT	Q,	_	20	punct	_	_
-22	resultan	resultar	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
-23	bonitas	bonito	ADJ	A0fp	Gender=Fem|Number=Plur	14	acl	_	SpaceAfter=No
+22	resultan	resultar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	_
+23	bonitas	bonito	ADJ	A0fp	Gender=Fem|Number=Plur	22	xcomp	_	SpaceAfter=No
 24	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 785
@@ -10546,13 +10546,13 @@
 4	outros	outro	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	6	nsubj	_	_
 5	non	non	ADV	Wn	Polarity=Neg	6	advmod	_	_
 6	ven	ver	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
-7	_	_	PUNCT	Q_	_	12	punct	_	SpaceAfter=No
-8	por	por	ADP	P	AdpType=Prep	12	mark	_	_
+7	_	_	PUNCT	Q_	_	11	punct	_	SpaceAfter=No
+8	por	por	ADP	P	AdpType=Prep	11	mark	_	_
 9	moito	moito	ADV	Wn	_	8	fixed	_	_
 10	que	que	SCONJ	Cs	_	8	fixed	_	_
-11	resulte	resultar	AUX	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
-12	obvio	obvio	ADJ	A0ms	Gender=Masc|Number=Sing	1	advcl	_	SpaceAfter=No
-13	_	_	PUNCT	Q_	_	12	punct	_	_
+11	resulte	resultar	VERB	Vps30s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+12	obvio	obvio	ADJ	A0ms	Gender=Masc|Number=Sing	11	xcomp	_	SpaceAfter=No
+13	_	_	PUNCT	Q_	_	11	punct	_	_
 14	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 15	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	mérito	mérito	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
@@ -10663,12 +10663,12 @@
 # sent_id = 885
 # text = As visións do tema resultan esteticamente (aínda que non eticamente) opostas, con resultado claramente favorábel ao director español.
 1	As	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
-2	visións	visión	NOUN	Scfp	Gender=Fem|Number=Plur	14	nsubj	_	_
+2	visións	visión	NOUN	Scfp	Gender=Fem|Number=Plur	6	nsubj	_	_
 3-4	do	_	_	_	_	_	_	_	_
 3	de	de	ADP	P	AdpType=Prep	5	case	_	_
 4	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	tema	tema	NOUN	Scms	Gender=Masc|Number=Sing	2	nmod	_	_
-6	resultan	resultar	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+6	resultan	resultar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	esteticamente	esteticamente	ADV	Wm	_	14	advmod	_	_
 8	(	(	PUNCT	Q(	_	12	punct	_	SpaceAfter=No
 9	aínda	aínda	ADV	Wn	_	12	cc	_	_
@@ -10676,10 +10676,10 @@
 11	non	non	ADV	Wm	Polarity=Neg	12	advmod	_	_
 12	eticamente	eticamente	ADV	Wn	_	7	conj	_	SpaceAfter=No
 13	)	)	PUNCT	Q)	_	12	punct	_	_
-14	opostas	oposto	ADJ	A0fp	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+14	opostas	oposto	ADJ	A0fp	Gender=Fem|Number=Plur	6	xcomp	_	SpaceAfter=No
 15	,	,	PUNCT	Q,	_	17	punct	_	_
 16	con	con	ADP	P	AdpType=Prep	17	case	_	_
-17	resultado	resultado	NOUN	Scms	Gender=Masc|Number=Sing	14	obl	_	_
+17	resultado	resultado	NOUN	Scms	Gender=Masc|Number=Sing	6	obl	_	_
 18	claramente	claramente	ADV	Wm	_	19	advmod	_	_
 19	favorábel	favorábel	ADJ	A0ms	Gender=Masc|Number=Sing	17	amod	_	_
 20-21	ao	_	_	_	_	_	_	_	_
@@ -11619,9 +11619,9 @@
 31	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	sector	sector	NOUN	Scms	Gender=Masc|Number=Sing	29	nmod	_	_
 33	naval	naval	ADJ	A0ms	Gender=Masc|Number=Sing	32	amod	_	_
-34	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	36	nsubj	_	_
-35	parece	parecer	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
-36	disposta	dispoñer	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	29	acl	_	_
+34	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	35	nsubj	_	_
+35	parece	parecer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	acl	_	_
+36	disposta	dispoñer	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	35	xcomp	_	_
 37	a	a	ADP	P	AdpType=Prep	38	mark	_	_
 38	rematar	rematar	VERB	V0f000	VerbForm=Inf	36	ccomp	_	_
 39	definitivamente	definitivamente	ADV	Wn	_	38	advmod	_	_

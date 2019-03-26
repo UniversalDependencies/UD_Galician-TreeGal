@@ -3605,12 +3605,12 @@
 # text = Esas expresións que moi axiña nos parece imposíbel que non tivesen existido antes.
 1	Esas	ese	DET	Edfp	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
 2	expresións	expresión	NOUN	Scfp	Gender=Fem|Number=Plur	0	root	_	_
-3	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	8	nsubj	_	_
+3	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	7	nsubj	_	_
 4	moi	moito	ADV	Wm	_	5	advmod	_	_
-5	axiña	axiña	ADV	Wn	_	8	advmod	_	_
-6	nos	nos	PRON	Rad1ap	Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	8	iobj	_	_
-7	parece	parecer	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	imposíbel	imposíbel	ADJ	A0ms	Gender=Masc|Number=Sing	2	acl	_	_
+5	axiña	axiña	ADV	Wn	_	7	advmod	_	_
+6	nos	nos	PRON	Rad1ap	Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
+7	parece	parecer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+8	imposíbel	imposíbel	ADJ	A0ms	Gender=Masc|Number=Sing	7	xcomp	_	_
 9	que	que	SCONJ	Cs	_	12	mark	_	_
 10	non	non	ADV	Wn	Polarity=Neg	12	advmod	_	_
 11	tivesen	ter	AUX	Ves30p	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
@@ -3709,8 +3709,8 @@
 
 # sent_id = 209
 # text = Como ten que ser.
-1	Como	como	ADV	Wr	PronType=Rel	0	root	_	_
-2	ten	ter	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+1	Como	como	ADV	Wr	PronType=Rel	2	advmod	_	_
+2	ten	ter	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	Cs	_	2	fixed	_	_
 4	ser	ser	AUX	V0f000	VerbForm=Inf	2	fixed	_	SpaceAfter=No
 5	.	.	PUNCT	Q.	_	4	punct	_	_
@@ -4905,11 +4905,11 @@
 
 # sent_id = 304
 # text = Poden parecelo.
-1	Poden	poder	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+1	Poden	poder	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
 2-3	parecelo	_	_	_	_	_	_	_	SpaceAfter=No
-2	parecer	parecer	AUX	V0f000	VerbForm=Inf	3	cop	_	_
-3	lo	o	PRON	Raa3ms	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
-4	.	.	PUNCT	Q.	_	3	punct	_	_
+2	parecer	parecer	VERB	V0f000	VerbForm=Inf	0	root	_	_
+3	lo	o	PRON	Raa3ms	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 306
 # text = O director xeral de Costas ten a mesma postura e a ministra de Medio Ambiente é rotunda.
@@ -7535,11 +7535,11 @@
 3	escollendo	escoller	VERB	V0x000	VerbForm=Ger	2	xcomp	_	_
 4	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	opción	opción	NOUN	Scfs	Gender=Fem|Number=Sing	3	obj	_	_
-6	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	10	obj	_	_
-7	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-8	parece	parecer	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+6	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	8	obj	_	_
+7	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	parece	parecer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
 9	menos	menos	ADV	Wm	_	10	advmod	_	_
-10	mala	malo	ADJ	A0fs	Gender=Fem|Number=Sing	5	acl	_	_
+10	mala	malo	ADJ	A0fs	Gender=Fem|Number=Sing	8	xcomp	_	_
 11	pero	pero	SCONJ	Cs	_	15	cc	_	_
 12	nunca	nunca	ADV	Wn	Polarity=Neg	15	advmod	_	_
 13	está	estar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
@@ -12116,10 +12116,10 @@
 1	Concretamente	concretamente	ADV	Wn	_	3	advmod	_	_
 2-3	nesta	_	_	_	_	_	_	_	_
 2	en	en	ADP	P	AdpType=Prep	3	case	_	_
-3	esta	este	PRON	Enfs	Gender=Fem|Number=Sing|PronType=Dem	5	obl	_	_
-4	resulta	resultar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	dificil	dificil	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	_
-6	sinalar	sinalar	VERB	V0f000	VerbForm=Inf	5	csubj	_	_
+3	esta	este	PRON	Enfs	Gender=Fem|Number=Sing|PronType=Dem	4	obl	_	_
+4	resulta	resultar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dificil	dificil	ADJ	A0ms	Gender=Masc|Number=Sing	4	xcomp	_	_
+6	sinalar	sinalar	VERB	V0f000	VerbForm=Inf	4	csubj	_	_
 7	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 8	máis	máis	ADV	Wm	_	9	advmod	_	_
 9	salientábeis	salientábel	ADJ	A0fp	Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
@@ -12127,7 +12127,7 @@
 11	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 12	mellor	mellor	ADV	Wm	_	13	advmod	_	_
 13	configuradas	configurado	ADJ	A0fp	Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
-14	.	.	PUNCT	Q.	_	5	punct	_	_
+14	.	.	PUNCT	Q.	_	4	punct	_	_
 
 # sent_id = 638
 # text = Porque todas padecen de falta de credibilidade, son moi pouco críbeis xa desde uns parlamentos nos que fan gala de vocabulario e expresións impropios para a súa condición, producíndose nivelación estilística entre as intervencións das personaxes e a do narrador, isto ademais de mostraren un exceso de idealización que tamén as penaliza.
@@ -12282,12 +12282,12 @@
 44	entre	entre	ADP	P	AdpType=Prep	46	case	_	_
 45	todas	todo	DET	Idfp	Gender=Fem|Number=Plur|PronType=Ind	46	det	_	_
 46	elas	el	PRON	Rtp3fp	Gender=Fem|Number=Plur|Person=3|PronType=Prs	43	obl	_	_
-47	e	e	CCONJ	Cc	_	52	cc	_	_
-48	todas	todo	PRON	Infp	Gender=Fem|Number=Plur|PronType=Ind	52	nsubj	_	_
-49	resultan	resultar	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	52	cop	_	_
+47	e	e	CCONJ	Cc	_	49	cc	_	_
+48	todas	todo	PRON	Infp	Gender=Fem|Number=Plur|PronType=Ind	49	nsubj	_	_
+49	resultan	resultar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	43	conj	_	_
 50	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	51	det	_	_
 51	tanto	tanto	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	52	obl	_	_
-52	insubstanciais	insubstancial	ADJ	A0fp	Gender=Fem|Number=Plur	43	conj	_	SpaceAfter=No
+52	insubstanciais	insubstancial	ADJ	A0fp	Gender=Fem|Number=Plur	49	xcomp	_	SpaceAfter=No
 53	.	.	PUNCT	Q.	_	2	punct	_	_
 
 # sent_id = 643
@@ -15378,15 +15378,15 @@
 # sent_id = 839
 # text = O tratamento da lingua galega resulta especialmente valioso.
 1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	tratamento	tratamento	NOUN	Scms	Gender=Masc|Number=Sing	9	nsubj	_	_
+2	tratamento	tratamento	NOUN	Scms	Gender=Masc|Number=Sing	7	nsubj	_	_
 3-4	da	_	_	_	_	_	_	_	_
 3	de	de	ADP	P	AdpType=Prep	5	case	_	_
 4	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	lingua	lingua	NOUN	Scfs	Gender=Fem|Number=Sing	2	nmod	_	_
 6	galega	galego	ADJ	A0fs	Gender=Fem|Number=Sing	5	amod	_	_
-7	resulta	resultar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	resulta	resultar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	especialmente	especialmente	ADV	Wm	_	9	advmod	_	_
-9	valioso	valioso	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+9	valioso	valioso	ADJ	A0ms	Gender=Masc|Number=Sing	7	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	Q.	_	9	punct	_	_
 
 # sent_id = 841
