@@ -2592,7 +2592,7 @@
 
 # sent_id = 192
 # text = Eis a Verdi e a Whitman e a Gaudí sen ir máis lonxe.
-1	Eis	eis	AUX	Wn	_	3	cop	_	_
+1	Eis	eis	ADV	Wn	_	3	advmod	_	_
 2	a	a	ADP	P	AdpType=Prep	3	case	_	_
 3	Verdi	Verdi	PROPN	Sp00	_	0	root	_	_
 4	e	e	CCONJ	Cc	_	6	cc	_	_
