@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Galician-TreeGal:
-commit 498d14dd7d292c9194e3560a6cb9a6a3c511b7d7
-Merge: b251ee9 58d7d04
+commit bacdb2ac9c93ef59f1a8972edc5d082dd51b308d
+Merge: 36f775f 88a3dce
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 25548 of 25548 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.48111807139869.
@@ -15,11 +15,11 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 20030 out of 25548 total words have one or more features.
+Features: 20036 out of 25548 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 193 bugs.
+Udapi: found 87 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 25548 words.
 Genres: found 1 out of 17 known.
 validate.py --lang gl --max-err=10 UD_Galician-TreeGal/gl_treegal-ud-test.conllu
@@ -33,8 +33,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.469118969161982) = 0.120286915169739
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
-(weight=0.307692307692308) * (score{udapi}=0.92445592609989) = 0.284447977261505
+(weight=0.307692307692308) * (score{udapi}=0.965946453734147) = 0.297214293456661
 (weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.73077785847421) * (availability=1) * (validity=1) = 0.73077785847421
+(TOTAL score=0.743544174669366) * (availability=1) * (validity=1) = 0.743544174669366
 STARS = 3.5
-UD_Galician-TreeGal	0.73077785847421	3.5
+UD_Galician-TreeGal	0.743544174669366	3.5
