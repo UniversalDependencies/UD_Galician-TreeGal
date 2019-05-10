@@ -8,17 +8,11 @@ The resource derives from a subset (called *xeral*) of the XIADA corpus (v2.6), 
 
 All the information except the syntactic one was semi-automatically converted to UD from the original resource. The dependency labels were assigned using cross-lingual parsing techniques, and then manually corrected by a linguist (see the references for more information). At the end of this process, several corrections were carried out in order to agree with the UD guidelines.
 
-Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 20-40-40 splits (train-dev-test).
+Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 60-40 splits (train-test).
 
 # Differences from the generic Galician guidelines
 
 ## Morphology
-
-### Tags
-* The Galician-TreeGal treebank uses [AUX]() in the following cases:
-  * Pseudo-copulative verbs: are tagged as [AUX]() when they function as copula (e.g., "Miguel Barros *permanecerá*
-relegado").
-  * Modal, temporal and aspectual verbs: These verbs are considered auxiliary of the verb they depend on (e.g., "*debe* conducirnos" or "*deixa* de ser"). Similarly, auxiliary verbs in verbal periphrases are also tagged as [AUX]() (e.g., "*vai* gañar").
 
 ### Features
 * The Galician-TreeGal treebank uses the following morphological features:
@@ -36,11 +30,10 @@ relegado").
   * Clitic pronouns inflect for [Case]() with three values (nominative, accusative, dative).
   * Determiners agree with nouns in the same way as adjectives.
 
-For more information, see Garcia, Marcos (2016), [Universal Dependencies Guidelines for the Galician-TreeGal Treebank](http://www.grupolys.org/~marcos/papers/GL_UD_guidelines.pdf).
+For more information, see Garcia, Marcos (2016), [Universal Dependencies Guidelines for the Galician-TreeGal Treebank](http://www.grupolys.org/~marcos/papers/GL_UD_guidelines.pdf) (note that this document follows old UD guidelines).
 
 ## Syntax
 
-* Apart from the verbs *ser*, *estar*, and *parecer*, Galician-Treegal labels as [aux]() pseudo-copulative verbs as well as modal, temporal and aspectual auxiliary verbs (see the POS-tags section above).
 * Galician-TreeGal uses four dependency relation subtypes:
   * [aux:pass]() for passive auxiliaries.
   * [flat:name]() for exocentric complex names.
@@ -69,6 +62,11 @@ For more information, see Garcia, Marcos (2016), [Universal Dependencies Guideli
 * The dependency labels need to be reviewed by another expert to calculate inter-annotator agreement.
 
 # Changelog
+* 2019-03-26 v0.42:
+  * Correction of AUX verbs and some others POS-tags.
+  * Adaptation of copulative analysis to the latest UD guidelines.
+  * Minor review of other cases.
+
 * 2018-03-21 v0.41:
   * Few features and POS corrections.
   * 'orphan' dependency correction.
