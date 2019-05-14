@@ -83,7 +83,7 @@ For more information, see Garcia, Marcos (2016), [Universal Dependencies Guideli
 Documentation status: partial
 Data source: manual
 Data available since: UD v1.4
-License: LGPLLR
+License: LGPL-LR
 Genre: news
 Includes text: yes
 Lemmas: manual native
