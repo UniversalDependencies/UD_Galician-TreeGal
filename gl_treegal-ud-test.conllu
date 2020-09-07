@@ -3438,7 +3438,7 @@
 17	de	de	ADP	P	AdpType=Prep	18	mark	_	_
 18	repetir	repetir	VERB	V0f000	VerbForm=Inf	16	xcomp	_	_
 19	agora	agora	ADV	Wn	_	16	advmod	_	SpaceAfter=No
-20	,	,	PUNCT	Q,	_	18	punct	_	_
+20	,	,	PUNCT	Q,	_	16	punct	_	_
 21	que	que	SCONJ	Cs	_	25	mark	_	_
 22	ENCE	ENCE	PROPN	Zg00	_	25	nsubj	_	_
 23	ten	ter	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
@@ -4606,7 +4606,7 @@
 8	Manuel	manuel	PROPN	Spm0	Gender=Masc	7	flat:name	_	_
 9	Gómez	gómez	PROPN	Spm0	Gender=Masc	7	flat:name	_	_
 10	Leis	leis	PROPN	Spm0	Gender=Masc	7	flat:name	_	SpaceAfter=No
-11	,	,	PUNCT	Q,	_	9	punct	_	_
+11	,	,	PUNCT	Q,	_	7	punct	_	_
 12	e	e	CCONJ	Cc	_	13	cc	_	_
 13	Francisco	francisco	PROPN	Spm0	Gender=Masc	2	conj	_	_
 14	Iglesias	iglesias	PROPN	Spm0	Gender=Masc	13	flat:name	_	SpaceAfter=No
@@ -7561,7 +7561,7 @@
 43	,	,	PUNCT	Q,	_	42	punct	_	_
 44	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	_
 45	poesía	poesía	NOUN	Scfs	Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
-46	,	,	PUNCT	Q,	_	48	punct	_	_
+46	,	,	PUNCT	Q,	_	49	punct	_	_
 47-48	no	_	_	_	_	_	_	_	_
 47	en	en	ADP	P	AdpType=Prep	49	case	_	_
 48	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	_

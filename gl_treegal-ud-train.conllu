@@ -8393,7 +8393,7 @@
 27	:	:	PUNCT	Q:	_	29	punct	_	_
 28	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	football	football	NOUN	Sc00	_	9	nmod	_	SpaceAfter=No
-30	.	.	PUNCT	Q.	_	28	punct	_	_
+30	.	.	PUNCT	Q.	_	1	punct	_	_
 
 # sent_id = 463
 # text = Xurxo Salgado
@@ -10718,7 +10718,7 @@
 53	nos	nos	PRON	Rad1ap	Case=Dat|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	52	iobj	_	_
 54	Valentín	valentín	PROPN	Spm0	Gender=Masc	52	nsubj	_	_
 55	Arias	arias	PROPN	Spm0	Gender=Masc	54	flat:name	_	SpaceAfter=No
-56	,	,	PUNCT	Q,	_	58	punct	_	_
+56	,	,	PUNCT	Q,	_	60	punct	_	_
 57	pero	pero	SCONJ	Cs	_	60	cc	_	_
 58	habería	haber	AUX	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	60	aux	_	_
 59	que	que	SCONJ	Cs	_	60	mark	_	_
@@ -17805,7 +17805,7 @@
 57	por	por	ADP	P	AdpType=Prep	59	case	_	_
 58	la	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	59	det	_	_
 59	CIG	CIG	PROPN	Zgfs	Gender=Fem|Number=Sing	56	obl	_	SpaceAfter=No
-60	,	,	PUNCT	Q,	_	58	punct	_	_
+60	,	,	PUNCT	Q,	_	59	punct	_	_
 61	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	63	nsubj	_	_
 62	os	o	PRON	Raa3mp	Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	63	obj	_	_
 63	leva	levar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	acl	_	_
@@ -18308,7 +18308,7 @@
 8	ocupar	ocupar	VERB	V0f000	VerbForm=Inf	6	xcomp	_	_
 9	los	o	PRON	Raa3mp	Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	expl	_	_
 10	ninguén	ninguén	PRON	Inas	Gender=Com|Number=Sing|PronType=Ind	6	nsubj	_	SpaceAfter=No
-11	.	.	PUNCT	Q.	_	8	punct	_	_
+11	.	.	PUNCT	Q.	_	6	punct	_	_
 
 # sent_id = 991
 # text = O anterior expediente, o de 1999, foi mellor ca este.
