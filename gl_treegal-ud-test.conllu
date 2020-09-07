@@ -3438,7 +3438,7 @@
 17	de	de	ADP	P	AdpType=Prep	18	mark	_	_
 18	repetir	repetir	VERB	V0f000	VerbForm=Inf	16	xcomp	_	_
 19	agora	agora	ADV	Wn	_	16	advmod	_	SpaceAfter=No
-20	,	,	PUNCT	Q,	_	16	punct	_	_
+20	,	,	PUNCT	Q,	_	25	punct	_	_
 21	que	que	SCONJ	Cs	_	25	mark	_	_
 22	ENCE	ENCE	PROPN	Zg00	_	25	nsubj	_	_
 23	ten	ter	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
