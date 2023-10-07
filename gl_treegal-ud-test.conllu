@@ -1013,11 +1013,11 @@
 # sent_id = 72
 # text = ¡Meu Deus!
 1-2	¡Meu	_	_	_	_	_	_	_	_
-1	¡	¡	PUNCT	Q¡	_	2	punct	_	_
-2	meu	meu	DET	Md1sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+1	¡	¡	PUNCT	Q¡	_	3	punct	_	_
+2	meu	meu	DET	Md1sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
 3-4	Deus!	_	_	_	_	_	_	_	_
-3	Deus	deus	PROPN	Spms	Gender=Masc|Number=Sing	2	fixed	_	_
-4	!	!	PUNCT	Q!	_	2	punct	_	_
+3	Deus	deus	PROPN	Spms	Gender=Masc|Number=Sing	0	root	_	_
+4	!	!	PUNCT	Q!	_	3	punct	_	_
 
 # sent_id = 75
 # text = Porque pavor é o que un sente só de pensar que xente así ten o privilexio de ensinar a outros, isto é, licenza para deformar e empobrecer.
