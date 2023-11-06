@@ -96,10 +96,10 @@
     <dep name="cop">393</dep>
     <dep name="csubj">45</dep>
     <dep name="dep">1</dep>
-    <dep name="det">4092</dep>
+    <dep name="det">4093</dep>
     <dep name="discourse">6</dep>
     <dep name="expl">289</dep>
-    <dep name="fixed">264</dep>
+    <dep name="fixed">263</dep>
     <dep name="flat">29</dep>
     <dep name="flat:foreign">2</dep>
     <dep name="flat:name">329</dep>
