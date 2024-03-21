@@ -1,6 +1,6 @@
 # Summary
 
-The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universidade da Coruña).
+The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universidade da Coruña) and at CiTIUS (Universidade de Santiago de Compostela).
 
 # Introduction
 
@@ -62,6 +62,13 @@ For more information, see Garcia, Marcos (2016), [Universal Dependencies Guideli
 * The dependency labels need to be reviewed by another expert to calculate inter-annotator agreement.
 
 # Changelog
+* 2024-04-21 v0.45:
+  * Correction of capitalized lemmas.
+  * Correction of UPOS and XPOS annotation in PROPN.
+  * Corrections of PROPN > NOUN annotations.
+  * Minor corrections of 'nmod' > 'nummod' dependencies.
+  * Minor corrections of 'flat', 'appos' and 'compound' dependencies.
+
 * 2019-03-26 v0.42:
   * Correction of AUX verbs and some others POS-tags.
   * Adaptation of copulative analysis to the latest UD guidelines.
@@ -72,7 +79,7 @@ For more information, see Garcia, Marcos (2016), [Universal Dependencies Guideli
   * 'orphan' dependency correction.
 
 * 2017-06-02 v0.4:
-  * POS-tags, morphological features and dependency relations adapted do UDv2.
+  * POS-tags, morphological features and dependency relations adapted to UDv2.
   * Multiword expressions expanded (previously as single tokens).
   * Complex proper nouns expanded (previously as single tokens).
   * General review.
@@ -91,8 +98,8 @@ UPOS: manual native
 XPOS: manual native
 Features: converted with corrections
 Relations: manual native
-Contributors: Garcia, Marcos
+Contributors: Garcia, Marcos; Sánchez-Rodríguez, Xulia
 Contributing: elsewhere
-Contact: marcos.garcia.gonzalez@udc.gal
+Contact: marcos.garcia.gonzalez@usc.gal
 ===============================================================================
 </pre>
