@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Galician-TreeGal:
-commit e186a1ccb027036e76ee1d62248714fbf38307b9
-Merge: 62f95bc ee8a7ae
+commit 897ab12f982d10fcee8fc194030620c3aca824a2
+Merge: 9eb6cef 1475a74
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 25548 of 25548 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.48111807139869.
@@ -15,18 +15,24 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 20036 out of 25548 total words have one or more features.
+Features: 19557 out of 25548 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL         80
-Udapi: found 80 bugs.
+               TOTAL         77
+Udapi: found 77 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 25548 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-TreeGal/gl_treegal-ud-test.conllu
+[Line 8443 Sent 705 Node 43]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 8442 Sent 705 Node 42]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+Warnings: 2
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-TreeGal/gl_treegal-ud-train.conllu
+[Line 4442 Sent 271 Node 19]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 4441 Sent 271 Node 18]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+Warnings: 2
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
@@ -35,8 +41,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.469118969161982) = 0.120286915169739
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
-(weight=0.307692307692308) * (score{udapi}=0.968686394238296) = 0.298057352073322
+(weight=0.307692307692308) * (score{udapi}=0.96986065445436) = 0.298418662909034
 (weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.744387233286027) * (availability=1) * (validity=1) = 0.744387233286027
+(TOTAL score=0.744748544121739) * (availability=1) * (validity=1) = 0.744748544121739
 STARS = 3.5
-UD_Galician-TreeGal	0.744387233286027	3.5
+UD_Galician-TreeGal	0.744748544121739	3.5
