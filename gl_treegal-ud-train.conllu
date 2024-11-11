@@ -4438,8 +4438,8 @@
 15	e	e	CCONJ	Cc	_	18	cc	_	_
 16	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	_
 17	está	estar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
-18	sub	sub	ADV	Wn	_	12	conj	_	_
-19	iudice	iudice	NOUN	Scfs	Gender=Fem|Number=Sing	18	flat:foreign	_	SpaceAfter=No
+18	sub	sub	X	Wn	Foreign=Yes	12	conj	_	_
+19	iudice	iudice	X	Scfs	Foreign=Yes	18	flat:foreign	_	SpaceAfter=No
 20	,	,	PUNCT	Q,	_	18	punct	_	_
 21	cando	cando	ADV	Wr	PronType=Rel	25	advmod	_	_
 22	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_

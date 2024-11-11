@@ -8439,8 +8439,8 @@
 39	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
 40	escritor	escritor	NOUN	Scms	Gender=Masc|Number=Sing	37	obl	_	_
 41	de	de	ADP	P	AdpType=Prep	42	case	_	_
-42	best	best	ADJ	A0ap	Gender=Com	40	nmod	_	_
-43	sellers	seller	NOUN	Scap	Gender=Com|Number=Plur	42	flat:foreign	_	SpaceAfter=No
+42	best	best	X	A0ap	Foreign=Yes	40	nmod	_	_
+43	sellers	seller	X	Scap	Foreign=Yes	42	flat:foreign	_	SpaceAfter=No
 44	.	.	PUNCT	Q.	_	5	punct	_	_
 
 # sent_id = 707
