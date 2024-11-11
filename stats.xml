@@ -15,14 +15,14 @@
   <fusions unique="301" /><!-- do, da, no, na, dos, ao, á, das, polo, nas, coa, nos, co, dun, pola -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">1722</tag><!-- galego, novo, político, grande, español, mellor, público, propio, social, económico -->
+    <tag name="ADJ">1721</tag><!-- galego, novo, político, grande, español, mellor, público, propio, social, económico -->
     <tag name="ADP">3821</tag><!-- de, en, a, por, con, para, sen, sobre, entre, desde -->
-    <tag name="ADV">1192</tag><!-- non, máis, como, tamén, moito, xa, así, aínda, agora, cando -->
+    <tag name="ADV">1191</tag><!-- non, máis, como, tamén, moito, xa, así, aínda, agora, cando -->
     <tag name="AUX">609</tag><!-- ser, estar, poder, ir, ter, deber, haber, vir, seguir, acabar -->
     <tag name="CCONJ">732</tag><!-- e, ou, nin, quer, i, máis -->
     <tag name="DET">4119</tag><!-- o, un, seu, este, ese, todo, outro, noso, moito, mesmo -->
     <tag name="INTJ">7</tag><!-- ha, ho, home, ouh, silencio, -->
-    <tag name="NOUN">4866</tag><!-- ano, obra, estado, goberno, traballo, dereito, cidade, estatuto, tempo, galego -->
+    <tag name="NOUN">4864</tag><!-- ano, obra, estado, goberno, traballo, dereito, cidade, estatuto, tempo, galego -->
     <tag name="NUM">267</tag><!-- primeiro, dous, un, catro, tres, segundo, cinco, dez, terceiro, 1990 -->
     <tag name="PRON">1372</tag><!-- que, se, o, lle, nos, este, el, un, ese, todo -->
     <tag name="PROPN">1191</tag><!-- galiza, bng, ferrol, prestige, vigo, manuel, pp, quixote, touriño, xosé -->
@@ -30,10 +30,10 @@
     <tag name="SCONJ">565</tag><!-- que, pero, como, se, porque, senón, mais, pois, coma, ca -->
     <tag name="SYM">6</tag><!-- %, /, manuelmaria@as-pg.com, podo, www.bng-galiza.org, www.novoestatuto.com -->
     <tag name="VERB">2379</tag><!-- ter, facer, haber, dar, dicir, querer, ver, pasar, falar, chegar -->
-    <tag name="X">8</tag><!-- etc, etc., zp -->
+    <tag name="X">12</tag><!-- etc, etc., best, iudice, seller, sub, zp -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="44">
+  <feats unique="45">
     <feat name="AdpType" value="Prep" upos="ADP">3812</feat><!-- de, en, a, por, con, para, sen, sobre, entre, desde -->
     <feat name="Case" value="Acc" upos="PRON">107</feat><!-- o, nos, lo, a, as, os, me, no, los, na -->
     <feat name="Case" value="Dat" upos="PRON">121</feat><!-- lle, nos, lles, me, che -->
@@ -43,16 +43,17 @@
     <feat name="Definite" value="Ind" upos="DET">460</feat><!-- un, unha, uns, unhas -->
     <feat name="Degree" value="Cmp" upos="ADJ">35</feat><!-- mellor, maior, maiores, peor, meirande, mellores, menor -->
     <feat name="Degree" value="Sup" upos="ADJ">5</feat><!-- máximo, altísimo, importantísima, máxima -->
-    <feat name="Gender" value="Com" upos="ADJ,NOUN,NUM,PRON">444</feat><!-- se, nos, que, me, quen, lle, eu, nós, nacionalistas, socialistas -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">5541</feat><!-- a, as, unha, que, súa, esta, galega, la, cidade, nosa -->
+    <feat name="Foreign" value="Yes" upos="X">4</feat><!-- best, iudice, sellers, sub -->
+    <feat name="Gender" value="Com" upos="ADJ,NOUN,NUM,PRON">442</feat><!-- se, nos, que, me, quen, lle, eu, nós, nacionalistas, socialistas -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">5540</feat><!-- a, as, unha, que, súa, esta, galega, la, cidade, nosa -->
     <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">6575</feat><!-- o, os, que, un, lo, seu, este, todo, anos, BNG -->
     <feat name="Gender" value="Neut" upos="PRON">33</feat><!-- iso, isto -->
     <feat name="Mood" value="Cnd,Ind" upos="AUX,VERB">45</feat><!-- sería, debería, tería, gustaría, podería, habería, poderían, Diría, Quedaría, correspondería -->
     <feat name="Mood" value="Imp" upos="VERB">2</feat><!-- Explica, Imaxina -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">1791</feat><!-- é, hai, ten, está, foi, son, pode, teñen, están, vai -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">175</feat><!-- sexa, fose, fagan, sexan, teña, diga, cumpran, estea, estivese, faga -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">3764</feat><!-- os, as, que, nos, anos, son, seus, todos, outros, galegos -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">10614</feat><!-- o, a, que, un, unha, é, súa, lo, hai, lle -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">3763</feat><!-- os, as, que, nos, anos, son, seus, todos, outros, galegos -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">10613</feat><!-- o, a, que, un, unha, é, súa, lo, hai, lle -->
     <feat name="Number[psor]" value="Plur" upos="DET,PRON">88</feat><!-- nosa, súa, seu, noso, súas, seus, nosos, nosas -->
     <feat name="Number[psor]" value="Sing" upos="DET,PRON">145</feat><!-- súa, seu, seus, súas, meu, miña, meus, sua -->
     <feat name="NumType" value="Card" upos="NUM">227</feat><!-- catro, dous, un, tres, dúas, cinco, dez, 1990, 21, 25 -->
