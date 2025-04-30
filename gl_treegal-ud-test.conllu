@@ -6282,7 +6282,7 @@
 13	actual	actual	ADJ	A0fs	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
 14	,	,	PUNCT	Q,	_	16	punct	_	_
 15	senón	senón	SCONJ	Cs	_	16	cc	_	_
-16	en	en	ADP	P	AdpType=Prep|ExtPos=ADV	20	advmod	_	_
+16	en	en	ADP	P	AdpType=Prep|ExtPos=ADV	9	advmod	_	_
 17	relación	relación	NOUN	Scfs	Gender=Fem|Number=Sing	16	fixed	_	_
 18	con	con	ADP	P	AdpType=Prep	16	fixed	_	_
 19	outras	outro	DET	Idfp	Gender=Fem|Number=Plur|PronType=Ind	20	det	_	_
@@ -9670,7 +9670,7 @@
 # text = É, sen dúbida, a arte máis misteriosa.
 1	É	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No
 2	,	,	PUNCT	Q,	_	3	punct	_	_
-3	sen	sen	ADP	P	AdpType=Prep|Polarity=Neg|ExtPos=ADV	7	advmod	_	_
+3	sen	sen	ADP	P	ExtPos=ADV|AdpType=Prep|Polarity=Neg	7	advmod	_	_
 4	dúbida	dúbida	NOUN	Scfs	Gender=Fem|Number=Sing	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	Q,	_	3	punct	_	_
 6	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -10790,7 +10790,7 @@
 30	nazismo	nazismo	NOUN	Scms	Gender=Masc|Number=Sing	27	obl	_	_
 31	propio	propio	ADJ	A0ms	Gender=Masc|Number=Sing	30	amod	_	SpaceAfter=No
 32	,	,	PUNCT	Q,	_	30	punct	_	_
-33	é	ser	AUX	Vpi30s	ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
+33	é	ser	AUX	Vpi30s	ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	advmod	_	_
 34	dicir	dicir	VERB	V0f000	VerbForm=Inf	33	fixed	_	_
 35	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
 36	franquismo	franquismo	NOUN	Scms	Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
@@ -11438,7 +11438,7 @@
 38-39	do	_	_	_	_	_	_	_	_
 38	de	de	ADP	P	AdpType=Prep	36	fixed	_	_
 39	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
-40	encontro	encontro	NOUN	Scms	Gender=Masc|Number=Sing	36	obl	_	_
+40	encontro	encontro	NOUN	Scms	Gender=Masc|Number=Sing	27	conj	_	_
 41-42	coa	_	_	_	_	_	_	_	_
 41	con	con	ADP	P	AdpType=Prep	43	case	_	_
 42	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_

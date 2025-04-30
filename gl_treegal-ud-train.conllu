@@ -922,7 +922,7 @@
 26	circulasen	circular	VERB	Ves30p	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	ccomp	_	_
 27	en	en	ADP	P	AdpType=Prep	28	case	_	_
 28	Cuba	cuba	PROPN	Sp00	_	26	obl	_	_
-29	en	en	ADP	P	AdpType=Prep|SCONJ	31	mark	_	_
+29	en	en	ADP	P	AdpType=Prep|ExtPos=SCONJ	31	mark	_	_
 30	canto	canto	ADV	Wn	_	29	fixed	_	_
 31	vivisemos	vivir	VERB	Ves10p	Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	26	advcl	_	_
 32-33	na	_	_	_	_	_	_	_	_
@@ -1133,7 +1133,7 @@
 # sent_id = 63
 # text = E nin sequera se lle ocorre pensar o evidente:
 1	E	e	CCONJ	Cc	_	6	mark	_	_
-2	nin	nin	CCONJ	Cc	Polarity=Neg|ExtPos=ADV	6	advmod	_	_
+2	nin	nin	CCONJ	Cc	ExtPos=ADV|Polarity=Neg	6	advmod	_	_
 3	sequera	sequera	ADV	Wn	_	2	fixed	_	_
 4	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	6	expl	_	_
 5	lle	lle	PRON	Rad3as	Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
@@ -3814,7 +3814,7 @@
 22	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	mantel	mantel	NOUN	Scms	Gender=Masc|Number=Sing	17	obl	_	_
 24-25	á	_	_	_	_	_	_	_	_
-24	a	a	ADP	P	AdpType=Prep|ExtPos=ADP	29	advmod	_	_
+24	a	a	ADP	P	AdpType=Prep|ExtPos=ADV	29	advmod	_	_
 25	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	fixed	_	_
 26	beira	beira	NOUN	Scfs	Gender=Fem|Number=Sing	24	fixed	_	_
 27-28	dun	_	_	_	_	_	_	_	_
@@ -3900,7 +3900,7 @@
 9	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	posición	posición	NOUN	Scfs	Gender=Fem|Number=Sing	8	obj	_	_
 11	inequívoca	inequívoco	ADJ	A0fs	Gender=Fem|Number=Sing	10	amod	_	_
-12	a	a	ADP	P	AdpType=Prep|ExtPos=ADP	16	advmod	_	_
+12	a	a	ADP	P	AdpType=Prep|ExtPos=ADV	16	advmod	_	_
 13	prol	prol	NOUN	Scas	Gender=Com|Number=Sing	12	fixed	_	_
 14-15	do	_	_	_	_	_	_	_	_
 14	de	de	ADP	P	AdpType=Prep	16	case	_	_
@@ -4472,7 +4472,7 @@
 7	dereito	dereito	NOUN	Scms	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	11	punct	_	_
 9	despois	despois	ADV	Wn	ExtPos=ADP	11	advmod	_	_
-10	de	de	ADP	P	AdpType=Prep	9	fixed	_	_
+10	de	de	ADP	P	AdpType=Prep	11	mark	_	_
 11	soportar	soportar	VERB	V0f000	VerbForm=Inf	6	advcl	_	_
 12	durante	durante	ADP	P	AdpType=Prep	14	case	_	_
 13	cincuenta	cincuenta	NUM	Ncdmp	Gender=Masc|Number=Plur|NumType=Card	14	nummod	_	_
@@ -8852,7 +8852,7 @@
 5	carreira	carreira	NOUN	Scfs	Gender=Fem|Number=Sing	3	obj	_	_
 6	en	en	ADP	P	AdpType=Prep	7	case	_	_
 7	Galicia	galicia	PROPN	Sp00	_	3	obl	_	_
-8	arredor	arredor	ADV	Wn	ExtPos=ADP	11	advmod	_	_
+8	arredor	arredor	ADV	Wn	ExtPos=ADV	11	advmod	_	_
 9	de	de	ADP	P	AdpType=Prep	8	fixed	_	_
 10	cen	cen	NUM	Ncdap	Gender=Com|Number=Plur|NumType=Card	11	nummod	_	_
 11	xornalistas	xornalista	NOUN	Scap	Gender=Com|Number=Plur	3	nsubj	_	SpaceAfter=No
@@ -9830,7 +9830,7 @@
 43	obxectivo	obxectivo	NOUN	Scms	Gender=Masc|Number=Sing	34	obl	_	_
 44	irónico	irónico	ADJ	A0ms	Gender=Masc|Number=Sing	43	amod	_	_
 45-46	ao	_	_	_	_	_	_	_	_
-45	a	a	ADP	P	AdpType=Prep|ExtPos=ADP	50	advmod	_	_
+45	a	a	ADP	P	AdpType=Prep|ExtPos=ADV	50	advmod	_	_
 46	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	fixed	_	_
 47	redor	redor	NOUN	Scms	Gender=Masc|Number=Sing	45	fixed	_	_
 48-49	das	_	_	_	_	_	_	_	_
@@ -14211,7 +14211,7 @@
 
 # sent_id = 763
 # text = Sen embargo, noutros lugares aínda se está loitando para que sexa valorada e para a xente moza continúa sendo difícil facer unha carreira concertística porque non hai tantos concertos e o nivel é altísimo.
-1	Sen	sen	ADP	P	AdpType=Prep|Polarity=Neg|ExtPos=ADV	10	advmod	_	_
+1	Sen	sen	ADP	P	ExtPos=ADV|AdpType=Prep|Polarity=Neg	10	advmod	_	_
 2	embargo	embargo	NOUN	Scms	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	10	punct	_	_
 4-5	noutros	_	_	_	_	_	_	_	_
@@ -16458,7 +16458,7 @@
 6	súa	seu	DET	Md3sfs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	exibición	exibición	NOUN	Scfs	Gender=Fem|Number=Sing	3	obl	_	_
 8	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-9	sen	sen	ADP	P	AdpType=Prep|Polarity=Neg|ExtPos=ADV	3	advmod	_	_
+9	sen	sen	ADP	P	ExtPos=ADV|AdpType=Prep|Polarity=Neg	3	advmod	_	_
 10	dúbida	dúbida	NOUN	Scfs	Gender=Fem|Number=Sing	9	fixed	_	_
 11	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 12	grande	grande	ADJ	A0fs	Gender=Fem|Number=Sing	13	amod	_	_
