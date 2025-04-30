@@ -4471,7 +4471,7 @@
 6	ten	ter	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	dereito	dereito	NOUN	Scms	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 8	,	,	PUNCT	Q,	_	11	punct	_	_
-9	despois	despois	ADV	Wn	ExtPos=ADP	11	advmod	_	_
+9	despois	despois	ADV	Wn	ExtPos=ADV	11	advmod	_	_
 10	de	de	ADP	P	AdpType=Prep	11	mark	_	_
 11	soportar	soportar	VERB	V0f000	VerbForm=Inf	6	advcl	_	_
 12	durante	durante	ADP	P	AdpType=Prep	14	case	_	_
