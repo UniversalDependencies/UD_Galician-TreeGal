@@ -1773,7 +1773,7 @@
 12	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	PSdeG-PSOE	psdeg-psoe	PROPN	Zgms	Gender=Masc|Number=Sing	9	conj	_	_
 14	tentaron	tentar	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-15	pór	pór	VERB	V0f000	ExtPos=VERB|VerbForm=Inf	14	xcomp	_	_
+15	pór	pór	VERB	V0f000	VerbForm=Inf	14	xcomp	_	_
 16	en	en	ADP	P	AdpType=Prep	15	fixed	_	_
 17	marcha	marcha	NOUN	Scfs	Gender=Fem|Number=Sing	15	fixed	_	_
 18	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -3379,7 +3379,7 @@
 13	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	16	obl	_	_
 15	rapidamente	rapidamente	ADV	Wn	_	16	advmod	_	_
-16	tomou	tomar	VERB	Vei30s	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
+16	tomou	tomar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
 17	nota	nota	NOUN	Scfs	Gender=Fem|Number=Sing	16	fixed	_	_
 18	López	lópez	PROPN	Sp00	_	16	nsubj	_	_
 19	Peña	peña	PROPN	Sp00	_	18	flat:name	_	SpaceAfter=No
@@ -3710,7 +3710,7 @@
 # sent_id = 209
 # text = Como ten que ser.
 1	Como	como	ADV	Wr	PronType=Rel	2	advmod	_	_
-2	ten	ter	AUX	Vpi30s	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ten	ter	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	Cs	_	2	fixed	_	_
 4	ser	ser	AUX	V0f000	VerbForm=Inf	2	fixed	_	SpaceAfter=No
 5	.	.	PUNCT	Q.	_	4	punct	_	_
@@ -4748,7 +4748,7 @@
 # text = Hai que ter en conta que a Lei de Costas de 1988 prevé que en 2018 remate a concesión non só de Celulosas, senón doutras moitas instalacións en situación semellante.
 1	Hai	haber	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 2	que	que	SCONJ	Cs	_	3	mark	_	_
-3	ter	ter	VERB	V0f000	ExtPos=VERB|VerbForm=Inf	0	root	_	_
+3	ter	ter	VERB	V0f000	VerbForm=Inf	0	root	_	_
 4	en	en	ADP	P	AdpType=Prep	3	fixed	_	_
 5	conta	conta	NOUN	Scfs	Gender=Fem|Number=Sing	3	fixed	_	_
 6	que	que	SCONJ	Cs	_	13	mark	_	_
@@ -5778,7 +5778,7 @@
 49	ben	ben	ADV	Wm	_	50	advmod	_	_
 50	recentemente	recentemente	ADV	Wn	_	52	advmod	_	_
 51	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	52	expl	_	_
-52	puxo	poñer	VERB	Vei30s	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	parataxis	_	_
+52	puxo	poñer	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	parataxis	_	_
 53	de	de	ADP	P	AdpType=Prep	52	fixed	_	_
 54	manifesto	manifesto	NOUN	Scms	Gender=Masc|Number=Sing	52	fixed	_	_
 55	a	a	ADP	P	AdpType=Prep|ExtPos=ADP	59	case	_	_
@@ -7224,7 +7224,7 @@
 9	serio	serio	ADJ	A0ms	Gender=Masc|Number=Sing	8	amod	_	_
 10	para	para	ADP	P	AdpType=Prep	11	mark	_	_
 11-12	facerlle	_	_	_	_	_	_	_	_
-11	facer	facer	VERB	V0f000	ExtPos=VERB|VerbForm=Inf	8	advcl	_	_
+11	facer	facer	VERB	V0f000	VerbForm=Inf	8	advcl	_	_
 12	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	fixed	_	_
 13	fronte	fronte	NOUN	Scfs	Gender=Fem|Number=Sing	11	fixed	_	_
 14-15	ao	_	_	_	_	_	_	_	_
@@ -12094,7 +12094,7 @@
 50	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	51	det	_	_
 51	analepses	analepse	NOUN	Scfp	Gender=Fem|Number=Plur	48	obj	_	_
 52	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	53	nsubj	_	_
-53	dan	dar	VERB	Vpi30p	ExtPos=VERB|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	51	acl	_	_
+53	dan	dar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	51	acl	_	_
 54	conta	conta	NOUN	Scfs	Gender=Fem|Number=Sing	53	fixed	_	_
 55-56	do	_	_	_	_	_	_	_	_
 55	de	de	ADP	P	AdpType=Prep	56	case	_	_
@@ -12882,7 +12882,7 @@
 1	João	joão	PROPN	Sp00	_	4	nsubj	_	_
 2	Pedro	pedro	PROPN	Sp00	_	1	flat:name	_	_
 3	Stedile	stedile	PROPN	Sp00	_	1	flat:name	_	_
-4	dá	dar	VERB	Vpi30s	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dá	dar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	conta	conta	NOUN	Scfs	Gender=Fem|Number=Sing	4	fixed	_	_
 6-7	da	_	_	_	_	_	_	_	_
 6	de	de	ADP	P	AdpType=Prep	4	fixed	_	_
@@ -13020,7 +13020,7 @@
 12	e	e	CCONJ	Cc	_	15	cc	_	_
 13	Manuel	manuel	PROPN	Sp00	_	15	nsubj	_	_
 14	Suárez	suárez	PROPN	Sp00	_	13	flat:name	_	_
-15	dá	dar	VERB	Vpi30s	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+15	dá	dar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 16	conta	conta	NOUN	Scfs	Gender=Fem|Number=Sing	15	fixed	_	_
 17-18	das	_	_	_	_	_	_	_	_
 17	de	de	ADP	P	AdpType=Prep	15	fixed	_	_
@@ -13654,7 +13654,7 @@
 17	por	por	ADP	P	AdpType=Prep	19	case	_	_
 18	estes	este	DET	Edmp	Gender=Masc|Number=Plur|PronType=Dem	19	det	_	_
 19	acertos	acerto	NOUN	Scmp	Gender=Masc|Number=Plur	20	obl	_	_
-20	pagou	pagar	VERB	Vei30s	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	ccomp	_	_
+20	pagou	pagar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	ccomp	_	_
 21	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	fixed	_	_
 22	pena	pena	NOUN	Scfs	Gender=Fem|Number=Sing	20	fixed	_	_
 23	ler	ler	VERB	V0f000	VerbForm=Inf	20	ccomp	_	_
