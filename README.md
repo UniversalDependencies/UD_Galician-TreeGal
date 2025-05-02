@@ -61,6 +61,7 @@ For more information, see Garcia, Marcos (2016), [Universal Dependencies Guideli
 * The morphological features of some tokens (analyzed as part of proper nouns in the original corpus) are not available.
 * The dependency labels need to be reviewed by another expert to calculate inter-annotator agreement.
 * Some fixed expressions do not follow exactly the UD guidelines: we include some semi-fixed expressions and non-decompsable idioms. This will be fixed in further versions.
+* Related to the previous issue (fixed) we include a non valid value (VERB) for the ExtPos feature.
 
 # Changelog
 * 2025-04-30 v0.46:
