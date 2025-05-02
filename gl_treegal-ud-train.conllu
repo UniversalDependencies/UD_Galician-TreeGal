@@ -14211,7 +14211,7 @@
 
 # sent_id = 763
 # text = Sen embargo, noutros lugares aínda se está loitando para que sexa valorada e para a xente moza continúa sendo difícil facer unha carreira concertística porque non hai tantos concertos e o nivel é altísimo.
-1	Sen	sen	ADP	P	ExtPos=ADV|AdpType=Prep|Polarity=Neg	10	advmod	_	_
+1	Sen	sen	ADP	P	AdpType=Prep|ExtPos=ADV|Polarity=Neg	10	advmod	_	_
 2	embargo	embargo	NOUN	Scms	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	10	punct	_	_
 4-5	noutros	_	_	_	_	_	_	_	_
@@ -14826,7 +14826,7 @@
 13	en	en	ADP	P	AdpType=Prep	14	case	_	_
 14	promoción	promoción	NOUN	Scfs	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 15	,	,	PUNCT	Q,	_	5	punct	_	_
-16	sen	sen	ADP	P	AdpType=Prep|Polarity=Neg|ExtPos=ADV	18	advmod	_	_
+16	sen	sen	ADP	P	AdpType=Prep|ExtPos=ADV|Polarity=Neg	18	advmod	_	_
 17	embargo	embargo	NOUN	Scms	Gender=Masc|Number=Sing	16	fixed	_	_
 18	toca	tocar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 19	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
@@ -16458,7 +16458,7 @@
 6	súa	seu	DET	Md3sfs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	exibición	exibición	NOUN	Scfs	Gender=Fem|Number=Sing	3	obl	_	_
 8	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-9	sen	sen	ADP	P	ExtPos=ADV|AdpType=Prep|Polarity=Neg	3	advmod	_	_
+9	sen	sen	ADP	P	AdpType=Prep|ExtPos=ADV|Polarity=Neg	3	advmod	_	_
 10	dúbida	dúbida	NOUN	Scfs	Gender=Fem|Number=Sing	9	fixed	_	_
 11	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 12	grande	grande	ADJ	A0fs	Gender=Fem|Number=Sing	13	amod	_	_
