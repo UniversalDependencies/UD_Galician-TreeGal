@@ -10,7 +10,7 @@ All the information except the syntactic one was semi-automatically converted to
 
 Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 60-40 splits (train-test).
 
-# Differences from the generic Galician guidelines
+# Specific guidelines and properties of Galician-TreeGal
 
 ## Morphology
 
