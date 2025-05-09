@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Galician-TreeGal:
-commit 032e268cfa75088d0f7f8de44c35b67ba1b67d2c
-Merge: 9226c58 884bf55
+commit 495f44564efc1a6c4775f393e05fc18b38efa4d7
+Merge: 157fb8f 3b3cef0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 25548 of 25548 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.48111807139869.
@@ -15,34 +15,46 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 19558 out of 25548 total words have one or more features.
+Features: 19621 out of 25548 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL         77
-Udapi: found 77 bugs.
+               TOTAL          3
+Udapi: found 3 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 25548 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-TreeGal/gl_treegal-ud-test.conllu
+[Line 2407 Sent 170 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'poñer en cuestión' does not have the 'ExtPos' feature
+[Line 3322 Sent 290 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'tiña en conta' does not have the 'ExtPos' feature
+[Line 4204 Sent 347 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'levou a cabo' does not have the 'ExtPos' feature
+[Line 4753 Sent 375 Node 16]: [L3 Warning fixed-without-extpos] Fixed expression 'terán lugar' does not have the 'ExtPos' feature
+[Line 6160 Sent 502 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'terá lugar' does not have the 'ExtPos' feature
+[Line 10426 Sent 870 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression 'pasar por alto' does not have the 'ExtPos' feature
+Warnings: 6
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-TreeGal/gl_treegal-ud-train.conllu
-[Line 6043 Sent 349 Node 26]: [L3 Warning leaf-det] 'det' not expected to have children (26:a:det --> 33:Estadio:nmod)
-[Line 11532 Sent 616 Node 24]: [L3 Warning leaf-det] 'det' not expected to have children (24:a:det --> 2:Asociación:nsubj)
-[Line 11763 Sent 624 Node 42]: [L3 Warning leaf-det] 'det' not expected to have children (42:a:det --> 46:xentes:nmod)
-[Line 12372 Sent 648 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Os:det --> 5:ponte:nmod)
-[Line 16801 Sent 906 Node 12]: [L3 Warning leaf-det] 'det' not expected to have children (12:o:det --> 17:aprendeu:advcl)
-Warnings: 5
+[Line 1776 Sent 101 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'pór en marcha' does not have the 'ExtPos' feature
+[Line 3382 Sent 174 Node 16]: [L3 Warning fixed-without-extpos] Fixed expression 'tomou nota' does not have the 'ExtPos' feature
+[Line 3713 Sent 209 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'ten que ser' does not have the 'ExtPos' feature
+[Line 4751 Sent 294 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'ter en conta' does not have the 'ExtPos' feature
+[Line 5781 Sent 341 Node 52]: [L3 Warning fixed-without-extpos] Fixed expression 'puxo de manifesto' does not have the 'ExtPos' feature
+[Line 7227 Sent 394 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'facer lle fronte' does not have the 'ExtPos' feature
+[Line 12097 Sent 634 Node 53]: [L3 Warning fixed-without-extpos] Fixed expression 'dan conta' does not have the 'ExtPos' feature
+[Line 12885 Sent 691 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'dá conta de' does not have the 'ExtPos' feature
+[Line 13023 Sent 699 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'dá conta de' does not have the 'ExtPos' feature
+[Line 13657 Sent 723 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'pagou a pena' does not have the 'ExtPos' feature
+Warnings: 10
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.469118969161982) = 0.120286915169739
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
-(weight=0.307692307692308) * (score{udapi}=0.96986065445436) = 0.298418662909034
+(weight=0.307692307692308) * (score{udapi}=0.998825739783936) = 0.307330996856596
 (weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.744748544121739) * (availability=1) * (validity=1) = 0.744748544121739
-STARS = 3.5
-UD_Galician-TreeGal	0.744748544121739	3.5
+(TOTAL score=0.753409495464977) * (availability=1) * (validity=1) = 0.753409495464977
+STARS = 4
+UD_Galician-TreeGal	0.753409495464977	4
