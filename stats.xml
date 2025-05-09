@@ -33,7 +33,7 @@
     <tag name="X">12</tag><!-- etc, etc., best, iudice, seller, sub, zp -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="45">
+  <feats unique="52">
     <feat name="AdpType" value="Prep" upos="ADP">3812</feat><!-- de, en, a, por, con, para, sen, sobre, entre, desde -->
     <feat name="Case" value="Acc" upos="PRON">107</feat><!-- o, nos, lo, a, as, os, me, no, los, na -->
     <feat name="Case" value="Dat" upos="PRON">121</feat><!-- lle, nos, lles, me, che -->
@@ -43,6 +43,13 @@
     <feat name="Definite" value="Ind" upos="DET">460</feat><!-- un, unha, uns, unhas -->
     <feat name="Degree" value="Cmp" upos="ADJ">35</feat><!-- mellor, maior, maiores, peor, meirande, mellores, menor -->
     <feat name="Degree" value="Sup" upos="ADJ">5</feat><!-- máximo, altísimo, importantísima, máxima -->
+    <feat name="ExtPos" value="ADJ" upos="ADP">2</feat><!-- en -->
+    <feat name="ExtPos" value="ADP" upos="ADJ,ADP,ADV,NOUN,VERB">42</feat><!-- a, fronte, en, dentro, arredor, cara, pese, respecto, Grazas, camiño -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,AUX,CCONJ,PRON">93</feat><!-- en, a, por, de, non, aínda, sen, Con, Ou, cando -->
+    <feat name="ExtPos" value="CCONJ" upos="ADP,ADV,CCONJ">8</feat><!-- e, ademais, así, aínda, nin, ou, por -->
+    <feat name="ExtPos" value="INTJ" upos="INTJ">1</feat><!-- ha -->
+    <feat name="ExtPos" value="PRON" upos="DET,PRON">2</feat><!-- cada, nada -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,SCONJ,VERB">34</feat><!-- aínda, por, de, en, xa, así, senón, Se, antes, ben -->
     <feat name="Foreign" value="Yes" upos="X">4</feat><!-- best, iudice, sellers, sub -->
     <feat name="Gender" value="Com" upos="ADJ,NOUN,NUM,PRON">442</feat><!-- se, nos, que, me, quen, lle, eu, nós, nacionalistas, socialistas -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">5540</feat><!-- a, as, unha, que, súa, esta, galega, la, cidade, nosa -->
@@ -84,7 +91,7 @@
   <deps unique="36">
     <dep name="acl">652</dep>
     <dep name="advcl">366</dep>
-    <dep name="advmod">1061</dep>
+    <dep name="advmod">1064</dep>
     <dep name="amod">1389</dep>
     <dep name="appos">103</dep>
     <dep name="aux">177</dep>
@@ -93,25 +100,25 @@
     <dep name="cc">791</dep>
     <dep name="ccomp">220</dep>
     <dep name="compound">25</dep>
-    <dep name="conj">1038</dep>
-    <dep name="cop">393</dep>
+    <dep name="conj">1037</dep>
+    <dep name="cop">392</dep>
     <dep name="csubj">45</dep>
     <dep name="dep">1</dep>
     <dep name="det">4094</dep>
     <dep name="discourse">6</dep>
     <dep name="expl">289</dep>
-    <dep name="fixed">263</dep>
+    <dep name="fixed">261</dep>
     <dep name="flat:foreign">2</dep>
     <dep name="flat:name">325</dep>
     <dep name="iobj">130</dep>
     <dep name="list">8</dep>
-    <dep name="mark">852</dep>
-    <dep name="nmod">2017</dep>
+    <dep name="mark">853</dep>
+    <dep name="nmod">2018</dep>
     <dep name="nsubj">1170</dep>
     <dep name="nsubj:pass">25</dep>
     <dep name="nummod">166</dep>
     <dep name="obj">1171</dep>
-    <dep name="obl">1298</dep>
+    <dep name="obl">1297</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">64</dep>
     <dep name="punct">2692</dep>

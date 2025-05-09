@@ -10,7 +10,7 @@ All the information except the syntactic one was semi-automatically converted to
 
 Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 60-40 splits (train-test).
 
-# Differences from the generic Galician guidelines
+# Specific guidelines and properties of Galician-TreeGal
 
 ## Morphology
 
@@ -60,8 +60,14 @@ For more information, see Garcia, Marcos (2016), [Universal Dependencies Guideli
 * There are a few tokens with blank spaces (telephone numbers: "xxx xxx xxx").
 * The morphological features of some tokens (analyzed as part of proper nouns in the original corpus) are not available.
 * The dependency labels need to be reviewed by another expert to calculate inter-annotator agreement.
+* Some fixed expressions do not follow exactly the UD guidelines: we include some semi-fixed expressions and non-decompsable idioms. This will be fixed in further versions.
+* Related to the previous issue (fixed) we include a non valid value (VERB) for the ExtPos feature.
 
 # Changelog
+* 2025-04-30 v0.46:
+  * Added ExtPos features for fixed expressions.
+  * Minor corrections.
+   
 * 2024-04-21 v0.45:
   * Correction of capitalized lemmas.
   * Correction of UPOS and XPOS annotation in PROPN.
@@ -98,7 +104,7 @@ UPOS: manual native
 XPOS: manual native
 Features: converted with corrections
 Relations: manual native
-Contributors: Garcia, Marcos; Sánchez-Rodríguez, Xulia
+Contributors: Garcia, Marcos; Sánchez-Rodríguez, Xulia; Sarymsakova, Albina
 Contributing: elsewhere
 Contact: marcos.garcia.gonzalez@usc.gal
 ===============================================================================
