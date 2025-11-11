@@ -99,6 +99,7 @@ Data available since: UD v1.4
 License: LGPL-LR
 Genre: news
 Includes text: yes
+Parallel: no
 Lemmas: manual native
 UPOS: manual native
 XPOS: manual native
