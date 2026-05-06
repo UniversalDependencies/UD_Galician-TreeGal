@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Galician-TreeGal:
-commit 86a3b9a7bb5eb5442da7cbd7aaedd09069d92e60
-Merge: 0b92244 f93add0
+commit c30c0367cf35f5630ee92b7eab6f6f13601fac24
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 19:28:18 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'gl_treegal'
 Language code (from CoNLL-U file name) = 'gl'
@@ -25,25 +25,25 @@ Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-TreeGal/gl_treegal-ud-test.conllu
-[Line 2407 Sent 170]: [L3 Warning fixed-without-extpos] Fixed expression 'poñer en cuestión' does not have the 'ExtPos' feature
-[Line 3322 Sent 290]: [L3 Warning fixed-without-extpos] Fixed expression 'tiña en conta' does not have the 'ExtPos' feature
-[Line 4204 Sent 347]: [L3 Warning fixed-without-extpos] Fixed expression 'levou a cabo' does not have the 'ExtPos' feature
-[Line 4753 Sent 375]: [L3 Warning fixed-without-extpos] Fixed expression 'terán lugar' does not have the 'ExtPos' feature
-[Line 6160 Sent 502]: [L3 Warning fixed-without-extpos] Fixed expression 'terá lugar' does not have the 'ExtPos' feature
-[Line 10426 Sent 870]: [L3 Warning fixed-without-extpos] Fixed expression 'pasar por alto' does not have the 'ExtPos' feature
+[Line 2407 Sent 170]: [L3 WARNING fixed-without-extpos] Fixed expression 'poñer en cuestión' does not have the 'ExtPos' feature
+[Line 3322 Sent 290]: [L3 WARNING fixed-without-extpos] Fixed expression 'tiña en conta' does not have the 'ExtPos' feature
+[Line 4204 Sent 347]: [L3 WARNING fixed-without-extpos] Fixed expression 'levou a cabo' does not have the 'ExtPos' feature
+[Line 4753 Sent 375]: [L3 WARNING fixed-without-extpos] Fixed expression 'terán lugar' does not have the 'ExtPos' feature
+[Line 6160 Sent 502]: [L3 WARNING fixed-without-extpos] Fixed expression 'terá lugar' does not have the 'ExtPos' feature
+[Line 10426 Sent 870]: [L3 WARNING fixed-without-extpos] Fixed expression 'pasar por alto' does not have the 'ExtPos' feature
 Warnings: 6
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-TreeGal/gl_treegal-ud-train.conllu
-[Line 1776 Sent 101]: [L3 Warning fixed-without-extpos] Fixed expression 'pór en marcha' does not have the 'ExtPos' feature
-[Line 3382 Sent 174]: [L3 Warning fixed-without-extpos] Fixed expression 'tomou nota' does not have the 'ExtPos' feature
-[Line 3713 Sent 209]: [L3 Warning fixed-without-extpos] Fixed expression 'ten que ser' does not have the 'ExtPos' feature
-[Line 4751 Sent 294]: [L3 Warning fixed-without-extpos] Fixed expression 'ter en conta' does not have the 'ExtPos' feature
-[Line 5781 Sent 341]: [L3 Warning fixed-without-extpos] Fixed expression 'puxo de manifesto' does not have the 'ExtPos' feature
-[Line 7227 Sent 394]: [L3 Warning fixed-without-extpos] Fixed expression 'facer lle fronte' does not have the 'ExtPos' feature
-[Line 12097 Sent 634]: [L3 Warning fixed-without-extpos] Fixed expression 'dan conta' does not have the 'ExtPos' feature
-[Line 12885 Sent 691]: [L3 Warning fixed-without-extpos] Fixed expression 'dá conta de' does not have the 'ExtPos' feature
-[Line 13023 Sent 699]: [L3 Warning fixed-without-extpos] Fixed expression 'dá conta de' does not have the 'ExtPos' feature
-[Line 13657 Sent 723]: [L3 Warning fixed-without-extpos] Fixed expression 'pagou a pena' does not have the 'ExtPos' feature
+[Line 1776 Sent 101]: [L3 WARNING fixed-without-extpos] Fixed expression 'pór en marcha' does not have the 'ExtPos' feature
+[Line 3382 Sent 174]: [L3 WARNING fixed-without-extpos] Fixed expression 'tomou nota' does not have the 'ExtPos' feature
+[Line 3713 Sent 209]: [L3 WARNING fixed-without-extpos] Fixed expression 'ten que ser' does not have the 'ExtPos' feature
+[Line 4751 Sent 294]: [L3 WARNING fixed-without-extpos] Fixed expression 'ter en conta' does not have the 'ExtPos' feature
+[Line 5781 Sent 341]: [L3 WARNING fixed-without-extpos] Fixed expression 'puxo de manifesto' does not have the 'ExtPos' feature
+[Line 7227 Sent 394]: [L3 WARNING fixed-without-extpos] Fixed expression 'facer lle fronte' does not have the 'ExtPos' feature
+[Line 12097 Sent 634]: [L3 WARNING fixed-without-extpos] Fixed expression 'dan conta' does not have the 'ExtPos' feature
+[Line 12885 Sent 691]: [L3 WARNING fixed-without-extpos] Fixed expression 'dá conta de' does not have the 'ExtPos' feature
+[Line 13023 Sent 699]: [L3 WARNING fixed-without-extpos] Fixed expression 'dá conta de' does not have the 'ExtPos' feature
+[Line 13657 Sent 723]: [L3 WARNING fixed-without-extpos] Fixed expression 'pagou a pena' does not have the 'ExtPos' feature
 Warnings: 10
 *** PASSED ***
 Validity: 1
